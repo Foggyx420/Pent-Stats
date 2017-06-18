@@ -1,3 +1,9 @@
+NOTES:
+* The PER in results file is the value you would multiply the total GRC rain supply for to get there amount
+* Ex: 5000GRC * 0.0025555555555 = there grc of the rain
+* 0.0025555555555 is 0.25555555555% of the pie. 
+* It is left this way for easy calculations of the rain.
+
 File:
 
 percents.results					Percentage for each CPID. Also contains GRC address.
