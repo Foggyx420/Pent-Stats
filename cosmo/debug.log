@@ -1,0 +1,30 @@
+dtcr Anom for id 11754 in cosmology14.json when compared to c15done.json results ended up in c14done.json minus this anom..
+dtcr Anom for id 11754 in cosmology13.json when compared to c14done.json results ended up in c13done.json minus this anom..
+dtcr Anom for id 11754 in cosmology12.json when compared to c13done.json results ended up in c12done.json minus this anom..
+dtcr Anom for id 11754 in cosmology11.json when compared to c12done.json results ended up in c11done.json minus this anom..
+dtcr Anom for id 11754 in cosmology10.json when compared to c11done.json results ended up in c10done.json minus this anom..
+dtcr Anom for id 11754 in cosmology09.json when compared to c10done.json results ended up in c09done.json minus this anom..
+dtcr Anom for id 11754 in cosmology08.json when compared to c09done.json results ended up in c08done.json minus this anom..
+dtcr Anom for id 11754 in cosmology07.json when compared to c08done.json results ended up in c07done.json minus this anom..
+dtcr Anom for id 11754 in cosmology06.json when compared to c07done.json results ended up in c06done.json minus this anom..
+dtcr Anom for id 11754 in cosmology05.json when compared to c06done.json results ended up in c05done.json minus this anom..
+dtcr Anom for id 11754 in cosmology04.json when compared to c05done.json results ended up in c04done.json minus this anom..
+dtcr Anom for id 11754 in cosmology03.json when compared to c04done.json results ended up in c03done.json minus this anom..
+dtcr Anom for id 11754 in cosmology02.json when compared to c03done.json results ended up in c02done.json minus this anom..
+dtcr Anom for id 1461411 in cosmology02.json when compared to c03done.json results ended up in c02done.json minus this anom..
+dtcr Anom for id 11754 in cosmology01.json when compared to c02done.json results ended up in c01done.json minus this anom..
+dtcr Anom for id 108452 in cosmology01.json when compared to c02done.json results ended up in c01done.json minus this anom..
+dtcr Anom for id 1461411 in cosmology01.json when compared to c02done.json results ended up in c01done.json minus this anom..
+
+11754 is not on team gridcoin and has no valid beacon
+1461411 is not in team gridcoin but is in team pool.gridcoin.co also has no valid beacon as its over 2 months expired. this user mines for the pool as they didnt have a good balance
+
+108452 is in team gridcoin and has a valid beacon hes in 01 and 02 file. he may of changed off team gridcoin for some reason or if not there is not much we can do about this. give him what we can.
+
+02 file = 149824.31598301194
+01 file = 21489.810224291887
+----------------------------
+Diff      128334.505758720053
+
+I've added him manually. I find it strange he is not in the last days. if its a boinc server error there is nothing we can do.
+
