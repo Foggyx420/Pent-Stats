@@ -13,7 +13,7 @@ Percentage for each CPID. Also contains GRC address.
 Log actively showing the percentage calculation.
 
 * sort.log
-Sorts through CPIDs. Finds invalid cpids and dumps them. Also finds valid cpids without a any difference of credit and dumps them.
+Sorts through CPIDs. Finds invalid cpids and dumps them. Also finds valid cpids without any difference of credit and dumps them.
 
 * *invalid.dump	
 CPIDs with no beacons
