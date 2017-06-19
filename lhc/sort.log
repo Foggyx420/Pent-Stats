@@ -1,0 +1,1695 @@
+Note: Even with a valid cpid if they have 0 difference of credit from end to beginning they will be in the invalid list
+(Good: 1 - Bad: 0 /\ CPID: 5f72c050e6113cfbfcc964bd5eddd359 / DIFF: 3719.94626428256 / VALID: true / GRC: S7CMFmkvGc6v1j9D18hKdhMi7goH9CSGs8
+(Good: 2 - Bad: 0 /\ CPID: 77e8b5f5fe415a06ddc0f23d0b612715 / DIFF: 0 / VALID: true / GRC: S7CnSpzBYqu5LtUezcUz6kHPqS1Zo7f4sj
+(Good: 3 - Bad: 0 /\ CPID: 32ee2ae7b68222ff8cc83b39a35d52d4 / DIFF: 5685.6975435059 / VALID: true / GRC: S4sYQpmALHkNHhFXSpqSaRLxc1Mkga3pL7
+(Good: 4 - Bad: 0 /\ CPID: fb3f0673803f915287cd5ac3a3394e66 / DIFF: 18187.7927892753 / VALID: true / GRC: S27X58jCXLZTasa3VbWb1UpGgnBXv35x2K
+(Good: 4 - Bad: 1 /\ CPID: 596106683b12334db4c8d304b6a43b6e / DIFF: 0 / VALID: false / GRC: 
+(Good: 5 - Bad: 1 /\ CPID: 85be57213377e46e558e180e45e94e00 / DIFF: 0 / VALID: true / GRC: SAcVtr4JiYCdNDQ3pEHMaQfCbpABYqwtcV
+(Good: 6 - Bad: 1 /\ CPID: f6a049ded40fac6fd292c2a12114f606 / DIFF: 0 / VALID: true / GRC: SD9g7tiop96zUiedVo3a7nnQcCD1euzCtr
+(Good: 7 - Bad: 1 /\ CPID: 049144b3fb2e414f5d122a2807066342 / DIFF: 5773.1567108680 / VALID: true / GRC: SCbg6eieRWdTgwjwPz2BocBpcVaAMHbHJQ
+(Good: 7 - Bad: 2 /\ CPID: caa022ff27a65fa175784c13c25cc380 / DIFF: 1.879868491704 / VALID: false / GRC: 
+(Good: 7 - Bad: 3 /\ CPID: f8e5e57ec2981a58e49025bc13ac2451 / DIFF: 0 / VALID: false / GRC: 
+(Good: 7 - Bad: 4 /\ CPID: 46feb6362278e843ca5cf8697474ab0c / DIFF: 0 / VALID: false / GRC: 
+(Good: 8 - Bad: 4 /\ CPID: 154ee375de9d845455e79c94e1586f82 / DIFF: 36273.3587032615 / VALID: true / GRC: S7kwSrt84UKMemrsRFLh3sbspd5SPM3reR
+(Good: 9 - Bad: 4 /\ CPID: 374c61cfad513f44440f8d1df24b3488 / DIFF: 13558.98804807843 / VALID: true / GRC: SLSnUotcUTf5eqJPq55J31z2n8K8vXXSxE
+(Good: 10 - Bad: 4 /\ CPID: 9d88de6ad21612828f03e30c5f261b1f / DIFF: 1582.33560303603 / VALID: true / GRC: S8u9SMzMNEirZkdH9iVtzerKuEP1LrDo8R
+(Good: 11 - Bad: 4 /\ CPID: 663fe6b7010ad83e4d056f00629df188 / DIFF: 1447.5731103948 / VALID: true / GRC: SDaLa65YbKGRmZHUKEm2RqbJEse3PuWLdC
+(Good: 11 - Bad: 5 /\ CPID: a843eef97fa0a871401685cebf132a59 / DIFF: 0 / VALID: false / GRC: 
+(Good: 11 - Bad: 6 /\ CPID: 19c33cdfe8a965f8f09fc58410f7eb2d / DIFF: 0 / VALID: false / GRC: 
+(Good: 12 - Bad: 6 /\ CPID: b7c805f71ca6f268ad3ae0aaa450de9f / DIFF: 4381.908459951530 / VALID: true / GRC: SCuXkPcQi7ShmyC4aTL6BBHiHXuY4oK1BN
+(Good: 13 - Bad: 6 /\ CPID: e64c6f0a50af958349a03ee08ab178f7 / DIFF: 2371.46693090370 / VALID: true / GRC: SA4WWxoKZmgyjccAasbRPpyMWYCSnkprby
+(Good: 14 - Bad: 6 /\ CPID: b1fc8162e7d4c87a9f3f02657c2a6ccb / DIFF: 30998.5541770500 / VALID: true / GRC: S9ZZoiPAiWzy6VzpJHEcCZRdnZsXvaXTQp
+(Good: 15 - Bad: 6 /\ CPID: d2ba1846426099335fd80b6014e92fb9 / DIFF: 1264.12136552796 / VALID: true / GRC: RzoahUY8Npx4MSgNBiVmaQaEKKrcBuEwGv
+(Good: 16 - Bad: 6 /\ CPID: b62cee6d4f1807941bee1bc80cc36aaa / DIFF: 7351.51641624197 / VALID: true / GRC: SECo5VsxhenZcG8vhdnhgigggrzPt7t6vS
+(Good: 17 - Bad: 6 /\ CPID: f6a5fdbf4e0742e13e3937b68ed76739 / DIFF: 0 / VALID: true / GRC: SBXxZYuYbJQE1ft5DWqtvbTAmLefMvciZZ
+(Good: 18 - Bad: 6 /\ CPID: 07becb67d38a9e39dc86143eb7accffe / DIFF: 0 / VALID: true / GRC: S6jie7N7khTessUDs3g8LsiCugL4GkFtWf
+(Good: 19 - Bad: 6 /\ CPID: 518b20dcc7217d02bb484d7e24015266 / DIFF: 0 / VALID: true / GRC: SDDmcA4Dq74kq7ymEHmBTbQwfgZAdL4xAG
+(Good: 20 - Bad: 6 /\ CPID: 3e4e5ee66e0105c11dff0eed0519cf2f / DIFF: 4561.25006431827 / VALID: true / GRC: RyC3s94z9MXQEisaWK9WgFzxd7ZwDXuXEB
+(Good: 20 - Bad: 7 /\ CPID: 49f5d6ae6795dc13de42bc56af591a42 / DIFF: 0 / VALID: false / GRC: 
+(Good: 21 - Bad: 7 /\ CPID: 8f6c3ee5d5bb28b38993a36bbba99951 / DIFF: 5001.2469026405 / VALID: true / GRC: SDzScqMKM8RJvrr6LAmKxXg5P5sMijHinZ
+(Good: 21 - Bad: 8 /\ CPID: 5313597a4f56db0d444dc8c7fed29956 / DIFF: 9575.1105833648 / VALID: false / GRC: 
+(Good: 22 - Bad: 8 /\ CPID: b3962db8b6cc4036363dfe5ae7275db9 / DIFF: 0 / VALID: true / GRC: Rzx7rVRzmtpJEL2SGGryMF369hMKywXefr
+(Good: 23 - Bad: 8 /\ CPID: 3a5347cb3eff4154cdf5845768f9ee2a / DIFF: 0 / VALID: true / GRC: S64ropv9B4ZfQ63ZusLtJHv7FGkmKYEGbC
+(Good: 24 - Bad: 8 /\ CPID: bfd4e6e64a9f79fd8fd01c6c4e770c81 / DIFF: 59134.83411272764 / VALID: true / GRC: S32PircgZBHGdUo7CTJrcfm9uM2WsimPxW
+(Good: 24 - Bad: 9 /\ CPID: 3ffa93870242cb637e9f3e49f5a454ac / DIFF: 0 / VALID: false / GRC: 
+(Good: 24 - Bad: 10 /\ CPID: 2419fb27eba52ae5972930cf1125e276 / DIFF: 0 / VALID: false / GRC: 
+(Good: 24 - Bad: 11 /\ CPID: 31500abb2d02a97086f171e698a1ee1f / DIFF: 0 / VALID: false / GRC: 
+(Good: 24 - Bad: 12 /\ CPID: 5c7ca6d651690c24fa3d937f182b194f / DIFF: 1413.60021044629 / VALID: false / GRC: 
+(Good: 25 - Bad: 12 /\ CPID: 94caecac9ba0a36e7491227096e11d3c / DIFF: 1548.6330500263 / VALID: true / GRC: S8vtgtSVkvZdGujbXxvXB9ftJq9uCj1Gps
+(Good: 25 - Bad: 13 /\ CPID: 4069d9cfc42f45b431a64dec4e2e7453 / DIFF: 9273.859046564336 / VALID: false / GRC: 
+(Good: 26 - Bad: 13 /\ CPID: f34b4767ef9b5944a3c392ed4e69a7a0 / DIFF: 9452.57190606877 / VALID: true / GRC: SEzuXXWyYXzox63NobXs1AAYHZoRr4NSv4
+(Good: 27 - Bad: 13 /\ CPID: b0062d7045aec470cbe3da4df4e68fd7 / DIFF: 0 / VALID: true / GRC: SCf7npGZktFXQcrE3KkD9i8PizLdmTGfHz
+(Good: 27 - Bad: 14 /\ CPID: 8f373c16ae13fa0d3206b92a945367a2 / DIFF: 5087.6572357080 / VALID: false / GRC: 
+(Good: 27 - Bad: 15 /\ CPID: 1176d3d4729c3f3dcde0cf6c8ee54f4f / DIFF: 0 / VALID: false / GRC: 
+(Good: 28 - Bad: 15 /\ CPID: 1963a6f109ea770c195a0e1afacd2eba / DIFF: 47876.616784601 / VALID: true / GRC: S6jYuNcyNt4st5no8hA3MkKtMExTAefTDE
+(Good: 29 - Bad: 15 /\ CPID: 971aec11f505cd8674a9bc1a2089457e / DIFF: 0 / VALID: true / GRC: S1uojWEYfVCt4iFawVdvzLqEwbcTAvq3nr
+(Good: 30 - Bad: 15 /\ CPID: 9ac6e23644ff714535b4fc5d32addcf3 / DIFF: 0 / VALID: true / GRC: RyeMxsZFurr2c5PWRF2hZMjo4wz2HMVNsF
+(Good: 31 - Bad: 15 /\ CPID: bff460f47717e7c1835843fdafd4a278 / DIFF: 1317.91290663226 / VALID: true / GRC: SJFcRHuhdKDDu4ZuxRzUdnHmpapD5vuDsu
+(Good: 31 - Bad: 16 /\ CPID: a4045f5377fecc736cb05d4e63ffb7ad / DIFF: 0 / VALID: false / GRC: 
+(Good: 32 - Bad: 16 /\ CPID: 495ab3a5de85166ef3ecb6f4f638cd29 / DIFF: 107.72083348729 / VALID: true / GRC: S8EfYECdyvqsCdKV6bSDsrWWp1sQ14GhvQ
+(Good: 32 - Bad: 17 /\ CPID: 48a131694c3de0052a059e6eebd61d9f / DIFF: 0 / VALID: false / GRC: 
+(Good: 32 - Bad: 18 /\ CPID: c84efa02986a3cd8fb125b0b8d9b5943 / DIFF: 0 / VALID: false / GRC: 
+(Good: 33 - Bad: 18 /\ CPID: 94f5685db91571dc9427c8bcc5e18570 / DIFF: 14408.82071208430 / VALID: true / GRC: SHprjTDthBXde1nHMcGp6sf44TFnQ3h6Qp
+(Good: 33 - Bad: 19 /\ CPID: c69312028529f015e496b8e2e93a497a / DIFF: 0 / VALID: false / GRC: 
+(Good: 34 - Bad: 19 /\ CPID: a0dba220e74db1d608f69035157be40e / DIFF: 0 / VALID: true / GRC: S1eDFSPN3yjxYLnXPrTAdoA3nQR3e5FYY6
+(Good: 35 - Bad: 19 /\ CPID: 2e2d8005f09feef6ecd400aedfd9cf82 / DIFF: 1443.41205648728 / VALID: true / GRC: SA9mro9dLNccMWzBAPdqm3DPT1NDJMiKjP
+(Good: 36 - Bad: 19 /\ CPID: 90693a20a36b40096861e10bd54c9c6f / DIFF: 0 / VALID: true / GRC: S52mQoDQrBvDyki6XJ39wwchZsazmDFyfw
+(Good: 37 - Bad: 19 /\ CPID: b837ffae734b258adde58c5ba921fc0b / DIFF: 92103.4689419213 / VALID: true / GRC: SK6SjhRGtes5typ2MHJBJCtsF1bNz49rUd
+(Good: 38 - Bad: 19 /\ CPID: 44171557b5c9afd6271e52ac0e0393ee / DIFF: 20244.7941524498 / VALID: true / GRC: RyLPL9ASadMhVa3Ht4y5eUV64e4fet15KN
+(Good: 38 - Bad: 20 /\ CPID: 3c264eb34d9983e0979e9bae73afc8ad / DIFF: 0 / VALID: false / GRC: 
+(Good: 39 - Bad: 20 /\ CPID: ecb69bde73ada9a091cc98621d6c99d6 / DIFF: 0 / VALID: true / GRC: S8u8xWC4L5N53VgNbjfe2qKiXixeUjL1TF
+(Good: 40 - Bad: 20 /\ CPID: 4563338e20bb2bc44d6ea9dc28bb70f9 / DIFF: 18.090532959134 / VALID: true / GRC: S93DtmuBTqQp7pCBQwY4ZWvpTkbMfzXYcR
+(Good: 40 - Bad: 21 /\ CPID: 31a9906481de3f8055e8341bfe085f36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 40 - Bad: 22 /\ CPID: 8cfd5c4383276d0ad86a8ec7263eb8d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 41 - Bad: 22 /\ CPID: 16343a0f41ad37bb35a80e81bc97ef8c / DIFF: 0 / VALID: true / GRC: S1KhrP6htzxpWXQH2GHLDBQFpo2oTo3Sa8
+(Good: 42 - Bad: 22 /\ CPID: 82b97f9b6fe3c08af41b47f1a3a1a545 / DIFF: 2696.95351977827 / VALID: true / GRC: RzEnqWpCaPgYkwEHorKhWZ5sGFt3aRKs6n
+(Good: 42 - Bad: 23 /\ CPID: 69120fc386803fa14fd5a5d21694a37e / DIFF: 0 / VALID: false / GRC: 
+(Good: 42 - Bad: 24 /\ CPID: 1d083a837675e7b411b0b139fef69da0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 43 - Bad: 24 /\ CPID: c4b0aabb0caebb594b1da76618f40146 / DIFF: 9233.41703836940 / VALID: true / GRC: S5Gmj1aWqAjrak2zPKBrHKnFpCvRuGQQbB
+(Good: 44 - Bad: 24 /\ CPID: 0252e7c76355a745a1f45c7b0ce56052 / DIFF: 0 / VALID: true / GRC: S12ZdLGJzmNQmkU8VdRon2nQzzGwuUeowU
+(Good: 44 - Bad: 25 /\ CPID: 2334d5eb6b2a02176847e7bf95deedae / DIFF: 1171.435287665 / VALID: false / GRC: 
+(Good: 44 - Bad: 26 /\ CPID: caf6943a4de364d41ad5c13e7732f89d / DIFF: 1609.183743370930 / VALID: false / GRC: 
+(Good: 44 - Bad: 27 /\ CPID: e8a2837f98946dd4ae1212d16b6fda69 / DIFF: 0 / VALID: false / GRC: 
+(Good: 45 - Bad: 27 /\ CPID: 0180d21299ca17267b6cf734c9d05884 / DIFF: 0 / VALID: true / GRC: S4TnwL8B96ZYunmfPtZFpEJLaQW2Bsad2g
+(Good: 46 - Bad: 27 /\ CPID: 4a7d815d29be5adc1b7052f465f0d1ea / DIFF: 65492.56405857270 / VALID: true / GRC: SMDNh4thDHrAyN2iTeHNjaM18vvp5RBjVw
+(Good: 47 - Bad: 27 /\ CPID: 4c1bf31edc8a857d51c6aca84ad2de96 / DIFF: 0 / VALID: true / GRC: S8VpWvFtxp1UiZf22vidAq7a1H1YJcT83d
+(Good: 48 - Bad: 27 /\ CPID: 0cd7082d3d231f5b24adc4843103f44a / DIFF: 16642.51152108209 / VALID: true / GRC: RyLdPL6KGyvy75iaydF1VqBmJP8SEyRmUs
+(Good: 49 - Bad: 27 /\ CPID: 870405e5518dc80048a6ddad44d86660 / DIFF: 1.872005725146 / VALID: true / GRC: S7P3Hc8xtk9V5aqpdDhBfYWNYPtLVzQsGi
+(Good: 49 - Bad: 28 /\ CPID: 30595e5e9b3f62c7d5d46e19417ffa9f / DIFF: 477.519457839477 / VALID: false / GRC: 
+(Good: 50 - Bad: 28 /\ CPID: 4c0eb661ed67994e9229e785dc5312ec / DIFF: 0 / VALID: true / GRC: RxRg6njpnum8KjtTNmZX8DPpL6JJHXsfXU
+(Good: 50 - Bad: 29 /\ CPID: b4c78f4aea8fb194fcf85c26c1e6f7c6 / DIFF: 6402.67408974382 / VALID: false / GRC: 
+(Good: 51 - Bad: 29 /\ CPID: 2455f1603c87d1590208c873f783b651 / DIFF: 0 / VALID: true / GRC: SAgA15vvPSHJ6qjVFjpwwWX8LKZXntJWSD
+(Good: 52 - Bad: 29 /\ CPID: 661acb02264b8d5c129fa3c5103b52fb / DIFF: 972.648347518613 / VALID: true / GRC: SAhcEnMejzr3f5RVxMoQ2X3DahjjNHpWeM
+(Good: 53 - Bad: 29 /\ CPID: a3a40e2aac773f6559941a93dbf84b0c / DIFF: 1126.81532551518 / VALID: true / GRC: SDYkfUGtSN2R35ZhrQiyLrFKMqTuzDyjNo
+(Good: 53 - Bad: 30 /\ CPID: 55290d37a92dea0ff5c7f90e70d9a84b / DIFF: 0 / VALID: false / GRC: 
+(Good: 54 - Bad: 30 /\ CPID: fdc7e04c70a57f8963fb823f619e8964 / DIFF: 0 / VALID: true / GRC: SKNLgpKfQdCERZCr4WfJ6Pk7ETDdKimGko
+(Good: 55 - Bad: 30 /\ CPID: f7478106736d348e0a65cc8e7b612d4c / DIFF: 0 / VALID: true / GRC: SCsU4LrBw4DYi7g62VC4R695DbgonWkBfH
+(Good: 56 - Bad: 30 /\ CPID: c221afcea04a7bc843220c564c0166ca / DIFF: 0 / VALID: true / GRC: SDHkR4SpvT9FrGVKqZYj6zQjbsJ76saTV2
+(Good: 57 - Bad: 30 /\ CPID: cccb82cacfc5ae2141b841dfde457cee / DIFF: 20579.3568383814930 / VALID: true / GRC: SAHijFGd9hmkXxKfzSPKSitfhmpWc3eGWH
+(Good: 58 - Bad: 30 /\ CPID: 00bcd811d3f0ba9970189c7ffcb1f727 / DIFF: 0 / VALID: true / GRC: S1X4rpUFj5MxMWruqz1pCPbCXb6crPTPwn
+(Good: 58 - Bad: 31 /\ CPID: 916bd4504bde4194772292944c9d0bc7 / DIFF: 101.25548110661114 / VALID: false / GRC: 
+(Good: 58 - Bad: 32 /\ CPID: e288e80bdabed1e611d296028b6ce870 / DIFF: 0 / VALID: false / GRC: 
+(Good: 58 - Bad: 33 /\ CPID: 0eaaadc3d9be56100bc82a5027da56ec / DIFF: 2234.8257836462 / VALID: false / GRC: 
+(Good: 59 - Bad: 33 /\ CPID: b858fcb0f02d895e8e9b7267db3600b7 / DIFF: 14212.0332356400 / VALID: true / GRC: SCyVDDVVV12rTuXwh9uxvnXFjc6ezXJ7PR
+(Good: 59 - Bad: 34 /\ CPID: 83afc86ea814d9356c4ee02a233c2bc9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 59 - Bad: 35 /\ CPID: c67c359824d461d4277c513c35834b88 / DIFF: 0 / VALID: false / GRC: 
+(Good: 60 - Bad: 35 /\ CPID: 6e22d722d4f2a68b69b1de8bae5a92f3 / DIFF: 0 / VALID: true / GRC: RxUCXWHPZdmB4MVHWZE9Pv7rJWgA4v65t6
+(Good: 61 - Bad: 35 /\ CPID: eb3e92107e6ee293fd7b9f4490e5c232 / DIFF: 72508.4394519306 / VALID: true / GRC: S8CiGUyvY3s9yorn3XcEMhr5NnEkypYTjL
+(Good: 62 - Bad: 35 /\ CPID: 07065b315ac186d42fbe2e5ef734b7cb / DIFF: 16014.85190363956 / VALID: true / GRC: S1AFcsQYRRajrm9jtn4NyZKmkdw2jjk3v6
+(Good: 63 - Bad: 35 /\ CPID: 7a914235a608c65081b80c042d791e62 / DIFF: 643.266973197781 / VALID: true / GRC: RxBKfuYrQ13AcLrA23tpEBBYUcxQkPdhWK
+(Good: 64 - Bad: 35 /\ CPID: 0b3e9507b7e91d1ae13ca41262fee609 / DIFF: 27539.710454797 / VALID: true / GRC: RxLKY8VkYgfVmrjPJrpic7gv8eDpkxUCNa
+(Good: 64 - Bad: 36 /\ CPID: 4f31e26a32c5dc58cb3505b1d75612d9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 65 - Bad: 36 /\ CPID: 7405df90cf38e7f7ee1b38a6990a809a / DIFF: 9455.8350035667 / VALID: true / GRC: RyPX7Y7AHsk6MHtEvvUYEogss2u53sXGET
+(Good: 66 - Bad: 36 /\ CPID: ee0737bd4e0ca6955ac8fd75eeae34ae / DIFF: 17418.98712344600 / VALID: true / GRC: S53uZh9v86hH9Yu6en3dhgRazaJJHS48k8
+(Good: 67 - Bad: 36 /\ CPID: bacc31c85bf4a107ee960dd9440cc2b9 / DIFF: 0 / VALID: true / GRC: S4gRdCrrN7u8zCSwsdhjbmN77ppqUv5Njs
+(Good: 67 - Bad: 37 /\ CPID: 2336ec2180f38f3ed2d3c8cbf474b44e / DIFF: 0 / VALID: false / GRC: 
+(Good: 68 - Bad: 37 /\ CPID: 302d89b28edc27fd02fabace737a1bab / DIFF: 0 / VALID: true / GRC: SLxHcxDoJq94fGseFe38kEcprLmhkhbZrg
+(Good: 69 - Bad: 37 /\ CPID: 59900fe7ef44fe33aa2afdf98301ec1c / DIFF: 0 / VALID: true / GRC: SAdmk4FvJuLYhvi1dkK88Q1bFaYtA464eH
+(Good: 70 - Bad: 37 /\ CPID: b11e1383a0ca8efdc01343b4787456f3 / DIFF: 0 / VALID: true / GRC: SDz4YcoTmQqF5X6rq1gPGpjGkYXt7aN1Qg
+(Good: 71 - Bad: 37 /\ CPID: b2f5c7f5f3fb4f4d3ea014123d4386bb / DIFF: 0 / VALID: true / GRC: SDkqy8RPWyDhTMJV92jyRkVYwSzXGSjxN2
+(Good: 71 - Bad: 38 /\ CPID: 3033924534a6a24960940387383f06c5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 72 - Bad: 38 /\ CPID: eff724ef3f568039248fbfedb2643b67 / DIFF: 11923.1757664381 / VALID: true / GRC: S1n4spAbwavRpR2nCH8eKmZUL8bjKdsp9G
+(Good: 73 - Bad: 38 /\ CPID: e5d98ef2203fa1d1de8a6c618d4012e5 / DIFF: 5763.10481383736 / VALID: true / GRC: S8pwjxmc7xLTF9p6hneAykXW2sJzeGcJER
+(Good: 73 - Bad: 39 /\ CPID: 265f995a78caddf35ae9e01ca9e4fc9f / DIFF: 0 / VALID: false / GRC: 
+(Good: 73 - Bad: 40 /\ CPID: 1ece089a141aab712b5271e3e83ad5c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 74 - Bad: 40 /\ CPID: f1cda4e1a3da3b73bbe257ae33016789 / DIFF: 1962.038722126860 / VALID: true / GRC: SDvAhggdoTnR9EVsrpprtQ5ydwmQ2QDrUt
+(Good: 74 - Bad: 41 /\ CPID: 8bdedfc3962a6a436c68514327d9f09b / DIFF: 0 / VALID: false / GRC: 
+(Good: 74 - Bad: 42 /\ CPID: 11ebf3fb7219c0c46b6bfcb166144c4a / DIFF: 0 / VALID: false / GRC: 
+(Good: 74 - Bad: 43 /\ CPID: 6e06012c2857345f5ed0e20f547ef9e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 75 - Bad: 43 /\ CPID: 3081ff717f5e91cd0b47da5349bda89d / DIFF: 23.0957122295 / VALID: true / GRC: S4wRPvKsaUhwWYYifAhjUa96S3WTQgnGRA
+(Good: 75 - Bad: 44 /\ CPID: f4a4842ebdec8d7b3c67073481aad255 / DIFF: 0 / VALID: false / GRC: 
+(Good: 76 - Bad: 44 /\ CPID: a52565441ccda35464cf0d37fc9074f2 / DIFF: 0 / VALID: true / GRC: S3bMGRmQkykgFEpMbn1jYMoQBCneJoSBk9
+(Good: 76 - Bad: 45 /\ CPID: bed507f3a0c9e1d3c1f306b7987cfb0e / DIFF: 0 / VALID: false / GRC: 
+(Good: 76 - Bad: 46 /\ CPID: 9d1241a52bc8c7b7580ca3a3f337d7db / DIFF: 0 / VALID: false / GRC: 
+(Good: 77 - Bad: 46 /\ CPID: 5fafbe6930402bb3d4a46897287ab2c3 / DIFF: 0 / VALID: true / GRC: SHZCYFrknPnE4ESAKZ7gNitZXEUVfDpXvT
+(Good: 77 - Bad: 47 /\ CPID: 1a81d75676979527afb5ebec53a7c7bc / DIFF: 0 / VALID: false / GRC: 
+(Good: 78 - Bad: 47 /\ CPID: 5c29a2f4b123bc352a11425cd584c08a / DIFF: 0 / VALID: true / GRC: S1RqAubFJhEyprWRXzcFzqRKyguwbGaQu8
+(Good: 79 - Bad: 47 /\ CPID: 6ace0fa3c8072d52af486e4769a8863c / DIFF: 0 / VALID: true / GRC: S2GTunqdGpRdzXQoy9aomH6grPJiNGZZuV
+(Good: 79 - Bad: 48 /\ CPID: 7efb86d678e6cd163bffe6622267e4a4 / DIFF: 3100.18966925270 / VALID: false / GRC: 
+(Good: 80 - Bad: 48 /\ CPID: d4d20c6261f943f219a6905c8eefea87 / DIFF: 13.139179734996 / VALID: true / GRC: SKMRpBgk5t35qsC5hrgGiodjoXN2MAfAsX
+(Good: 80 - Bad: 49 /\ CPID: db99b02d64718d4970879ed88f0c1cbb / DIFF: 0 / VALID: false / GRC: 
+(Good: 80 - Bad: 50 /\ CPID: 174e4fb98e22ec7b03ba2e82b3322a09 / DIFF: 0 / VALID: false / GRC: 
+(Good: 80 - Bad: 51 /\ CPID: 5b715ab3da78652fac6b6a685ce40a88 / DIFF: 0 / VALID: false / GRC: 
+(Good: 80 - Bad: 52 /\ CPID: b162b33141b9d64ba5848c4e64e5a85f / DIFF: 0 / VALID: false / GRC: 
+(Good: 81 - Bad: 52 /\ CPID: c208bd497069ab5a025c1a639ad6953a / DIFF: 0 / VALID: true / GRC: SKthMfZtQ9F7sRTD5mPcof5s2fadbn5jkh
+(Good: 81 - Bad: 53 /\ CPID: 696ff23d129b92504470e57b33254813 / DIFF: 0 / VALID: false / GRC: 
+(Good: 82 - Bad: 53 /\ CPID: 77bb5c1d5ccf77312956101a5a2d5a13 / DIFF: 0 / VALID: true / GRC: S7Mc4qMqAkLZ4j5BPGQN96HmNWdTziPgJE
+(Good: 83 - Bad: 53 /\ CPID: 05c21278af7999e749b1671ea90bc8f6 / DIFF: 0 / VALID: true / GRC: S4byCa64sQizXC8EEJSaq67ByXekvoPqAw
+(Good: 83 - Bad: 54 /\ CPID: e697ec9fcdb1c4c500c6031873440c39 / DIFF: 0 / VALID: false / GRC: 
+(Good: 84 - Bad: 54 /\ CPID: b636e196ff4e072d805a8a7689ad903f / DIFF: 0 / VALID: true / GRC: S2bHfV1oYSxgNL2fVo7VGT4dAHBvhBPVF9
+(Good: 84 - Bad: 55 /\ CPID: 939197b5b6243b2a12753decbaf97928 / DIFF: 511.456922352556 / VALID: false / GRC: 
+(Good: 85 - Bad: 55 /\ CPID: 707e43d51e302fae085b4a2a8e61f964 / DIFF: 1778.52821575593 / VALID: true / GRC: SJx144bpZ2vGyzqS3VGFnpCE5LJqJzW8Ps
+(Good: 86 - Bad: 55 /\ CPID: 938d913651851c449ba9038fd9792f24 / DIFF: 24.72445874190 / VALID: true / GRC: S7qLf299Ke71NFcfeyE2AUYY61vyUvmLL3
+(Good: 86 - Bad: 56 /\ CPID: 5ae083dd8f04db528609ba8ae3d68ba4 / DIFF: 62.41898418282 / VALID: false / GRC: 
+(Good: 86 - Bad: 57 /\ CPID: 3255faa11867762d5ad03bfe00a81dc7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 87 - Bad: 57 /\ CPID: a2abc3473c6c04b559e930b8860eddd9 / DIFF: 24454.0542059177 / VALID: true / GRC: SDM8YqwUacyCCnM8hduBQAa3C1JoZVwPT2
+(Good: 88 - Bad: 57 /\ CPID: 8873d40664afb7a2888b6996a6f1d934 / DIFF: 0 / VALID: true / GRC: Ryd87iywfUi4pwyRG3HTXnY32stYe2Vjwq
+(Good: 89 - Bad: 57 /\ CPID: db3cf00a057e85fa2d8fa41cebca423c / DIFF: 10012.0964898246 / VALID: true / GRC: Rx9Bqs6dTm17tsiEMyZ9m4j5Yd8N2dpqwD
+(Good: 90 - Bad: 57 /\ CPID: 6065aaac6cd4802993fa634eb6d5fa4c / DIFF: 414.253231856179 / VALID: true / GRC: SGY3NWxUH2uS2pjo5TMiypyWiLtprWrNRd
+(Good: 90 - Bad: 58 /\ CPID: abbf2c46651adf294a9656e58d8fee70 / DIFF: 0 / VALID: false / GRC: 
+(Good: 91 - Bad: 58 /\ CPID: 924a190bb9827719e7c19b3107fe7fd6 / DIFF: 6423.51455322749 / VALID: true / GRC: RxWdH82rwqj2zRj6rgj2o4fZKoP36hUNjW
+(Good: 92 - Bad: 58 /\ CPID: 6387eda1469f5c8f07bfd57eec3b16df / DIFF: 514.231323342734 / VALID: true / GRC: RzLyHH5fnRkXaqMzMxmRu5Vak7BiGd9dqb
+(Good: 93 - Bad: 58 /\ CPID: b873ec172bb68895d5f6346bcadff064 / DIFF: 0 / VALID: true / GRC: RxXiiF9As2PhXMYb2fbByfLjdGH51wAJ8d
+(Good: 93 - Bad: 59 /\ CPID: 2f86b9fda270415fff5f3f21b8efc3ff / DIFF: 0 / VALID: false / GRC: 
+(Good: 94 - Bad: 59 /\ CPID: 3bdf7327af96b785a14edb7a0f4c7ad3 / DIFF: 0 / VALID: true / GRC: S1ujqZzmhT2wyWaakbZajwC9hfWgoMf6cu
+(Good: 94 - Bad: 60 /\ CPID: dce365180e5a843365e97bf2a51c4a97 / DIFF: 0 / VALID: false / GRC: 
+(Good: 95 - Bad: 60 /\ CPID: 9f2fdd97fa9c48a05e9acc92d353fe51 / DIFF: 0 / VALID: true / GRC: RxW5MqL1sL9Fae7hdfeC8SdThmbkaZkqfH
+(Good: 95 - Bad: 61 /\ CPID: 3a54046604cfd29bed27e791302a5efc / DIFF: 0 / VALID: false / GRC: 
+(Good: 96 - Bad: 61 /\ CPID: 9566f762b3ff994576b5566ec4b4b161 / DIFF: 0 / VALID: true / GRC: S3QgW1JtJL7HSR9Cw2RXSmBu43DgNcNnFp
+(Good: 97 - Bad: 61 /\ CPID: 0968f3f73c358da2dd8b4854e1ede35e / DIFF: 212.667704551630 / VALID: true / GRC: SM99n6QyKjZSSuRKbtfF1XWsJ4vajzq6qt
+(Good: 97 - Bad: 62 /\ CPID: cc3402b61250a2f031481083bd7ee347 / DIFF: 0 / VALID: false / GRC: 
+(Good: 98 - Bad: 62 /\ CPID: e5e0c31e740d02513dcc0f61f21195ca / DIFF: 0 / VALID: true / GRC: S2GdkpSs3WQQwsi47P86bYLHpEakAKp6KL
+(Good: 99 - Bad: 62 /\ CPID: 0c99c1b399dc935978e2ad69b7f076da / DIFF: 0 / VALID: true / GRC: SDUVTyESkFNWqs6YAdcfSdpfadpVT7MYpv
+(Good: 99 - Bad: 63 /\ CPID: eb32a635d5f9f9c600c6715aedec6ffe / DIFF: 0 / VALID: false / GRC: 
+(Good: 99 - Bad: 64 /\ CPID: 017c21cd571b480a0f796bd32c925b95 / DIFF: 0 / VALID: false / GRC: 
+(Good: 100 - Bad: 64 /\ CPID: dc595bd113c87ce124f30db28562f2db / DIFF: 304.90835169483 / VALID: true / GRC: S6Qw3PPPfaU7eSrYWf23GAFXDrfmTP3Pqw
+(Good: 100 - Bad: 65 /\ CPID: 100628150bc92249fc94eeb056a8073e / DIFF: 0 / VALID: false / GRC: 
+(Good: 100 - Bad: 66 /\ CPID: f64040612866074a2c11b82a5633bbdf / DIFF: 0 / VALID: false / GRC: 
+(Good: 100 - Bad: 67 /\ CPID: e700d887093b059cd4a41875036f0c68 / DIFF: 0 / VALID: false / GRC: 
+(Good: 101 - Bad: 67 /\ CPID: 6f4d373809620f9e515deac5d1570a38 / DIFF: 6803.8798060467 / VALID: true / GRC: S1VTjqYCy2oHqtWeeMePHUvBMoonPaWyBW
+(Good: 101 - Bad: 68 /\ CPID: 71e2758cccf788b98738bc08b658f5ac / DIFF: 0 / VALID: false / GRC: 
+(Good: 101 - Bad: 69 /\ CPID: 1004889b624ea9280c901d9c9bd45448 / DIFF: 9996.36269747629 / VALID: false / GRC: 
+(Good: 101 - Bad: 70 /\ CPID: a0f4151af7430976efcd479662e0c5d2 / DIFF: 5851.16293757963 / VALID: false / GRC: 
+(Good: 101 - Bad: 71 /\ CPID: 176d3425b2e461620e2be0457059885b / DIFF: 181.326104125102 / VALID: false / GRC: 
+(Good: 102 - Bad: 71 /\ CPID: dd9e688a1678fe3d43528fd40125408a / DIFF: 0 / VALID: true / GRC: S7bjR1zX5ufE3vu7Tw84Sq7gxRZj7rfzyj
+(Good: 102 - Bad: 72 /\ CPID: 437478cfffac5b7f52893a470f201886 / DIFF: 0 / VALID: false / GRC: 
+(Good: 102 - Bad: 73 /\ CPID: d4a391fdf6d36563c4f1db3363a490b6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 102 - Bad: 74 /\ CPID: 488d4fb8f2edd599aece8f4332f5b09c / DIFF: 0 / VALID: false / GRC: 
+(Good: 102 - Bad: 75 /\ CPID: 4e7faf6b489905fec64dbc7246aedec0 / DIFF: 9273.6909915242 / VALID: false / GRC: 
+(Good: 103 - Bad: 75 /\ CPID: 2d8398cb34871cd48f3281ca1b69c93b / DIFF: 0 / VALID: true / GRC: S7hbC6AJ1u3RvAVV3G9hp3HGPFGmCJLhZW
+(Good: 104 - Bad: 75 /\ CPID: 835ab55044fcfb6b251ea65316477544 / DIFF: 1627.810827048796 / VALID: true / GRC: SG9XzdQb48FmFsKkLVYhRspMVGcsYS4xam
+(Good: 104 - Bad: 76 /\ CPID: 4d22e17366c519bccd2000cebc3d158d / DIFF: 0 / VALID: false / GRC: 
+(Good: 105 - Bad: 76 /\ CPID: 9f9b938e36f7c76fd22ca717d1a122c5 / DIFF: 5577.68150730833 / VALID: true / GRC: S8YujCgUWyPE7wcW8cmc6ynA3KT2Gxg8x9
+(Good: 105 - Bad: 77 /\ CPID: b8d2e6ce87a4370421f6e766c4bd089c / DIFF: 0 / VALID: false / GRC: 
+(Good: 105 - Bad: 78 /\ CPID: f249680f06c87b47ba2ad53bbd4c6e52 / DIFF: 0 / VALID: false / GRC: 
+(Good: 105 - Bad: 79 /\ CPID: 68cb2648007f71946d3b06291fc51172 / DIFF: 2.37396711820 / VALID: false / GRC: 
+(Good: 106 - Bad: 79 /\ CPID: 3b201d6dd5645f3352f30cc0ae492cc9 / DIFF: 0 / VALID: true / GRC: RyQUMqxVWx7qFHGyyFGdXEbjTzsFMcn8h7
+(Good: 107 - Bad: 79 /\ CPID: b63506772e919758d70eef99e3443cf5 / DIFF: 0 / VALID: true / GRC: SM9EyxNXoNKyv5rMgHGh4r81ibtuxRTsjK
+(Good: 107 - Bad: 80 /\ CPID: ddb8ab5864ab9c0e6ed03ad3f21df6c0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 107 - Bad: 81 /\ CPID: 19eae47b9f77460e740b77e7597e45dd / DIFF: 1958.351431985436 / VALID: false / GRC: 
+(Good: 107 - Bad: 82 /\ CPID: 84ae59667c5ff5ed97864d0e59a0e433 / DIFF: 0 / VALID: false / GRC: 
+(Good: 108 - Bad: 82 /\ CPID: 824bdc496abd278d3547a74b1e187f5c / DIFF: 11312.73706642978 / VALID: true / GRC: SGzDMi5wuK4i2iSBwnc1HCFQWbT7cbDqnn
+(Good: 109 - Bad: 82 /\ CPID: 2c8d390c601a97a123f71ab061a05a20 / DIFF: 0 / VALID: true / GRC: SE6ofDaxwG18YvmhqwHndZinhef57hMqQo
+(Good: 109 - Bad: 83 /\ CPID: 0ddc9bed4998727a3b221ba7e19c83fb / DIFF: 0 / VALID: false / GRC: 
+(Good: 110 - Bad: 83 /\ CPID: cd92b9525a14df746f32ca1f14513ffc / DIFF: 0 / VALID: true / GRC: S4ChkhqJHyrcbGSFUrC2YNz5GPLFVwLLfA
+(Good: 110 - Bad: 84 /\ CPID: e6153146c7d31c630b46b4333bfadb9e / DIFF: 0 / VALID: false / GRC: 
+(Good: 111 - Bad: 84 /\ CPID: fda0739e22e485f9c8cf0fcda1ec443f / DIFF: 1027.8153898521 / VALID: true / GRC: S6j6N6tdjJ8HzBmZwXkK8bjycE31nLxU6k
+(Good: 112 - Bad: 84 /\ CPID: 0de87e305d5d3a9cd58bde8a9f84339b / DIFF: 4965.138623729 / VALID: true / GRC: SLndMNvkqQwqArqyhRz4o7N9hKJKq3GR6m
+(Good: 112 - Bad: 85 /\ CPID: 47bb21e37f789e35f0b86fce4459caeb / DIFF: 0 / VALID: false / GRC: 
+(Good: 113 - Bad: 85 /\ CPID: 5d69de358e4826b5b8ca94aa759636d3 / DIFF: 30734.89992291772 / VALID: true / GRC: S5HEGkX6NNTm1gESWCfjJZCABJd2djGWXa
+(Good: 114 - Bad: 85 /\ CPID: a39e2755d3ccee9f3dc176462abbc2f9 / DIFF: 0 / VALID: true / GRC: RxELzDJzET4Jx2JjZCHymEZJWCADM8DtHF
+(Good: 115 - Bad: 85 /\ CPID: 3b506ca17b3c9fba239d8059ca4846cf / DIFF: 893.04143568604 / VALID: true / GRC: SJQGZjNn7WcxF94Wzm4Wt3LqDDGLRZLUTd
+(Good: 116 - Bad: 85 /\ CPID: 4d69be38d1ee1cda339425600732f38c / DIFF: 0 / VALID: true / GRC: RzPLsCXFd5f68Tzch1aBtAKVb5Fme9YJLj
+(Good: 117 - Bad: 85 /\ CPID: 002d383a19b63d698a3201793e7e3750 / DIFF: 0 / VALID: true / GRC: SHSupfcyUzEyacTGkTgkNY68fK3W5PdLhK
+(Good: 118 - Bad: 85 /\ CPID: 575d3a53f4ab77448fae6aa5f8f5bdbc / DIFF: 1235.49105939914 / VALID: true / GRC: S5CpNGmDmdewx3zAeU1aVH8rdmhV12dedp
+(Good: 119 - Bad: 85 /\ CPID: 4f0fecd04be3a74c46aa9678f780d028 / DIFF: 4215.84732890665 / VALID: true / GRC: RyiFWRF92bTBv5NpS2hv47pj6SL1nhYCqj
+(Good: 119 - Bad: 86 /\ CPID: 6d6da0adc6b1453d181937095041a58f / DIFF: 800.831943693340 / VALID: false / GRC: 
+(Good: 119 - Bad: 87 /\ CPID: ed35f4766b4582eeb6ba6d5516fde472 / DIFF: 1044.712750100684 / VALID: false / GRC: 
+(Good: 119 - Bad: 88 /\ CPID: d7f6b0c023e06d4797fc257aea29050b / DIFF: 0 / VALID: false / GRC: 
+(Good: 120 - Bad: 88 /\ CPID: e853373f26dc687a2e93d3621aadda88 / DIFF: 2004.2131592388093 / VALID: true / GRC: S8HEdQCnVxhkuf3tRX6eJeFD1RB8KdLGFv
+(Good: 121 - Bad: 88 /\ CPID: 6fef768a3a12d4fbbf71293346bb3fa2 / DIFF: 3336.4674337697 / VALID: true / GRC: S8ogLUgMM2MH6ebWKnfFUWKYJki7Rgy3Jd
+(Good: 122 - Bad: 88 /\ CPID: 33b999143e4108d2a641b03642814f64 / DIFF: 1111.15294542059 / VALID: true / GRC: S4yvcmactnmTiPQZpsY6cfBVddRAMsXjid
+(Good: 123 - Bad: 88 /\ CPID: 0c795e2af37411d8c917822318408a46 / DIFF: 21589.44751116170 / VALID: true / GRC: SA1aEz3wpSUK5NqKGsGYh9vzBie5tqJJyL
+(Good: 124 - Bad: 88 /\ CPID: 2856d86897e43e601daeb1065983043b / DIFF: 3910.8932603105 / VALID: true / GRC: S79QwXcr1LEkVJcEFnVggRkGDNqKGiAYZX
+(Good: 125 - Bad: 88 /\ CPID: 3fb01ffdd5f274efa8d068ff9244abd4 / DIFF: 0 / VALID: true / GRC: S11fQaELFcxDjAqpoa39VbD6Gsu2q3ff8B
+(Good: 125 - Bad: 89 /\ CPID: c0a1c4b1bd3225984576f3496cd8b47f / DIFF: 0 / VALID: false / GRC: 
+(Good: 125 - Bad: 90 /\ CPID: 359a02c5d1a5142f5e6b0dd630bdeac1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 126 - Bad: 90 /\ CPID: 3724f4f178b5900b8d2ef459c9c6390c / DIFF: 0 / VALID: true / GRC: RxkRRDmzNWkHbG2SXG1QDbcN1x7ejXxERz
+(Good: 126 - Bad: 91 /\ CPID: 0f99e5afd0203168572b376126ff09c1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 126 - Bad: 92 /\ CPID: bc952cc0c7cca56405746d7106249557 / DIFF: 12.498291382046 / VALID: false / GRC: 
+(Good: 126 - Bad: 93 /\ CPID: 1e8362c1cd991b1118a123d1ff900cc2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 127 - Bad: 93 /\ CPID: 431d0ac8a393f828adc516d173553434 / DIFF: 18686.1772671484016 / VALID: true / GRC: S6jryCSKbG1XemdpC74meN9tZR58JNCJ5y
+(Good: 127 - Bad: 94 /\ CPID: 862a6ccac19e4e3f6579dee61f65f275 / DIFF: 0 / VALID: false / GRC: 
+(Good: 128 - Bad: 94 /\ CPID: 7f3b364e2389d856b66ba01b1e31d580 / DIFF: 22217.6542106953 / VALID: true / GRC: SHwrXqRDz4ndbruWdTAVnTcViM4gAifv8s
+(Good: 129 - Bad: 94 /\ CPID: 226a01d4211cc8685dc5f3861a6098b6 / DIFF: 0 / VALID: true / GRC: SKrsLchbqzWy5MnniHfhCzm2U8NvELhRKS
+(Good: 130 - Bad: 94 /\ CPID: 43976f32f82d1a2e917a4357c4e62ebd / DIFF: 11323.185619034680 / VALID: true / GRC: SLod9DGoPfoX45AZMe5Q8JEvHjcbzUvgzt
+(Good: 130 - Bad: 95 /\ CPID: 443b31b51ae18ec917c7a52f4a84bd56 / DIFF: 0 / VALID: false / GRC: 
+(Good: 130 - Bad: 96 /\ CPID: dc70cdf841be846b585201c7f0ab39a0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 130 - Bad: 97 /\ CPID: 8532a7f9a5c78a5d7c9e495ce433ed7d / DIFF: 0 / VALID: false / GRC: 
+(Good: 130 - Bad: 98 /\ CPID: 53451834e0de9afff5cc0aca4e049ead / DIFF: 133.51944550554 / VALID: false / GRC: 
+(Good: 131 - Bad: 98 /\ CPID: 1aace2ce8237f2e1639abcdb93939dd4 / DIFF: 4343.12389165662 / VALID: true / GRC: SM2EkGKeK7YifJC7Mku6D79GPukgfGiPqH
+(Good: 131 - Bad: 99 /\ CPID: a443d75be260a2a58564da8a46e36050 / DIFF: 0 / VALID: false / GRC: 
+(Good: 132 - Bad: 99 /\ CPID: 31b166561cb4639e816561ef7a5f25d1 / DIFF: 0 / VALID: true / GRC: SACeXtzx1CiAcCCSK35TithMKFBfruaEMp
+(Good: 133 - Bad: 99 /\ CPID: 29f12dc6023619cab1c87f1f52914dfc / DIFF: 5600.329186752196 / VALID: true / GRC: SKcs1sKVjC6cSBUDiZmBqqShJ3NPxkJcZS
+(Good: 133 - Bad: 100 /\ CPID: dd4f44e06c8bda84fd3457463b6126e7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 134 - Bad: 100 /\ CPID: d35a8d91b8c4d10a81223659c22648da / DIFF: 0 / VALID: true / GRC: SHTAcpjPzzfmdq4YL82CsZ8cdKqapvB6ik
+(Good: 135 - Bad: 100 /\ CPID: 0a7f19e446a766dc045f7c39cebd508a / DIFF: 0 / VALID: true / GRC: Rx92GjMQLGKq9kr9sU4Mj5PMjduHwDCFbK
+(Good: 135 - Bad: 101 /\ CPID: 4295655e6a6cdbe49773e1b971484b21 / DIFF: 0 / VALID: false / GRC: 
+(Good: 136 - Bad: 101 /\ CPID: 114e1ae9cf888c85b84701192d4fad1e / DIFF: 5361.6319640326 / VALID: true / GRC: SLWn8HnPBTjvLfYvXnPmw55BH4ZCEL3sZA
+(Good: 136 - Bad: 102 /\ CPID: 5685d495b943f70c4bc00e196e5f50ac / DIFF: 5910.084803110160 / VALID: false / GRC: 
+(Good: 137 - Bad: 102 /\ CPID: 6fdef419a9d36926fd707131a7fd7e53 / DIFF: 86.297463993840 / VALID: true / GRC: S1Sxf3gtQCfRwumZvJpAwH3F64fwj79Wta
+(Good: 138 - Bad: 102 /\ CPID: 558c3e1d4623b1b03396a066f94d9cbe / DIFF: 6632.45345134305 / VALID: true / GRC: S8yL74XgzyWjcPMcmCX4Psmkp9jNr96DCP
+(Good: 138 - Bad: 103 /\ CPID: 513aa014fef77c6e5ab2587dc10611e0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 139 - Bad: 103 /\ CPID: f0edea95764d211864a91664d8383f4c / DIFF: 4074.2723944613 / VALID: true / GRC: SFfVPwrSuGVKN9gjDC7gC1mXfk12cVfLXA
+(Good: 140 - Bad: 103 /\ CPID: 8b36aba6e495729ca233c75b598e848b / DIFF: 0 / VALID: true / GRC: S7ZXFWynssfGY5niLAaW2ht8gQaqhjaDbK
+(Good: 140 - Bad: 104 /\ CPID: 52cae6857feb6c8f9f5c77ea12e0be9c / DIFF: 0 / VALID: false / GRC: 
+(Good: 140 - Bad: 105 /\ CPID: ca802ab98f37b3dae7d821467f7172b0 / DIFF: 484.83565691783 / VALID: false / GRC: 
+(Good: 140 - Bad: 106 /\ CPID: 2d43a37929044c21e9546591f35d4230 / DIFF: 0 / VALID: false / GRC: 
+(Good: 140 - Bad: 107 /\ CPID: 09f1bf33e6ff75b4dd3ef008cdfa9e10 / DIFF: 0 / VALID: false / GRC: 
+(Good: 140 - Bad: 108 /\ CPID: 2d87e37a94884fe37c017296e12ebcfb / DIFF: 0 / VALID: false / GRC: 
+(Good: 140 - Bad: 109 /\ CPID: f77c148daf138f739def4c051024679b / DIFF: 2233.87279594068 / VALID: false / GRC: 
+(Good: 141 - Bad: 109 /\ CPID: 61352139ef237d88badcab4f247dbb16 / DIFF: 18079.31986527000 / VALID: true / GRC: S2tcv2LnLbmkoyYNjRuYXfpc9nGPg2fSh8
+(Good: 142 - Bad: 109 /\ CPID: 8cfe9864e18db32a334b7de997f5a4f2 / DIFF: 0 / VALID: true / GRC: SEvDh65u4gUb8rzTomi1Zza8PYBSrcHQzV
+(Good: 143 - Bad: 109 /\ CPID: 58f5b01c2a4356551bb9c770f2ce84b6 / DIFF: 1655.85900856035 / VALID: true / GRC: SF9dPfs8XsG31Wqct5sSgKbJSZ1gFZfMF5
+(Good: 144 - Bad: 109 /\ CPID: a0462ef12d6f11deac43fb0fb3c8e86c / DIFF: 1584.72433064160 / VALID: true / GRC: S3Gzdimzym4SWLkQH8cqjKgG7HaRWzL8vU
+(Good: 144 - Bad: 110 /\ CPID: a25205f4c6feb60cdd770a72f8647aaf / DIFF: 0 / VALID: false / GRC: 
+(Good: 145 - Bad: 110 /\ CPID: 28e0ae8715768aff53e2dc971251402c / DIFF: 39364.1698320600 / VALID: true / GRC: SKSAUNxaMgCwFhHzWF7qw3HPpikbmZn9KF
+(Good: 146 - Bad: 110 /\ CPID: f0e488d3d7532d6e4ce6a73d75f3ae67 / DIFF: 1973.827312767095 / VALID: true / GRC: S6kqU7mCz59aufqqrdeSyS85H4Cj1rzFrY
+(Good: 147 - Bad: 110 /\ CPID: 622d5b5ccb41254d2fbe051a677069d4 / DIFF: 0 / VALID: true / GRC: SBqSLHS26WPCFbLjsyRaHmjMwbxAdFBpJt
+(Good: 148 - Bad: 110 /\ CPID: 4127b74138df74bd736ff028d73cd6d6 / DIFF: 0 / VALID: true / GRC: SEdaiTNWuUavNYB2uNqNP6KsHwgcDLdgig
+(Good: 149 - Bad: 110 /\ CPID: 4f302e181503bc27c4b87b8507be0985 / DIFF: 6348.2626432938 / VALID: true / GRC: S816eU9Lq73HEUKtDhPgDhC8cBLDmZfM8K
+(Good: 149 - Bad: 111 /\ CPID: 3a37a4b875de75f3632b3c82542dd876 / DIFF: 0 / VALID: false / GRC: 
+(Good: 150 - Bad: 111 /\ CPID: b7889a19cf219bf01205d412b076814f / DIFF: 48.7491901955 / VALID: true / GRC: RyUQJFDGVokgX8jYE1ZL748swY63iEvcWa
+(Good: 150 - Bad: 112 /\ CPID: 792fc02776358774c04e8f48f69e7679 / DIFF: 0 / VALID: false / GRC: 
+(Good: 151 - Bad: 112 /\ CPID: 79d2fe7ce53e9da58e46057dcf8a77fd / DIFF: 0 / VALID: true / GRC: S9iNne1foKczH4p5tfkdKppZ2a8YGYfZtf
+(Good: 152 - Bad: 112 /\ CPID: e831440cd7b84206cb59b5ef77009a8b / DIFF: 0 / VALID: true / GRC: S94NiGc7JPC1btZHQTmi33tmAEY4Qb6gTN
+(Good: 152 - Bad: 113 /\ CPID: 264a7c60e61976a291ac8f4268dd6323 / DIFF: 0 / VALID: false / GRC: 
+(Good: 153 - Bad: 113 /\ CPID: 99c836a2a244dd65641b18f4c9f6821a / DIFF: 0 / VALID: true / GRC: S8YNVnPWkEyLxVCvNpcuACeYC6jRV1tVSY
+(Good: 153 - Bad: 114 /\ CPID: 16ebeb71246a6294fe6e1bc13ee8b2f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 153 - Bad: 115 /\ CPID: 6a138251bd3cbe8c2e268cc63499d92a / DIFF: 0 / VALID: false / GRC: 
+(Good: 153 - Bad: 116 /\ CPID: 95b25c4d308c42f6be87b3034e78e41b / DIFF: 0 / VALID: false / GRC: 
+(Good: 154 - Bad: 116 /\ CPID: b45c5017b7e7fbe7e7f0c672c78daf98 / DIFF: 7545.01982904043 / VALID: true / GRC: SKCBf3Qs8RSpYSGCbXnbuGotzET4LbrEQP
+(Good: 154 - Bad: 117 /\ CPID: 945e7902540957cbe78723397ce9c723 / DIFF: 11.876712113001 / VALID: false / GRC: 
+(Good: 154 - Bad: 118 /\ CPID: 7a3ecfdc41ee771f97cb1ce11184b1a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 154 - Bad: 119 /\ CPID: 3e28e6a8b460b46091b3085abdc8dba5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 155 - Bad: 119 /\ CPID: c328c40de5996673f1f5370031aa72cf / DIFF: 0 / VALID: true / GRC: SA4vwFZ2R7Jru1YChoC7XGX9r7zoLU4L2j
+(Good: 155 - Bad: 120 /\ CPID: ddd0c6cf4c9af5731ad1b2856d52f268 / DIFF: 0 / VALID: false / GRC: 
+(Good: 155 - Bad: 121 /\ CPID: ba6c7b48d785785061230bedf7807ae7 / DIFF: 349.6574599013 / VALID: false / GRC: 
+(Good: 155 - Bad: 122 /\ CPID: c738187c54d5492025e956ef2946568f / DIFF: 0 / VALID: false / GRC: 
+(Good: 156 - Bad: 122 /\ CPID: 21d2a18ac20936fbc86a9cb33b039da4 / DIFF: 0 / VALID: true / GRC: SC7HLFZ7QbhFxvo4aQ2psVkjKpALkbwNcC
+(Good: 157 - Bad: 122 /\ CPID: c55780fc7a0d44be0cffa580e77fae0a / DIFF: 0 / VALID: true / GRC: S9naFA2WzN5bseMvoVJtXGc8mdHSihyA7B
+(Good: 158 - Bad: 122 /\ CPID: 48b667cb8a7059120c747948ea54149d / DIFF: 0 / VALID: true / GRC: SJ9cvbM8HLcdmQsKCu8BBLN4ppcCrbtxXQ
+(Good: 159 - Bad: 122 /\ CPID: 23c382c75c8c610babd3111cf48302c4 / DIFF: 0 / VALID: true / GRC: S7q8nzPGNHzYWDvekUep4x2exSYB3zx2FE
+(Good: 159 - Bad: 123 /\ CPID: 0249b19d285e6b0b6c7d255974aefed1 / DIFF: 519.66261824500 / VALID: false / GRC: 
+(Good: 160 - Bad: 123 /\ CPID: b7ff0838d0db24e867f689fa52422ee8 / DIFF: 430.10330439525 / VALID: true / GRC: S4phmaBLUZDdaffwuXnebQJQUWdpsDKExP
+(Good: 160 - Bad: 124 /\ CPID: 2ec03adad384a73f1e4969ccf5f91e19 / DIFF: 0 / VALID: false / GRC: 
+(Good: 160 - Bad: 125 /\ CPID: aa420ecbd9e753755fdd097c9b4f601a / DIFF: 0 / VALID: false / GRC: 
+(Good: 161 - Bad: 125 /\ CPID: 727aa043ebcd8eff51af41145cde178a / DIFF: 15221.1050431854 / VALID: true / GRC: S1aBNKwqgyxsoqhHWNDiFS9tHa7ppGfrGF
+(Good: 161 - Bad: 126 /\ CPID: 0125d6526d7b2abb29e9b3e946ce8a0a / DIFF: 48.85814554049290 / VALID: false / GRC: 
+(Good: 162 - Bad: 126 /\ CPID: fb7c8f84f10b3047cfece557362f5aa8 / DIFF: 0 / VALID: true / GRC: SEzFhw4zUtNoMUvuhbykJW6Ec8xpmb65F4
+(Good: 162 - Bad: 127 /\ CPID: 8acc9eaa3fef75b9f978cfab17bf0795 / DIFF: 0 / VALID: false / GRC: 
+(Good: 163 - Bad: 127 /\ CPID: f6e9b9c140a2363fd623bfe0048f2425 / DIFF: 13940.34217627652 / VALID: true / GRC: S8dKFBWJkS7twCoPbEdKWhE5qLwNLHySiY
+(Good: 164 - Bad: 127 /\ CPID: e2f6cd6b794dad7f88c82910c86308f7 / DIFF: 0 / VALID: true / GRC: SGdSCFEYySEH2knExSv5gm6kgRsXXe8pjD
+(Good: 165 - Bad: 127 /\ CPID: f9d951f6684cc848bf84e3f6d82a8346 / DIFF: 624.61317329844 / VALID: true / GRC: RyciQzJN6vZRB1HARPHjg26jxxyESpovx8
+(Good: 165 - Bad: 128 /\ CPID: 11f025e085e97918dd0e607f4fa7fcda / DIFF: 8.479366933268 / VALID: false / GRC: 
+(Good: 165 - Bad: 129 /\ CPID: a5b959421703e8a063ff768ef17b76a7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 165 - Bad: 130 /\ CPID: ea670030b851383587e52223f75476e4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 166 - Bad: 130 /\ CPID: 0de9afa3b9ff3870dc5da23599750cda / DIFF: 4094.65861394406 / VALID: true / GRC: Ryuqa2YYDM1pu4hcURhCCQ8Z4dhsHXpbWG
+(Good: 166 - Bad: 131 /\ CPID: a839d06edfaac9656316f6084a8374ba / DIFF: 0 / VALID: false / GRC: 
+(Good: 167 - Bad: 131 /\ CPID: 81ebc2bf334d1989ee0d50b9a74aab32 / DIFF: 0 / VALID: true / GRC: SKmbWFm5tMyWSRjrJHsoEo2H2BXoMvLrXL
+(Good: 167 - Bad: 132 /\ CPID: 7a65d482d292859eade9e857daf97c88 / DIFF: 1021.43252583779 / VALID: false / GRC: 
+(Good: 167 - Bad: 133 /\ CPID: a46ad557d65689fb30ff8734181bf69a / DIFF: 0 / VALID: false / GRC: 
+(Good: 167 - Bad: 134 /\ CPID: ab7ef8c703828f004faeb3ec1e48c9e1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 168 - Bad: 134 /\ CPID: 193cd7c15933c9ca00ab79a9f92a54ed / DIFF: 366.059429620784 / VALID: true / GRC: SFvtTFHFW9mC48CGEeoNm7M4VLjCea1tUs
+(Good: 168 - Bad: 135 /\ CPID: e8d62a6ce9c3da09013a6e865b45390b / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 135 /\ CPID: 9d46888f924455cf22d3a7701ac7abdb / DIFF: 0 / VALID: true / GRC: S1itDvqfUaDG4ePU2HZZ97rAuPfvUfVCnx
+(Good: 169 - Bad: 136 /\ CPID: 658a3c17f4d72b2cd42656dfced67388 / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 137 /\ CPID: 669a76d17da1c1eb7cd0bc5cfb38c3cf / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 138 /\ CPID: a2e63eb25c838fa6290eda27263cbce1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 139 /\ CPID: 997c441f7e4700499dea3802688d43b1 / DIFF: 13326.8237614252 / VALID: false / GRC: 
+(Good: 169 - Bad: 140 /\ CPID: fa60001e6b876be41de004eced387139 / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 141 /\ CPID: 5c32d405af84d5e2b7f19a4687d6a572 / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 142 /\ CPID: 5fa0c74a604e8e95b86a8286749f357e / DIFF: 0 / VALID: false / GRC: 
+(Good: 169 - Bad: 143 /\ CPID: e69e936ff3d9ec7f0b41aced007f4c04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 170 - Bad: 143 /\ CPID: 2bebcc51ce6b307d8410ba59a9072039 / DIFF: 156289.9367518110 / VALID: true / GRC: SAJ2SnZwR3bECYPNSrM4hDpU6NvGBT2BBp
+(Good: 170 - Bad: 144 /\ CPID: 5b0c59f8f187fa9933a0be4145a88d36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 170 - Bad: 145 /\ CPID: c31acc1c96028adc666a70fd27f433d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 171 - Bad: 145 /\ CPID: fe4a710fb94501cd94aabd1ed17b6a56 / DIFF: 4.14294012350 / VALID: true / GRC: SGFHTxuRLttUShUjZyFMzs8NgC1JopSUK6
+(Good: 171 - Bad: 146 /\ CPID: 11b66b3ea5d786c745cda07045d57c43 / DIFF: 0 / VALID: false / GRC: 
+(Good: 171 - Bad: 147 /\ CPID: c0250ad563394c5cf7a0347cdc8677dc / DIFF: 0 / VALID: false / GRC: 
+(Good: 171 - Bad: 148 /\ CPID: 087a85fc7554476a5b5761311f22cfb2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 171 - Bad: 149 /\ CPID: ce5c32c54e986594e6388045a7ca33f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 172 - Bad: 149 /\ CPID: 25d003249f8a48a462584bc4bf550e26 / DIFF: 32534.85426421896 / VALID: true / GRC: SFN2TedrQh6vd5sSdZTHd8uFMZ6zeWQuhC
+(Good: 172 - Bad: 150 /\ CPID: 024f20ad5dfef4e85c9cbd9080f358b7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 172 - Bad: 151 /\ CPID: 1461b7b07ff55860bb56f84c8fdea8f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 173 - Bad: 151 /\ CPID: 08d09cb289c1d1f1b493139cd30df639 / DIFF: 0 / VALID: true / GRC: S5nMrDtfUe23mywic5J1TnGSxeASKN7x3P
+(Good: 174 - Bad: 151 /\ CPID: 50c49c94c2d3e43657eedf009e48c5a4 / DIFF: 0 / VALID: true / GRC: SCfMbThubSM1FWfXN391oGc8C1AS2stxGL
+(Good: 175 - Bad: 151 /\ CPID: ce2a4b70c866643a115da634fc7f06fc / DIFF: 2384.6697235022 / VALID: true / GRC: S5Lf3brKMRCa4mf8T83vD4suF8muS19Zy9
+(Good: 176 - Bad: 151 /\ CPID: f54f51af9ccd1bb3b38fcd02e290b997 / DIFF: 4998.6102922029 / VALID: true / GRC: SFcqDSARz6tUfukyMBLoc6CDWjqAJy7zuK
+(Good: 176 - Bad: 152 /\ CPID: a60a57b0bcf8c41a500fb604243ae16c / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 153 /\ CPID: efb9bd313e37c809262e47485735aaf3 / DIFF: 2011.75660514328 / VALID: false / GRC: 
+(Good: 176 - Bad: 154 /\ CPID: 5ac6c0869cea418256b3e9febe7ddaf0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 155 /\ CPID: d48fe2dbe2aee69426e00cb423441155 / DIFF: 608.517802814153 / VALID: false / GRC: 
+(Good: 176 - Bad: 156 /\ CPID: cdf1cfa4f8c3f9b7126cc8e2bb114012 / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 157 /\ CPID: 3ef202c5eae1c741f20249cf8c3f4b6e / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 158 /\ CPID: 3ea35b48fb78a1c9aa762725f38e0ebb / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 159 /\ CPID: c9f8888e336c908782d1cf0759f33711 / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 160 /\ CPID: e74d9ac3b6782559d68cd933f42a36bf / DIFF: 0 / VALID: false / GRC: 
+(Good: 176 - Bad: 161 /\ CPID: b8c3956ed5273fced5cbfb5114427128 / DIFF: 0 / VALID: false / GRC: 
+(Good: 177 - Bad: 161 /\ CPID: cac8e3a5d1393da36ad51d7307c7f8a2 / DIFF: 0 / VALID: true / GRC: RxgZ7VDHcmw6kg3QGBGCc1NYJrfmQqCj9p
+(Good: 178 - Bad: 161 /\ CPID: 7987115b986329432dc76534bafe4e6f / DIFF: 0 / VALID: true / GRC: SDTm18Soc6RAbuaHoQ653Uk3bZXzp2xHja
+(Good: 179 - Bad: 161 /\ CPID: 242466d114cc32914e02874e6226716e / DIFF: 1177.117815960440 / VALID: true / GRC: SGsz9W7XrqFCSkY8mmPWVYo24r2tgVQoCZ
+(Good: 179 - Bad: 162 /\ CPID: c2fae45257816c1587b67d6c649590ce / DIFF: 0 / VALID: false / GRC: 
+(Good: 179 - Bad: 163 /\ CPID: ab475462a7bdc9caee606fec5d6a05b9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 179 - Bad: 164 /\ CPID: a5603334f20496532df5f426da729f84 / DIFF: 0 / VALID: false / GRC: 
+(Good: 179 - Bad: 165 /\ CPID: ac2f6d22a719df8f847df99b932a64cc / DIFF: 0 / VALID: false / GRC: 
+(Good: 179 - Bad: 166 /\ CPID: 2774f33b00ea169a9e5f15f816bc96d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 180 - Bad: 166 /\ CPID: d53c704ef532da4a5a3ccec067a820a6 / DIFF: 6813.8914649799 / VALID: true / GRC: SE1QFQecmB17bG2nehPeRrtZxuNvjGuLDP
+(Good: 180 - Bad: 167 /\ CPID: 140fcba689c4904beb79f818809bd94e / DIFF: 0 / VALID: false / GRC: 
+(Good: 180 - Bad: 168 /\ CPID: 4ccc71ce928193b2f7882cb473b1a364 / DIFF: 0 / VALID: false / GRC: 
+(Good: 180 - Bad: 169 /\ CPID: fc758579846258ba83cdbcce1ff45184 / DIFF: 0 / VALID: false / GRC: 
+(Good: 180 - Bad: 170 /\ CPID: b20097df134f8319fdd8e439b3552fc6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 180 - Bad: 171 /\ CPID: 3c337ecc5dfcc337337df0f306b7e694 / DIFF: 0 / VALID: false / GRC: 
+(Good: 181 - Bad: 171 /\ CPID: 0e2ad09c8a0b450470825376aca24987 / DIFF: 0 / VALID: true / GRC: S6juJ5u2rgBcFK3hR7fzHDUdYuR4xWWoim
+(Good: 181 - Bad: 172 /\ CPID: 07d49f2388664ceb0d517a0d417d4355 / DIFF: 0 / VALID: false / GRC: 
+(Good: 181 - Bad: 173 /\ CPID: f16d316904f75f946a4bb0fb1a92d59a / DIFF: 0 / VALID: false / GRC: 
+(Good: 181 - Bad: 174 /\ CPID: be114e758e8aaa69f218bd919f701d54 / DIFF: 0 / VALID: false / GRC: 
+(Good: 182 - Bad: 174 /\ CPID: 9ce6f19e20f69790601c9bf9c0b03928 / DIFF: 0 / VALID: true / GRC: SDMxAiNu6cavmMjMEckpL5zMJr6NbM4MR6
+(Good: 183 - Bad: 174 /\ CPID: 306843250cc1a70f0a83ca5f63d58eac / DIFF: 0 / VALID: true / GRC: S6QyttY9NYbjxRJmnY9fmmLkcHRmkPJ6x3
+(Good: 183 - Bad: 175 /\ CPID: cbdaeb90983d1998c69d89dadeb5955d / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 176 /\ CPID: b9d71dd5f912508a09aa62cbfb3835da / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 177 /\ CPID: 88eeb3d24b05e302681926a6baf2be8e / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 178 /\ CPID: 5e993e482d827ae5144775c87da6147b / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 179 /\ CPID: 11fe6547462a7818f0eb91bec2fc308d / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 180 /\ CPID: 74acdf3b6927e9f6de9345575f980d1a / DIFF: 0 / VALID: false / GRC: 
+(Good: 183 - Bad: 181 /\ CPID: 0a44debe1cee8f97d4180c69ca7f0dde / DIFF: 0 / VALID: false / GRC: 
+(Good: 184 - Bad: 181 /\ CPID: 4da3743bb4071d6cc28bd862d7ca99ff / DIFF: 17227.9391298985 / VALID: true / GRC: S9ViBvqtHgp5SJPKaz4r8waxc5EiFYkqZd
+(Good: 185 - Bad: 181 /\ CPID: 61805f016f1cdf5cbde9b7c3db811c61 / DIFF: 0 / VALID: true / GRC: SHEsdLYsnEE7VVPYicfme9FhwNqzUe3DZb
+(Good: 186 - Bad: 181 /\ CPID: 55a0cb448335518eb401631a8c31de48 / DIFF: 19032.92413183926 / VALID: true / GRC: SKAQRKXtxUqpTgCCWyjMqbgPQokkwzmCR1
+(Good: 186 - Bad: 182 /\ CPID: da0f2d950cf4aade18abf6b30fe8a036 / DIFF: 0 / VALID: false / GRC: 
+(Good: 187 - Bad: 182 /\ CPID: aa1c62826fb9c377832292169da8b6e9 / DIFF: 4724.93233405403 / VALID: true / GRC: SJY99KcEyYBpDALFLK4AmSgdswbZ3PPL2g
+(Good: 187 - Bad: 183 /\ CPID: 735c2b2120c36f501d21c82f384e7a99 / DIFF: 0 / VALID: false / GRC: 
+(Good: 187 - Bad: 184 /\ CPID: e3bd80b574eedeef57d3168379822a6a / DIFF: 0 / VALID: false / GRC: 
+(Good: 187 - Bad: 185 /\ CPID: 1a56c4eefb5a0d936ede7c3f0539dd66 / DIFF: 0 / VALID: false / GRC: 
+(Good: 188 - Bad: 185 /\ CPID: 60329cce9f0f9a36b4cc200ce9cb0162 / DIFF: 0 / VALID: true / GRC: S5Hq38rYtmFFkqXCkvnUXwVau7Dgez6UMo
+(Good: 188 - Bad: 186 /\ CPID: 4b0975a285d5664e8e427262ce51876a / DIFF: 0 / VALID: false / GRC: 
+(Good: 188 - Bad: 187 /\ CPID: d97827057256d5a29db9cb14c46b7897 / DIFF: 0 / VALID: false / GRC: 
+(Good: 188 - Bad: 188 /\ CPID: 4b97b2324d009d4dc442c62ee376ca6d / DIFF: 0 / VALID: false / GRC: 
+(Good: 189 - Bad: 188 /\ CPID: 04cf70d914c9e8c816edeb04bb64324b / DIFF: 0 / VALID: true / GRC: SGDQtiavRKPDZaJyh3zJrVL3BLhpvTHue4
+(Good: 190 - Bad: 188 /\ CPID: 98c4b4e30516dabe245c354bdc32900e / DIFF: 1319.86211065343 / VALID: true / GRC: S5x9jofrBEZGhK67XyL7ApuCK1KVXixjcc
+(Good: 190 - Bad: 189 /\ CPID: 5a116e0b7589ce7189fa72a149763f16 / DIFF: 0 / VALID: false / GRC: 
+(Good: 191 - Bad: 189 /\ CPID: 9a46ef120b953ea630b33f7e5bc77e7f / DIFF: 0 / VALID: true / GRC: SE37YGPU83httF2th188iRU72hXitDGhba
+(Good: 191 - Bad: 190 /\ CPID: ba15be94823f04aca3647250712e53ca / DIFF: 8075.0935772110 / VALID: false / GRC: 
+(Good: 191 - Bad: 191 /\ CPID: 5a502047f086f04e839c2fcddff5dff6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 191 - Bad: 192 /\ CPID: 179f692170c59de6418d80d8ae2ccc2e / DIFF: 0 / VALID: false / GRC: 
+(Good: 192 - Bad: 192 /\ CPID: 28c530c5c941e0da1d8d98d2552dcce5 / DIFF: 0 / VALID: true / GRC: SCTa5bRVba7tWpcehT9JNzBW5pQKnmYETJ
+(Good: 192 - Bad: 193 /\ CPID: c00a6d538f7e1183d265dccdd545806a / DIFF: 0 / VALID: false / GRC: 
+(Good: 192 - Bad: 194 /\ CPID: 788b4d70b565640ca9f394d93544c738 / DIFF: 0 / VALID: false / GRC: 
+(Good: 192 - Bad: 195 /\ CPID: 3c6dc70936dcbabeffad1b5e7b6bd7c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 195 /\ CPID: 2eac618ae38dde417921473f8f54dc8c / DIFF: 18690.27050432045 / VALID: true / GRC: S2WAN7Q2poxTFc4Wxhn7qy5aWyBv1WZcCL
+(Good: 193 - Bad: 196 /\ CPID: 9daa2ae39070296b4c5f6f0f92c15a16 / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 197 /\ CPID: 280084639229aeffe6f63943f3f96ce6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 198 /\ CPID: c831ea50a4badd5a95ad22c689d9f27e / DIFF: 7091.20800687205 / VALID: false / GRC: 
+(Good: 193 - Bad: 199 /\ CPID: 5974b069351c904dc3937845e7d44a2f / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 200 /\ CPID: 75436fbbedaa0ff999d0669d4852aa19 / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 201 /\ CPID: 3b0ce03df55f80fe46bad9835b887187 / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 202 /\ CPID: b193c54b5cc985e72192f2f68103f91b / DIFF: 0 / VALID: false / GRC: 
+(Good: 193 - Bad: 203 /\ CPID: a397c6f9cba78b22f39b5fa368b9e545 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 203 /\ CPID: 7017451628abfb338d625317d6573374 / DIFF: 262.9098454194014 / VALID: true / GRC: Ryyz3o8bkNb4YnE5oC9FzVpBRLFhN6S6v6
+(Good: 194 - Bad: 204 /\ CPID: 5053afa1d562765d3b534c185fe410d1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 205 /\ CPID: bfbd63b13447ebce773d38dea100498a / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 206 /\ CPID: 13ba18d2b5b412d81bd8b8fab698d469 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 207 /\ CPID: aa234abb30cd07a52a536bae36eeda71 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 208 /\ CPID: 8a06d55c898afe20fe941164a8f47459 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 209 /\ CPID: 717012d9e7195c64fd6bfbc654933b12 / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 210 /\ CPID: 51b69565ca641e81893de03436dbb28b / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 211 /\ CPID: c67cb6d6dc39072a10ec5037d80cd84d / DIFF: 0 / VALID: false / GRC: 
+(Good: 194 - Bad: 212 /\ CPID: 190d527a4a3bd240bc15dba7fd0c541b / DIFF: 0 / VALID: false / GRC: 
+(Good: 195 - Bad: 212 /\ CPID: f46d4755f17cfaed68bf7af707b1731e / DIFF: 0 / VALID: true / GRC: S2zQTCPdp6xxio9ju4bAqTAqtcy9XHbJT2
+(Good: 196 - Bad: 212 /\ CPID: cc9180bb8b4ae2228762373816a2f6df / DIFF: 0 / VALID: true / GRC: S6VDPSiDbBV9feJAxsJHFwRnGGZi2Nu87G
+(Good: 196 - Bad: 213 /\ CPID: 37e810a0319830004d193af03ffcbdff / DIFF: 0 / VALID: false / GRC: 
+(Good: 196 - Bad: 214 /\ CPID: 136e214bd31bef203d375043dd790a43 / DIFF: 0 / VALID: false / GRC: 
+(Good: 197 - Bad: 214 /\ CPID: d383a3efb9b66f582b570661be98ccdc / DIFF: 0 / VALID: true / GRC: Rz7PMKW9Sj9VaBNbidguQEd89PgL2ZW4MD
+(Good: 197 - Bad: 215 /\ CPID: 585fd1d78d495629111fe8d8962bbd01 / DIFF: 0 / VALID: false / GRC: 
+(Good: 197 - Bad: 216 /\ CPID: 1ca1111220e14ad51785e7f2f85467d6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 198 - Bad: 216 /\ CPID: 5197047ee3ab232f6d1b99ce8003963a / DIFF: 0 / VALID: true / GRC: SKnDhiyWhj6YGDtZ3GL4KHhrMARgR9kvwv
+(Good: 198 - Bad: 217 /\ CPID: c8ab0e2c9c49d10b02ca84112d812ed6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 198 - Bad: 218 /\ CPID: 7e984596c342e993af43795e39a0b985 / DIFF: 0 / VALID: false / GRC: 
+(Good: 198 - Bad: 219 /\ CPID: 989618cac7ec8e84f3808364471f2a91 / DIFF: 0 / VALID: false / GRC: 
+(Good: 198 - Bad: 220 /\ CPID: a7a537ff8ad4d8fff4b3dad444e681ef / DIFF: 0 / VALID: false / GRC: 
+(Good: 199 - Bad: 220 /\ CPID: aeed96e8131dca89a6b48b7843fa3585 / DIFF: 0 / VALID: true / GRC: SDPdpZVkUajdVebZVtGZghk4BgbgqTJcvW
+(Good: 199 - Bad: 221 /\ CPID: e492da42175c5fd391e83a00c172ce7a / DIFF: 0 / VALID: false / GRC: 
+(Good: 199 - Bad: 222 /\ CPID: c0a01e57e854e6a1e6f2474b91dae8f4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 199 - Bad: 223 /\ CPID: b8f69858af8c6d32d3a7c250e4ac2d0e / DIFF: 0 / VALID: false / GRC: 
+(Good: 199 - Bad: 224 /\ CPID: 06d92613fb473281ecbf101fe1908319 / DIFF: 0 / VALID: false / GRC: 
+(Good: 200 - Bad: 224 /\ CPID: 942fea7c3eebcae5224ec1ee39bc4744 / DIFF: 0 / VALID: true / GRC: SEcb98NaMxzzzDY9is9HuYYzZd2hXjrnJp
+(Good: 200 - Bad: 225 /\ CPID: 602b779f2236480cf59a742f1f93941c / DIFF: 0 / VALID: false / GRC: 
+(Good: 201 - Bad: 225 /\ CPID: decb378a7ce3d8bef9eb6ca94fd2d7a4 / DIFF: 0 / VALID: true / GRC: S8e3T1Y5P9S2bRENdMPQd6Ak8EEw7gLb7K
+(Good: 201 - Bad: 226 /\ CPID: 4a46f179a9db63cee678c988a3aa8741 / DIFF: 0 / VALID: false / GRC: 
+(Good: 201 - Bad: 227 /\ CPID: 402fd4f389d4b7510787e23e5ac5c876 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 227 /\ CPID: 08321f22a670ce593f85cee0aceed378 / DIFF: 4697.10960912596 / VALID: true / GRC: SLHYgCyemqrxduZBkiYjGAT8wjTrkEPpec
+(Good: 202 - Bad: 228 /\ CPID: 0b11714aa29095410a7d8ca1c362d6f3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 229 /\ CPID: 64312a6d66988dd4285d60b03bae9bf1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 230 /\ CPID: 207307ba2ab4da5e98979fd2a0b797f3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 231 /\ CPID: 46f548844e581a625a401e2b8f8cf2e2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 232 /\ CPID: 60ea0cad4f2e46ea764f0a669b0a5131 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 233 /\ CPID: acf9e4a805768265809cacaeec209445 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 234 /\ CPID: 1f8ee60b9f62bbde60e7bb3e6ad9c837 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 235 /\ CPID: 4e8c0107cd8fa881d9ff9acb18e6d680 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 236 /\ CPID: c59753c3ace3f930070a55ac88f49a10 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 237 /\ CPID: eca2364c331e2f32e57f36d8d44e3f11 / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 238 /\ CPID: 00c310b6e475cffb71c6b41a45352dde / DIFF: 0 / VALID: false / GRC: 
+(Good: 202 - Bad: 239 /\ CPID: 585958e77611aa43fa5e5b6962df4040 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 239 /\ CPID: 00565aba8b273e72f5292dd54c2e9d9c / DIFF: 6076.5646475712 / VALID: true / GRC: S9puW93f6EuXDCC3JA8nSQSo42A5gbs9Td
+(Good: 203 - Bad: 240 /\ CPID: 7ea5d8ec5b17a08279cc3c93214a22c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 241 /\ CPID: 8570228e7594039b195a1aa66133a5d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 242 /\ CPID: 1a7c8f7bbe5a14b0c1e205af3bd2d3d5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 243 /\ CPID: d3b3c9ef14eaaadcf9ed493846783a64 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 244 /\ CPID: d79c13e695c8e497c66190078fa79e89 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 245 /\ CPID: 66efb8d579340651de6076bdfd1509ff / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 246 /\ CPID: 1b97b08ce3830118ba68e155b87100e9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 203 - Bad: 247 /\ CPID: 9b8e5c3f93a342ee80805bdb83b5465e / DIFF: 401.14529438846 / VALID: false / GRC: 
+(Good: 203 - Bad: 248 /\ CPID: c838ed9bd9cdc5e3587739e2664e1e29 / DIFF: 0 / VALID: false / GRC: 
+(Good: 204 - Bad: 248 /\ CPID: 54404c886a6a3ffe385d86326de7a75c / DIFF: 2329.91530664836 / VALID: true / GRC: S3RK5yUaYfZ2FHyybJRFyR9qg9kGz8HMjR
+(Good: 204 - Bad: 249 /\ CPID: 522d809340a972e85b1a20f0870219a0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 204 - Bad: 250 /\ CPID: cc8d55b01bc41f10d8637b6c8610bbf3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 250 /\ CPID: 6f3f5c0d930dad38776fb3b55c328c52 / DIFF: 0 / VALID: true / GRC: SBEr8naD7TPZKeNJvJGRsVtLQaotoPBD1A
+(Good: 205 - Bad: 251 /\ CPID: 2bac010a7b9607d2e3ecf3633c8c7228 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 252 /\ CPID: 9d59bbcfccd7b6008d1d06cc71c7e5b0 / DIFF: 1087.709402616146 / VALID: false / GRC: 
+(Good: 205 - Bad: 253 /\ CPID: 01d2a5f163ebfebd40a556508a0cea04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 254 /\ CPID: bbf61eab2b9b20c6ca99417d299bb980 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 255 /\ CPID: 3b6e68283d7009687384a9a7c6a527d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 256 /\ CPID: 35ed4ebc62c555044c06fb540b08e1a6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 205 - Bad: 257 /\ CPID: 5aa6886ff6be0f3ab5d853d0f2a7d7f4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 257 /\ CPID: 8bec951f6364cb21bd80e8ab356d3286 / DIFF: 6741.8713380988 / VALID: true / GRC: S6zWY3d6zsLkeG5iJDhwU9tvrdzisnpgPN
+(Good: 206 - Bad: 258 /\ CPID: 8d981245ca9eb782da48b5a665ac2c04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 259 /\ CPID: c6109e7f3c9def5e074f0fef071e1654 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 260 /\ CPID: f2109bf8e9b61db3360faea15821ff68 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 261 /\ CPID: 0fe058b645bda4591c8e572da58f8dc2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 262 /\ CPID: 1063149eec4034c3828c4e149b5fb858 / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 263 /\ CPID: 5447a5481639ad3b6e780d59f70f4a27 / DIFF: 3308.33104121278 / VALID: false / GRC: 
+(Good: 206 - Bad: 264 /\ CPID: f2b9358623fc8456a93899a27b05525d / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 265 /\ CPID: 288d408b8733861ad8a62896d375070d / DIFF: 0 / VALID: false / GRC: 
+(Good: 206 - Bad: 266 /\ CPID: abf4daf1fed04d62f2824fe2a8242f90 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 266 /\ CPID: acd2b79de6dc22546ff09cb523f32cd2 / DIFF: 412.0822831643 / VALID: true / GRC: SCMgkiUfaRhzSVRTDzfqADsavkdjLWvgef
+(Good: 207 - Bad: 267 /\ CPID: 9cb17c6d1bb2f4100628b274ea35693e / DIFF: 358.574466206810 / VALID: false / GRC: 
+(Good: 207 - Bad: 268 /\ CPID: 9bcd6990b951674720dc685576cfb8b9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 269 /\ CPID: 86c4ed9c48eacb149a715e3f030e82ea / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 270 /\ CPID: e3725061ac6ff7d1822842aaed76d752 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 271 /\ CPID: d04f2f2547dc14517890b06c57542f76 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 272 /\ CPID: d884f4a0e192cd16794a67de22941e80 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 273 /\ CPID: a22aa6e170114a5287081e8f09ce1c41 / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 274 /\ CPID: 4bcf0905cadb3d0f1a5c9817beb9f3fa / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 275 /\ CPID: f2766403aadff490048fa7ee4c4c489e / DIFF: 0 / VALID: false / GRC: 
+(Good: 207 - Bad: 276 /\ CPID: 55d97a77b61f283adc3a1d11f5c09694 / DIFF: 0 / VALID: false / GRC: 
+(Good: 208 - Bad: 276 /\ CPID: e3609d2b817e65e79cdcba44c81e0538 / DIFF: 7307.6615196541285 / VALID: true / GRC: S42WJ4HbSgyMqDyWgih8UMZWLuMgBLnyhr
+(Good: 208 - Bad: 277 /\ CPID: fc4b7654483e01bea85df5e1e4b1e82c / DIFF: .134537871138 / VALID: false / GRC: 
+(Good: 209 - Bad: 277 /\ CPID: 632b1d5280af4929fab92eee6ed1d920 / DIFF: 184.13993396276 / VALID: true / GRC: SJHGLCDS1W9TMNwEufUW4TycxuvjT5rSqc
+(Good: 210 - Bad: 277 /\ CPID: e7f90818e3e87c0bbefe83ad3cfe27e1 / DIFF: 1295663.084613599 / VALID: true / GRC: S2Ssq9pLeADHinHjcPAdBsfYkjmVEabtSj
+(Good: 210 - Bad: 278 /\ CPID: 3e81899b19361a02aba4beebb488989f / DIFF: 0 / VALID: false / GRC: 
+(Good: 210 - Bad: 279 /\ CPID: be51fdfc0dfa5001412f2b9e7ea6dfa4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 210 - Bad: 280 /\ CPID: 6b56365f596939a95ec5acee5d36ee68 / DIFF: 0 / VALID: false / GRC: 
+(Good: 210 - Bad: 281 /\ CPID: 38c99916f4a9046e45ac4bba280ddbc0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 210 - Bad: 282 /\ CPID: 7bcef7dc238dd5af269eb861e9c561c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 210 - Bad: 283 /\ CPID: 4df885d63963e06bb8f0ef19e81d0afb / DIFF: 0 / VALID: false / GRC: 
+(Good: 211 - Bad: 283 /\ CPID: 209cf08ce2d60e836894ef4fb991ddc9 / DIFF: 43338.8042020150500 / VALID: true / GRC: SAXGwPLVcHXDoctQyJoHt56YycAWX9CBRi
+(Good: 211 - Bad: 284 /\ CPID: ee9f66f52b4a470a577c03a8a5131813 / DIFF: 0 / VALID: false / GRC: 
+(Good: 211 - Bad: 285 /\ CPID: d4c3931090f41fb93ce9e1cf174c38ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 212 - Bad: 285 /\ CPID: a92e1cf0903633d62283ea1f101a1af3 / DIFF: 15692.9993951913 / VALID: true / GRC: S8cAn1drdpCseyeRG9buu9QnqMYeQSC7Ub
+(Good: 212 - Bad: 286 /\ CPID: e80efd69a95391e254f458721e067110 / DIFF: 0 / VALID: false / GRC: 
+(Good: 212 - Bad: 287 /\ CPID: a331db3c0f78e67429e76af9cc841217 / DIFF: 0 / VALID: false / GRC: 
+(Good: 212 - Bad: 288 /\ CPID: 8f3f6a7b4ab3e97c995843008cbb6024 / DIFF: 0 / VALID: false / GRC: 
+(Good: 212 - Bad: 289 /\ CPID: 7347e8c349ecaabb45bf612008268068 / DIFF: 0 / VALID: false / GRC: 
+(Good: 213 - Bad: 289 /\ CPID: d0c9863fbb7dbd559e193728b113b6f8 / DIFF: 0 / VALID: true / GRC: SJRBrJN2V1toNxLQyp9gcwAUCfEjmvpYE4
+(Good: 214 - Bad: 289 /\ CPID: ea0727f14d27e24812b5fd5344a4419d / DIFF: 0 / VALID: true / GRC: RwyvHpg6zvbnLHmdVvcRghHLZufSjMJL5o
+(Good: 214 - Bad: 290 /\ CPID: 3df71b1ba0e0c4cf07a276c7b06fc5fe / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 291 /\ CPID: 275ae435cf65e0b45ce3a31bc6cdd9df / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 292 /\ CPID: b8347b843ad43242b20fd2025dda1551 / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 293 /\ CPID: c606b9fe8258d623efbd52addae4a6d4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 294 /\ CPID: 832285ed5c53f7d681fb52a8d08e205d / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 295 /\ CPID: 9efd86846917049bdf203c9cc96a817a / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 296 /\ CPID: 3269bbe96132de3c64f4ea8250b1c904 / DIFF: 0 / VALID: false / GRC: 
+(Good: 214 - Bad: 297 /\ CPID: eef79af459788d46ddd66294c6bed74b / DIFF: 0 / VALID: false / GRC: 
+(Good: 215 - Bad: 297 /\ CPID: 02e08427b129719f838e775fc8be22a2 / DIFF: 0 / VALID: true / GRC: SCdmDAx8EpbjzpnTikXQpqdPjPtMSQx2CJ
+(Good: 215 - Bad: 298 /\ CPID: e069858a7fa7f20022c85b145a92364d / DIFF: 0 / VALID: false / GRC: 
+(Good: 215 - Bad: 299 /\ CPID: c27e60af1b5c341c06f1867dd6b56070 / DIFF: 0 / VALID: false / GRC: 
+(Good: 216 - Bad: 299 /\ CPID: fd8bf94446105ffa781c54414e287dc6 / DIFF: 3200.89447492670 / VALID: true / GRC: RyWjD5k8BF7pRUeKBf76u8g8hQS7n4KZyR
+(Good: 216 - Bad: 300 /\ CPID: 62f1c990df86a6b7bcab4015857edea6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 216 - Bad: 301 /\ CPID: 176c53254634ab6ffa7c9e29d8444eb1 / DIFF: 5.09649402777 / VALID: false / GRC: 
+(Good: 216 - Bad: 302 /\ CPID: 4a43fd61900f1b968a7b7f399b7512c0 / DIFF: 345056.357335430 / VALID: false / GRC: 
+(Good: 216 - Bad: 303 /\ CPID: ffcd3c73684915e5d515b9cd1c984c0c / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 303 /\ CPID: 816d4736b6196a357863cc458d98f7ee / DIFF: 0 / VALID: true / GRC: SB152UcAvM6XzgQrBUDySTf4EhiztpoKAc
+(Good: 217 - Bad: 304 /\ CPID: 5b11b5295cbe3484e3f496254ec07c9e / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 305 /\ CPID: aaab0baf13d7b279e3a68f354968d62c / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 306 /\ CPID: 201ad65e01524eea614a5564a0b12db9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 307 /\ CPID: 903f84e08ba9b8496ae30513380c9f9b / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 308 /\ CPID: 4fefa7015c6faabc4a903645c546fcf9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 309 /\ CPID: 0a566bd274f882b7e7ee8effaa357d19 / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 310 /\ CPID: c80f2e77e02d02e668b5d403e3d044ab / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 311 /\ CPID: 79fa396507f48a9a7c32565d12b99054 / DIFF: 0 / VALID: false / GRC: 
+(Good: 217 - Bad: 312 /\ CPID: 388c63b783a29ba26e2275b8dc37974d / DIFF: 0 / VALID: false / GRC: 
+(Good: 218 - Bad: 312 /\ CPID: 36426c381e65c5e28ba4a1dda2ddc692 / DIFF: 0 / VALID: true / GRC: S4RRPMgfbEYqg1j6W1rHAyA5ANjLdUbFPs
+(Good: 218 - Bad: 313 /\ CPID: 43cb4e9089c9d9e7c3b1734fa746e194 / DIFF: 0 / VALID: false / GRC: 
+(Good: 218 - Bad: 314 /\ CPID: 833e40678611fa30ebfcbad921d5a7c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 218 - Bad: 315 /\ CPID: 0c755051738199cd801094e587275de9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 218 - Bad: 316 /\ CPID: 7fac66d331d67bd906dfafc3e79b6c97 / DIFF: 0 / VALID: false / GRC: 
+(Good: 219 - Bad: 316 /\ CPID: 2fcaf5ae175f8b604fdf344b1d970092 / DIFF: 0 / VALID: true / GRC: SCfLhgjStVKZitxHvCya1rWVkYeR3RQ9xz
+(Good: 220 - Bad: 316 /\ CPID: 0b5ef259411ec18e8dac2be0b732fd23 / DIFF: 10858.8063786408 / VALID: true / GRC: S83FdFPoHJ9gAXeknKPL39gyHXdjuPyt3b
+(Good: 221 - Bad: 316 /\ CPID: e9d11ff7b70b498e47869fa4973350fc / DIFF: 0 / VALID: true / GRC: S3jV2fpvE1VbkTvgkfUA5Pm6pUaEsoBsu4
+(Good: 221 - Bad: 317 /\ CPID: 6176fbe55bc19329aa9539624197651d / DIFF: 0 / VALID: false / GRC: 
+(Good: 221 - Bad: 318 /\ CPID: 47da8e0eed9ff66cd4ae7edf6582e271 / DIFF: 0 / VALID: false / GRC: 
+(Good: 221 - Bad: 319 /\ CPID: 6956824f7f4d25b881a884cef4bbd748 / DIFF: 0 / VALID: false / GRC: 
+(Good: 222 - Bad: 319 /\ CPID: a1db1600f3bfe9e0f464951759172494 / DIFF: 0 / VALID: true / GRC: S61Ejcmik9F8hDtsDYcYPEJ9Gbu1A7EzZD
+(Good: 223 - Bad: 319 /\ CPID: 4255bf7a07011016e9152f2cba514f6e / DIFF: 35940.0451336928 / VALID: true / GRC: S4Vv93SWShd6EtL2DxC7btt7i3M1BL61oz
+(Good: 223 - Bad: 320 /\ CPID: d35bca6224a12671000288b1df0bf9e9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 224 - Bad: 320 /\ CPID: 2739e10cc6acd5fcee74199f46428534 / DIFF: 877.298295431660 / VALID: true / GRC: S3KytouLN6diHVNxHL2JKvv4D97qDfTGya
+(Good: 225 - Bad: 320 /\ CPID: a0d15c67aea509d42733de8b34093a2e / DIFF: 8179.9714207920 / VALID: true / GRC: S5c4nrCgqswSLcYkGzaenc9WqHHrd8Jv2G
+(Good: 225 - Bad: 321 /\ CPID: 157fd6f6689a119e3a1cedc3bdc43f62 / DIFF: 0 / VALID: false / GRC: 
+(Good: 225 - Bad: 322 /\ CPID: 61097dfde9c8526d2b26f680627b95fd / DIFF: 2233.7357457748 / VALID: false / GRC: 
+(Good: 225 - Bad: 323 /\ CPID: 51db992dc57dbd3fd0e2e7eb451f53af / DIFF: 0 / VALID: false / GRC: 
+(Good: 226 - Bad: 323 /\ CPID: 8f4b9102b229931be807c600f9a39940 / DIFF: 8877.06004510543 / VALID: true / GRC: RzLPQCoCuhRUyaJn4Eewzz1Tu9G5fScgvV
+(Good: 227 - Bad: 323 /\ CPID: 307f6656d708c429a6c4174114fc834d / DIFF: 0 / VALID: true / GRC: RyeRmt2bbgU68tcj5EbrZhWXHbg9QeRjcK
+(Good: 227 - Bad: 324 /\ CPID: a81aef277cc22ad9790fd25f01a1233c / DIFF: 0 / VALID: false / GRC: 
+(Good: 227 - Bad: 325 /\ CPID: 4b04d0de38e1dc057bb889c65832b5c4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 227 - Bad: 326 /\ CPID: 14effb8b2bfc55c36797ff0998fc1aac / DIFF: 0 / VALID: false / GRC: 
+(Good: 228 - Bad: 326 /\ CPID: ee2c8c9a73e894ec812ee0c16ebabd1d / DIFF: 13560.16623071340 / VALID: true / GRC: SELqPfWYShhiVGaC8ooAFs7PhdhHfjTbye
+(Good: 228 - Bad: 327 /\ CPID: c443bb26793683aa7386e8d944b44b06 / DIFF: 0 / VALID: false / GRC: 
+(Good: 228 - Bad: 328 /\ CPID: 672b9e50e8b075b149fdad48788924eb / DIFF: 0 / VALID: false / GRC: 
+(Good: 228 - Bad: 329 /\ CPID: 4e1bbc3aac0788befaae947348f233b0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 228 - Bad: 330 /\ CPID: bd6a89eb92c4632224eb8435300608aa / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 330 /\ CPID: 1a8309fae79be20b42354b049e392fb3 / DIFF: 0 / VALID: true / GRC: RxJ6Ctk5NuhDcCLLnffdiwyshRuPsENTQq
+(Good: 229 - Bad: 331 /\ CPID: 9bb1a072d2553f52e5cc0a2f3f94a9c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 332 /\ CPID: f1934f9dc342e8b4165a2138896b23f6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 333 /\ CPID: d6b04fe32f02c1eb1f67209e09867fd6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 334 /\ CPID: 3d3024c15ca733acce604cd4f4ea929c / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 335 /\ CPID: 7e09cef86279d258f4df94d3d167073e / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 336 /\ CPID: 600f7ac74d40c7d09c83173059a63fbd / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 337 /\ CPID: f633990e49b109e8a0c6cc2c46ed5de9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 338 /\ CPID: d43ddacdfb6325503c6283f5596966a3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 339 /\ CPID: 45d6382de4107905acaba3c67f7d8615 / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 340 /\ CPID: 46e0f3d406fd5599200895e118bf016e / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 341 /\ CPID: f060946530ac50b9fa4cd22e23099a4d / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 342 /\ CPID: 91774047804c0feafa75bd38a7c647ae / DIFF: 0 / VALID: false / GRC: 
+(Good: 229 - Bad: 343 /\ CPID: 2e3067a6b3f1630b272fcf9a3529c20f / DIFF: 0 / VALID: false / GRC: 
+(Good: 230 - Bad: 343 /\ CPID: 5188365b01e83b3244477e8c9a0062f7 / DIFF: 8380.8034823222 / VALID: true / GRC: SGMxjwKc6urn81VGg22spCtKDM8ZRF7J7c
+(Good: 230 - Bad: 344 /\ CPID: 4394a794f1154909ffad9756d956c5bf / DIFF: 0 / VALID: false / GRC: 
+(Good: 230 - Bad: 345 /\ CPID: d0cea85e7a4a3e30af709e672dace08b / DIFF: 0 / VALID: false / GRC: 
+(Good: 230 - Bad: 346 /\ CPID: edc6e46cdb710911fa15d88683b432de / DIFF: 0 / VALID: false / GRC: 
+(Good: 231 - Bad: 346 /\ CPID: e3dabb9a8130946e13de3a48c5abf511 / DIFF: 0 / VALID: true / GRC: SA7dAUJwEb9wbFaVwFcWfN21Lgv7tNAsrB
+(Good: 231 - Bad: 347 /\ CPID: dcea891f0ff9f92285473246eae123c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 232 - Bad: 347 /\ CPID: dc8d6b9bb81cdbf77c16cde8ad7be576 / DIFF: 0 / VALID: true / GRC: SFQwibH3MpYkFuUBcjgw2dduy7HFU3Lsci
+(Good: 233 - Bad: 347 /\ CPID: 6ad54a9f1c4d97c9f1857b31c6a4127c / DIFF: 233527.3662766960 / VALID: true / GRC: S2PLBEbyVHqkkc8RFAuu2QcLaVHDivknyn
+(Good: 233 - Bad: 348 /\ CPID: a7197a2ef38f503270a8bb1a9ec53e95 / DIFF: 0 / VALID: false / GRC: 
+(Good: 234 - Bad: 348 /\ CPID: b7a0a3abbcab708faf5b9fe810bd02a3 / DIFF: 0 / VALID: true / GRC: S2AQAZKddLBoMszEfqS9dJ97RYjR3BbJrV
+(Good: 234 - Bad: 349 /\ CPID: 5e0e4f11b543f6305f3dff19e75b37ad / DIFF: 1023.358647090920 / VALID: false / GRC: 
+(Good: 234 - Bad: 350 /\ CPID: c5b761300488a75ea70a59ffc213cd84 / DIFF: 0 / VALID: false / GRC: 
+(Good: 235 - Bad: 350 /\ CPID: a2e48b7a0466a6166dab13ec6ca1bff5 / DIFF: 4538.98869219987 / VALID: true / GRC: RzZzQPZLvyhoa4JcC39SHdjCvknJrCoLqo
+(Good: 235 - Bad: 351 /\ CPID: 70d34803e9685bf24b699f94a4a6527f / DIFF: 0 / VALID: false / GRC: 
+(Good: 235 - Bad: 352 /\ CPID: 3c7b55bf1f14d5487fe4d68cffaa629b / DIFF: 0 / VALID: false / GRC: 
+(Good: 235 - Bad: 353 /\ CPID: e634cf6a34162b1592a3a54957b3f807 / DIFF: 0 / VALID: false / GRC: 
+(Good: 235 - Bad: 354 /\ CPID: 2aaee04bea305a7a94b71bd0f6f40df1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 354 /\ CPID: 91eccec4234172a96844856bd5ff8445 / DIFF: 0 / VALID: true / GRC: S2w2sYXNgT6UnsfqQxSKFUmze6eqS6AcWt
+(Good: 236 - Bad: 355 /\ CPID: 4f01da418d6a3df83f422ced1a5bd6a6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 356 /\ CPID: 972607a6ac6941fe64a53695b64e6163 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 357 /\ CPID: 679438b28846f3b79cece60afefd6635 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 358 /\ CPID: 64559adcb3d46a56c79230f1a7fcba4e / DIFF: 348.081712529217 / VALID: false / GRC: 
+(Good: 236 - Bad: 359 /\ CPID: dc0e373ef2264d6fa0930f87815a48cb / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 360 /\ CPID: 4d7f063b3512fd81cdff6ed5a54ca956 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 361 /\ CPID: 0b8817b088bef1ae539f1dbeb11d3aa3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 362 /\ CPID: c17576f2a96a7523f6b18523e61ba6c2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 363 /\ CPID: 2fcc2a0fd639f35ccbbdfa682c9178d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 364 /\ CPID: 34dce910e193b88cb3466e552a1fd203 / DIFF: 0 / VALID: false / GRC: 
+(Good: 236 - Bad: 365 /\ CPID: 09b958aa2c5d373db7c331b488aa9cff / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 365 /\ CPID: 57fb94b1015f257feb539d36cb65540f / DIFF: 0 / VALID: true / GRC: S6ScrbcAoiR2qecktbrDchv97rHgWBPzog
+(Good: 237 - Bad: 366 /\ CPID: 23989b2cb5200702fa4db6315cf23293 / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 367 /\ CPID: 1850e49ce3b6bf901011bab7046478e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 368 /\ CPID: 13fded8a8c79c93570d42f98ff13f8eb / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 369 /\ CPID: 99b38334a45c2b6fe5cf594f87c47b93 / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 370 /\ CPID: c37da2073ba525eac1514d20e864131b / DIFF: 0 / VALID: false / GRC: 
+(Good: 237 - Bad: 371 /\ CPID: 2c258b4fdd8edbde0feeb845e49bfcb2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 238 - Bad: 371 /\ CPID: 9af6acde8acced8cfed406136cb7c4c7 / DIFF: 0 / VALID: true / GRC: S2NhjgrKe5SQGqmHdAqmy9BnTo2R1oFqvX
+(Good: 239 - Bad: 371 /\ CPID: 872cdbe307ff1e691f1662cfc667a99e / DIFF: 97322.22822319180 / VALID: true / GRC: SKnT49zXismqosrBXHciE1Xx6s72ABeU98
+(Good: 239 - Bad: 372 /\ CPID: f4e51a5857fa3245f05e7ce686dce744 / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 373 /\ CPID: a48148f13cd72a76731eaf5395fdf1a2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 374 /\ CPID: 7ab90b82259fda59e33973c59ddf430f / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 375 /\ CPID: 98ad561e14a63fd7502afbd4494ff665 / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 376 /\ CPID: 7e2e924d255a65e8583ca6e389f1e270 / DIFF: 9788.42089573141 / VALID: false / GRC: 
+(Good: 239 - Bad: 377 /\ CPID: a23e0eb0484110d0e083739032d221a3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 378 /\ CPID: 6e00540214df0d8202e4a4e096320c50 / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 379 /\ CPID: 1b151d5036b5b0c9855afef7d9b7482f / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 380 /\ CPID: c1277afbd51d12fdbbe25d834a66ee5a / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 381 /\ CPID: 9af47278495728c92bb396a66614539f / DIFF: 0 / VALID: false / GRC: 
+(Good: 239 - Bad: 382 /\ CPID: 196dec070214a6f2218196c893c356af / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 382 /\ CPID: 05d490b8097437b9d6c7d6367026c0e6 / DIFF: 3894.827856827160 / VALID: true / GRC: S4ArYPTDEhc4nejuGc1qnskCKgy6ksnXmr
+(Good: 240 - Bad: 383 /\ CPID: fddc256033d88e3986be26d56f4cdbcb / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 384 /\ CPID: 5266b839f53e6ef0464d481d5dfcded9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 385 /\ CPID: f7e30c2fa154a1a9fb7e2d15cb8975c6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 386 /\ CPID: 275eada9bdb5b87f75fc9318cfabcb07 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 387 /\ CPID: 15533dc2d3121b0095cb2d12599da2fd / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 388 /\ CPID: d94bec10e48c2b6f81d5c7073d543790 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 389 /\ CPID: e7a394d5614b6be3ad0bdbb2dd4b7f63 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 390 /\ CPID: c66f4e87e1dc477fcdc2dfb4bf4eec9f / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 391 /\ CPID: d09867743102dd2fbfb32ffa4633188d / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 392 /\ CPID: e67fdec08184ff3fcd7f5a8010511580 / DIFF: 0 / VALID: false / GRC: 
+(Good: 240 - Bad: 393 /\ CPID: 6a1b81107b2e87a8583a714cdc97b3d9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 241 - Bad: 393 /\ CPID: f6eee1f53dabdb723178a21d40ff9b66 / DIFF: 1023.2369822578046 / VALID: true / GRC: S2Z68yqWmVRqo2adj6qmnizQdhzTFqJ4Nm
+(Good: 242 - Bad: 393 /\ CPID: 3eb05a28373fec3f42f509d5054de10f / DIFF: 494.3201451491325 / VALID: true / GRC: SGBnYw1FQWsvfSrvZiBMXrumY3a7S7xGZB
+(Good: 242 - Bad: 394 /\ CPID: 88a547f3d103f5e8195ed615bb8b20cf / DIFF: 0 / VALID: false / GRC: 
+(Good: 243 - Bad: 394 /\ CPID: 497cf78dc242a1463099cad155b04b4e / DIFF: 0 / VALID: true / GRC: SJ3pKwg8D2DEPiTenW6yjEHvEDE9oBRTPB
+(Good: 243 - Bad: 395 /\ CPID: e182a240072638d11daf9229d8c32b4f / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 395 /\ CPID: cd56c32db3da12d32336f281310d18d6 / DIFF: 0 / VALID: true / GRC: SEoH9VtGNYC7N9QD2nbC91Z1wg77WgfPRy
+(Good: 244 - Bad: 396 /\ CPID: 334eca761db9f5ea467e77ad96cf27a4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 397 /\ CPID: 3c19ea9520d0f04e6ae34a84b0a2f6da / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 398 /\ CPID: 902dccd13b5ea6b263d0069d48a1718c / DIFF: 2629.3057179630 / VALID: false / GRC: 
+(Good: 244 - Bad: 399 /\ CPID: 2f8b43839c477e5ac5b1e528fcf6e4f7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 400 /\ CPID: d2fb90208b6ac87b6a81a6cf6b22a882 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 401 /\ CPID: 6e1eaab2df13fcc371bbaed2e5f6eb9e / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 402 /\ CPID: 38f92d4dbc4c780d42f93edff289c9ee / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 403 /\ CPID: 86d68d85c1d4d0408e8301911daa34ae / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 404 /\ CPID: ddc417a5e03d3870682e71ec413904ae / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 405 /\ CPID: 12eb51ecd1d57fd90250a3cdf0ccfbbd / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 406 /\ CPID: 2b2e407110a654531f36c73aacb08f2b / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 407 /\ CPID: af672f24b35cb4c012a4602855c9e458 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 408 /\ CPID: 2637afaecdc36daec93c18df710fd0d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 409 /\ CPID: 875ab59ee8abd90665163a868591ac6a / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 410 /\ CPID: cd4c06ea9660f427a95c36104cc38580 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 411 /\ CPID: bf700c26c4f515e1b99468a66dbf97c4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 412 /\ CPID: a525c88f61bb52a1c8aa010cb6401a65 / DIFF: 0 / VALID: false / GRC: 
+(Good: 244 - Bad: 413 /\ CPID: b33fca8547cae1575a51cf68a26e97ce / DIFF: 0 / VALID: false / GRC: 
+(Good: 245 - Bad: 413 /\ CPID: 89b75874203a01e8206f069dcd4ddb60 / DIFF: 0 / VALID: true / GRC: RxmnVqY3cuWHohjTDFxy8ZhRFGQQQNrRw6
+(Good: 246 - Bad: 413 /\ CPID: 7372837954bacf792b371e37f7abe1eb / DIFF: 0 / VALID: true / GRC: SDruru8JA4KsYZkW88Sd45dA7iFw12XVxy
+(Good: 246 - Bad: 414 /\ CPID: ca7693fa52fc8562155abe37b5e8f4f1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 415 /\ CPID: 3d1687fd892907435d1efa23a9b50daf / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 416 /\ CPID: 621fb15416b7a0ae68639ed91a2ebfa3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 417 /\ CPID: 9d0d8f4284cf6a9cd11232f46d905d62 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 418 /\ CPID: bce1555a6277939252fd91ba2e2e1cf0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 419 /\ CPID: ae5bff4ae974aa14094d75ccd6a95278 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 420 /\ CPID: a0c25ece13aff8b9f0f58e419f3d70b8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 246 - Bad: 421 /\ CPID: a50b46d36c26d929cfb8710e3a031281 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 421 /\ CPID: 2cbe06e212172520ae30ec59b0cb78da / DIFF: 0 / VALID: true / GRC: SEfbo1hLic1LTYvkpJBxtqhYZynj4DWEJp
+(Good: 247 - Bad: 422 /\ CPID: cf13f95609f4628c04015d79bac9f220 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 423 /\ CPID: 835a176fba662fe70811e2466591ffa0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 424 /\ CPID: 843c3d67c06a2ef8aaacf04716855dea / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 425 /\ CPID: 2afc87e5069871f72d1434612a405426 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 426 /\ CPID: ae5c57cb68f4513049518a563fc15c9a / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 427 /\ CPID: 670fc79b196ade75f49708945eca09e5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 428 /\ CPID: 12fd8bd0d7ccb5089cce43af1c49f0b0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 429 /\ CPID: 3b2bb35702ef404595c4f31e9f55397e / DIFF: 0 / VALID: false / GRC: 
+(Good: 247 - Bad: 430 /\ CPID: d135625d7a818408a42ab2bc1eeec616 / DIFF: 0 / VALID: false / GRC: 
+(Good: 248 - Bad: 430 /\ CPID: 8e13c5fa4704af6a3688ad65a4ec7d82 / DIFF: 0 / VALID: true / GRC: SB2XjsANADEVD936r1tmD2BQwd4GHwqGxR
+(Good: 249 - Bad: 430 /\ CPID: 2103d322c0709aefd912ea4d99452b60 / DIFF: 0 / VALID: true / GRC: RxJWmxLmNFyfKYPs3ahC6qpj4D83gKEkLs
+(Good: 249 - Bad: 431 /\ CPID: 9365c7fd064e5caa88106f9d711090ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 249 - Bad: 432 /\ CPID: 8a8218469dad46b1dda6cb6a78102b80 / DIFF: 0 / VALID: false / GRC: 
+(Good: 249 - Bad: 433 /\ CPID: cbb779d14be2a4b97642b4703c269da5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 249 - Bad: 434 /\ CPID: 86dc664ea04e25e710fe4b99df769c22 / DIFF: 0 / VALID: false / GRC: 
+(Good: 250 - Bad: 434 /\ CPID: 2b28dd6fd317650b0615ce4913d5bae9 / DIFF: 0 / VALID: true / GRC: SGwkAffNGcZsnv2EghmAw1SNntbHwCqT1s
+(Good: 250 - Bad: 435 /\ CPID: 931b78df49c0885ee19798bd0143a24c / DIFF: 0 / VALID: false / GRC: 
+(Good: 250 - Bad: 436 /\ CPID: a403b4e0908668b420095cf7f82c9a3a / DIFF: 0 / VALID: false / GRC: 
+(Good: 251 - Bad: 436 /\ CPID: 2082de95f77c4a69fc878de0bb3b2af5 / DIFF: 26503.057255316008 / VALID: true / GRC: SFrUaVngc2RmwqWAF3zqk4PfdsdgrAkwJk
+(Good: 252 - Bad: 436 /\ CPID: 298becdd13b132064ce8e5da4c2e6ba8 / DIFF: 2688.61441287094 / VALID: true / GRC: SJ39egVupbinWj9ovfGnqfujD7magQ5HEP
+(Good: 252 - Bad: 437 /\ CPID: 32eb63bfa6192388f5c4adec3fbbb56a / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 438 /\ CPID: b409b38c503ceb70868c9f9f4848cacf / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 439 /\ CPID: 87af164d63591594943e35d9ed4568b3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 440 /\ CPID: 0c252370ab2e457722b4df91b9bcd50c / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 441 /\ CPID: 14fa2446e248dd73d03fbb00a7007bfe / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 442 /\ CPID: 0178973553c6ab2be12f51e556e9bc04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 443 /\ CPID: 69863744e174bd6ebc3baae4eb459dc7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 444 /\ CPID: d2b437379fd20c5e4f265ff67198f71a / DIFF: 18772.52118391233 / VALID: false / GRC: 
+(Good: 252 - Bad: 445 /\ CPID: 85cd815f1f7e1c4c17fd5b16169a6583 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 446 /\ CPID: f9e46b43ebe11e0650112a6361500801 / DIFF: 10028.02651687634 / VALID: false / GRC: 
+(Good: 252 - Bad: 447 /\ CPID: d99f88a778000018fbb317d91513b30a / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 448 /\ CPID: 30ed51cc250a6f1bc14113f2193701e1 / DIFF: 517.22893349729 / VALID: false / GRC: 
+(Good: 252 - Bad: 449 /\ CPID: d1253541a3bcae2348519874921d4d8d / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 450 /\ CPID: 7bded3dadc7feb91c4b9ca40eb09ff45 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 451 /\ CPID: c1a141f99b1e7a960ea961a8a43d5a36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 452 /\ CPID: 55955e3d730eebcbfc428010b0f445d0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 453 /\ CPID: 2d35de58170b4790f9c1e9d2283e1f36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 454 /\ CPID: 95fdae639935403325b64874ec7d9c74 / DIFF: 0 / VALID: false / GRC: 
+(Good: 252 - Bad: 455 /\ CPID: c593ebe47a49c47b0b1560aa8eac18a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 253 - Bad: 455 /\ CPID: fbaa9ad38365baf185e3db993677dd25 / DIFF: 20027.20849259821 / VALID: true / GRC: RxCUu61B18V9cjncHcmSiPZQwxUxYZqofA
+(Good: 253 - Bad: 456 /\ CPID: cebad4e8484bbbdd66e27710c0bc8b69 / DIFF: 1107.583942499278 / VALID: false / GRC: 
+(Good: 253 - Bad: 457 /\ CPID: 22b721702549c8f4aa0e1e9c8674f62b / DIFF: 0 / VALID: false / GRC: 
+(Good: 253 - Bad: 458 /\ CPID: 111f10eec51bcbd7aa20069152513617 / DIFF: 0 / VALID: false / GRC: 
+(Good: 253 - Bad: 459 /\ CPID: f8b2264bc3a527aa73fcdacfdfe39053 / DIFF: 0 / VALID: false / GRC: 
+(Good: 253 - Bad: 460 /\ CPID: f543884e0e11bd2ef189d7bd4bc9f3dc / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 460 /\ CPID: 3b6dc2071547081fde8af9364f760c37 / DIFF: 0 / VALID: true / GRC: S32TQcGuXBoY8AMGR46RrynAJ2wojLLhiG
+(Good: 254 - Bad: 461 /\ CPID: d7d87ee5511e075b4cfb545565297c97 / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 462 /\ CPID: 989a00c88ac509db1a3b1709642b991a / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 463 /\ CPID: f024af6edc6bd107410cc7c5bf5e0e4e / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 464 /\ CPID: 27f17bd9e9da82048f19600984639b8d / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 465 /\ CPID: 6192d995a8d167aca1069bd3613bf1f6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 466 /\ CPID: 7555ee1169d095ef427225f12f9a5a0a / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 467 /\ CPID: eb7bc21adcb8f26ebf5adbfbc8119164 / DIFF: 0 / VALID: false / GRC: 
+(Good: 254 - Bad: 468 /\ CPID: e764b4303117af9ab04529eb6bf21688 / DIFF: 0 / VALID: false / GRC: 
+(Good: 255 - Bad: 468 /\ CPID: 03735fd8066b71828aec7ce17196bbb8 / DIFF: 0 / VALID: true / GRC: SF7kg9Ad6hGNxnUzhprqXxTF6p2E4EgmaT
+(Good: 255 - Bad: 469 /\ CPID: 57ebc93d4faabcaa575bc916c2e478f2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 255 - Bad: 470 /\ CPID: d83a6e6ad1699e92ddc87ac0a29cf8d2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 256 - Bad: 470 /\ CPID: 39d042f5bf38eea042a1df3fec390b7f / DIFF: 0 / VALID: true / GRC: SARPBEZAfd6C8vPeivSUdRT4foH5NJboah
+(Good: 256 - Bad: 471 /\ CPID: b369d80dff8d7452d3d2a4f696339463 / DIFF: 0 / VALID: false / GRC: 
+(Good: 256 - Bad: 472 /\ CPID: c340642f2edac87efafa021950879398 / DIFF: 0 / VALID: false / GRC: 
+(Good: 256 - Bad: 473 /\ CPID: dcfe090b4aea61997ad97b81a7b4ce86 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 473 /\ CPID: 9f06b8972303f8a92ea6de6bbb7d3e9b / DIFF: 462.12481222276 / VALID: true / GRC: RxpE9MQQs2GVWQ6qgYagheHj8aQY9M3MiR
+(Good: 257 - Bad: 474 /\ CPID: c330bd681b4532789a235df1a85ef34d / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 475 /\ CPID: 60f8121944d2982da3883553cc08b9ce / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 476 /\ CPID: 052c3295a5facf0b2211926307d6bc96 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 477 /\ CPID: d8b8561603b1a035b9f998dd336a463a / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 478 /\ CPID: 1f168aca5d3434591a2f0a87d55703a5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 479 /\ CPID: f00a6d2134d122f15810e6936eb0415b / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 480 /\ CPID: ac5ee534c1187296f13960370b251c63 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 481 /\ CPID: e8bdbd23c19f17c1fe26e14ef15aaae0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 482 /\ CPID: 6c2455e54d753ecde08b927db22234f8 / DIFF: 2609.514118541654 / VALID: false / GRC: 
+(Good: 257 - Bad: 483 /\ CPID: 45c47346d6fcba94aeae39bcec2c1409 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 484 /\ CPID: 6d088d7ac862fd77015298d6dfac0a3d / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 485 /\ CPID: 7c50313c48953d56f5d2df92bc333b09 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 486 /\ CPID: 3bab7b43db6a5f4d86826d09b970b4ae / DIFF: 3879.83918227313 / VALID: false / GRC: 
+(Good: 257 - Bad: 487 /\ CPID: f2a89436eb90c45c83ce3b3bf9afda54 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 488 /\ CPID: 591f40a4fe27a4c065aba1a911316309 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 489 /\ CPID: 0a93341c56bb24f6f9a75ffb35aca5dc / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 490 /\ CPID: 77ddf2d809c2314975f991104831e7a6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 491 /\ CPID: 29e3f900998137ad9c87f8f0350b0b93 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 492 /\ CPID: 1c06c813e8c22596bdbacd414aed0a06 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 493 /\ CPID: 108d29ebe14d3cf9665122fa84709be8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 494 /\ CPID: 15aff48604601ef3f3211c1dbb8d6e7b / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 495 /\ CPID: 70f6874dc1ab472ad70ea47c30b89e87 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 496 /\ CPID: 4d788f71b06c61fb6ecdb95afd352695 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 497 /\ CPID: 85c20f4a3ecf4f3c208a4e23e1364b36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 498 /\ CPID: 464057555a0bce3d199399ac83457e15 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 499 /\ CPID: 2a6d52e1b54420a1ac6d1dc3fdf8f96c / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 500 /\ CPID: ace1a1eb2dc42c2bb2bb7609781ffbc9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 501 /\ CPID: 27a412e370f54a63bfa661244151327b / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 502 /\ CPID: 87a1bae82603f54ca6567502199a0bdb / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 503 /\ CPID: 797544dee4e11ddcd3ea0fa02c1e2837 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 504 /\ CPID: 64722fdbb334f9fb041ae2e52bfb73d1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 505 /\ CPID: e086e1f9625bfc01e3b61c15cc958c8f / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 506 /\ CPID: b88539bddac76dea999295cf46f64684 / DIFF: 0 / VALID: false / GRC: 
+(Good: 257 - Bad: 507 /\ CPID: d003a1f0f76de98b3f1ba5cd47c3ee98 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 507 /\ CPID: c176e5642f12297d3fdb433de84f9822 / DIFF: 0 / VALID: true / GRC: SDdb3B8JG9nc2syEtJw7BFzuWHv8ZzNEW5
+(Good: 258 - Bad: 508 /\ CPID: 204554164bc62c26f64ae6b6aaf46507 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 509 /\ CPID: 6b3f3ac4342a3c6a16c3489bc8e5424c / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 510 /\ CPID: dcd53aa9c31a7126dec480afefe8d959 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 511 /\ CPID: 1022caa57752d1ed254a2df1b2881bf5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 512 /\ CPID: d2ffe5b7bfb5803f3b0ad4d525256d50 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 513 /\ CPID: 5f32873a713d8db5f019d22d8777f40a / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 514 /\ CPID: fe02646b8847d7cf5607e1362fbe8875 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 515 /\ CPID: 124e560c9805000014d369d3fa6dc104 / DIFF: 583.409911771982 / VALID: false / GRC: 
+(Good: 258 - Bad: 516 /\ CPID: 7189976b278245aeaf6612907245ea7f / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 517 /\ CPID: 445478fc89e45602ea01de0b5fdee463 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 518 /\ CPID: 9c5de0946f33a63ad165cb7c0ca6e405 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 519 /\ CPID: 968d10351616a89a2a4473d987d9c382 / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 520 /\ CPID: f7d08af495a2892808c553e90ae8695a / DIFF: 0 / VALID: false / GRC: 
+(Good: 258 - Bad: 521 /\ CPID: 7e41ff1a1cf35e2b139697b01ec2ac24 / DIFF: 0 / VALID: false / GRC: 
+(Good: 259 - Bad: 521 /\ CPID: 1f65951af61f337be04c8549d3d0e7df / DIFF: 0 / VALID: true / GRC: SM6zfnByu3sbQ3R8yW8y3uLPZFqQCNfsHL
+(Good: 259 - Bad: 522 /\ CPID: b533967fb954e3dc9357aeee730f75a4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 259 - Bad: 523 /\ CPID: 6697028766f18d5ea5c7cd9b7ff31f1d / DIFF: 0 / VALID: false / GRC: 
+(Good: 259 - Bad: 524 /\ CPID: 037c216db8dab34790773914f41ec360 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 524 /\ CPID: 46f6da7497720933204d7cc478619bb8 / DIFF: 0 / VALID: true / GRC: SHVHT377ADPh7R8mqCvLVZxDr24YidmyHZ
+(Good: 260 - Bad: 525 /\ CPID: f6048ce6bd5017b96c2737beb645769e / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 526 /\ CPID: d6d728ff50e7fadee112faf294352ce2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 527 /\ CPID: f3bc78653390003f3a3525c1526ffb39 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 528 /\ CPID: 5b2ad2d3a9b2b67a9b43ede3332e5201 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 529 /\ CPID: 4651d5673898d350eda2c9c424b931e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 530 /\ CPID: 7d5d4e79e88621361761d57e0134de1e / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 531 /\ CPID: 730f43777e67ebdf5d03f039474ec7f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 532 /\ CPID: 2cfc6d57e3675914a5f90da46c384428 / DIFF: 0 / VALID: false / GRC: 
+(Good: 260 - Bad: 533 /\ CPID: 04ee17669637df72cc6626da368e3dfd / DIFF: 300.11426576284 / VALID: false / GRC: 
+(Good: 260 - Bad: 534 /\ CPID: 92e1aa61d95e31bb012d4fd0c62684ba / DIFF: 0 / VALID: false / GRC: 
+(Good: 261 - Bad: 534 /\ CPID: 603f1a690bd76ad283d67480e011cec8 / DIFF: 27430.1801369225 / VALID: true / GRC: SJ2oQhGYp9TqoR9Z8jGeLmbL8Xqi8Bsg8b
+(Good: 261 - Bad: 535 /\ CPID: 0d7fa9eb21de8b49f62548cc3a924adf / DIFF: 0 / VALID: false / GRC: 
+(Good: 261 - Bad: 536 /\ CPID: e726438885c83bf8dbb5efb60b8e463c / DIFF: 0 / VALID: false / GRC: 
+(Good: 261 - Bad: 537 /\ CPID: 9b2eb18f07d2ba48eaf1bd34b70e1a84 / DIFF: 0 / VALID: false / GRC: 
+(Good: 261 - Bad: 538 /\ CPID: d1f96b5a4cce3066b99e780c4054b773 / DIFF: 0 / VALID: false / GRC: 
+(Good: 262 - Bad: 538 /\ CPID: 5218e40846677629225f0c6bd5fdf428 / DIFF: 0 / VALID: true / GRC: SEVGTDGMsfSfP1xX89GXhsESQSSBd58QRv
+(Good: 263 - Bad: 538 /\ CPID: 7467b330fd6b1f14d368503a950a7082 / DIFF: 850.98015151256 / VALID: true / GRC: S4ywKvfWP65mu8LwijkiGyhshrZ2N6BNoY
+(Good: 264 - Bad: 538 /\ CPID: 50c6b48ca56262ae211cf06fd263997b / DIFF: 0 / VALID: true / GRC: S7hztxgvGNtrpLZsoneBsK9ccq3Q7moxzZ
+(Good: 264 - Bad: 539 /\ CPID: 832f1bcd220b55f1949db2d7615540f8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 540 /\ CPID: 9e85aa60001deb31f11357feff29f88c / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 541 /\ CPID: 1b9f0b1a6da6d1ea7e9febf3aac7d955 / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 542 /\ CPID: a7e060da00013437761ee64c2ad78b9e / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 543 /\ CPID: 49571d63665deb7c40e80183bcca411f / DIFF: 226.195152494496 / VALID: false / GRC: 
+(Good: 264 - Bad: 544 /\ CPID: 027153e2cc1af3d63a20eb7e86e1ea30 / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 545 /\ CPID: d6cf22705be73de4292ad78c3881fe24 / DIFF: 0 / VALID: false / GRC: 
+(Good: 264 - Bad: 546 /\ CPID: 627e1ba28a48ee3c4e593b95eed2c536 / DIFF: 0 / VALID: false / GRC: 
+(Good: 265 - Bad: 546 /\ CPID: 513af4784ff3a8a432ed01978fcf8239 / DIFF: 529.07874792425 / VALID: true / GRC: SDXQHwvCgduUkgyNVdHrR8C2HfVwRoe9ky
+(Good: 265 - Bad: 547 /\ CPID: 1e6ab09bcbfadf0bf909afc5fe0958bf / DIFF: 0 / VALID: false / GRC: 
+(Good: 266 - Bad: 547 /\ CPID: 0c9fc513e638a2d005c523a28e7e928f / DIFF: 0 / VALID: true / GRC: S8iF9zwKHES2AZatana9nkiqjRSSGWgT5K
+(Good: 266 - Bad: 548 /\ CPID: a678ffa3381f441173bf7cb24e59a721 / DIFF: 0 / VALID: false / GRC: 
+(Good: 266 - Bad: 549 /\ CPID: 08a31aa06dea47731aaf179fd6f2e193 / DIFF: 0 / VALID: false / GRC: 
+(Good: 266 - Bad: 550 /\ CPID: ad896a034004bb931b90caaf48d3b29c / DIFF: 0 / VALID: false / GRC: 
+(Good: 266 - Bad: 551 /\ CPID: 3e3b46a375b58c57b44f473e70b6ace6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 266 - Bad: 552 /\ CPID: 4f33ed2171ecddc58847017694ae124d / DIFF: 0 / VALID: false / GRC: 
+(Good: 267 - Bad: 552 /\ CPID: fbafd481fda92df08cc3f2e2515778ec / DIFF: 0 / VALID: true / GRC: SLoRDYKdT5fpCGP7MJTdPHHm9yXQz5Uky6
+(Good: 267 - Bad: 553 /\ CPID: 57f6d310b7419292ac1781d8f843665e / DIFF: 0 / VALID: false / GRC: 
+(Good: 267 - Bad: 554 /\ CPID: 90d6c2cb5aaa6619b56d29cfe36dd75d / DIFF: 0 / VALID: false / GRC: 
+(Good: 267 - Bad: 555 /\ CPID: 0399777ef94da75af9b70c2785a72e4a / DIFF: 0 / VALID: false / GRC: 
+(Good: 268 - Bad: 555 /\ CPID: adf9f97e6dd40989780aec9c850a3507 / DIFF: 0 / VALID: true / GRC: S5zrujB3114ezEvHDtPwAzjpiZJ9PxKPg3
+(Good: 269 - Bad: 555 /\ CPID: 827c107a88077e037747e4566f42b76d / DIFF: 12441.46983682110 / VALID: true / GRC: RzSEKtYsKHhGRCqhcz49V5ukS6CLgySQ3d
+(Good: 270 - Bad: 555 /\ CPID: f1d6e8d9fe4c2d559f1c64c9df81b5d2 / DIFF: 0 / VALID: true / GRC: SKRBbbqg5Lri3f1xw48MCJqnX9RP8qtAuS
+(Good: 270 - Bad: 556 /\ CPID: 1546f3fecc085227b3eaaa87485c9c1d / DIFF: 18462.48064261726 / VALID: false / GRC: 
+(Good: 271 - Bad: 556 /\ CPID: 7122bc6cf04c46488c8a72f205995dd3 / DIFF: 2795.815597759976 / VALID: true / GRC: SJTWwDp1fzV9QMbhcXPYyrF4hpYun7TuSN
+(Good: 271 - Bad: 557 /\ CPID: 229977ec0291a7309f4df20518362536 / DIFF: 0 / VALID: false / GRC: 
+(Good: 271 - Bad: 558 /\ CPID: 0d014323cce99c5ec71904a2f4b001da / DIFF: 0 / VALID: false / GRC: 
+(Good: 271 - Bad: 559 /\ CPID: 2d296b1c0ef6a3f7f1a2bc83c5cda67f / DIFF: 0 / VALID: false / GRC: 
+(Good: 271 - Bad: 560 /\ CPID: 646b9179a4f1266ac2f7408b3d57375a / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 560 /\ CPID: baa2eefa36081bc3e8b9b8b90ee20d8c / DIFF: 5584.22462020979 / VALID: true / GRC: SCaXGkEArwriTqUzGLkkB8FxZziH4qykmE
+(Good: 272 - Bad: 561 /\ CPID: 00337b5cbc95ecfeb42db28bd18fe63b / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 562 /\ CPID: 9e79f628fa42baf1025a778d83d7c36b / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 563 /\ CPID: 84614f64797ebc6b1fe45d112fb8de6f / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 564 /\ CPID: 061bf70dfdbb0fcc10dc1427cd927f77 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 565 /\ CPID: d6a623d8542b06be2ba47da851b19d6d / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 566 /\ CPID: 0c81346eb28337eaec5a68953404d4d0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 567 /\ CPID: 8f18d5062e42881116b7293be6606c7d / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 568 /\ CPID: c0183e75ebce5f7ae11a420d42ca6980 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 569 /\ CPID: e507710c167cfb3f892164820fbffe56 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 570 /\ CPID: 07b8ee3d068079f572b72c60043cb85e / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 571 /\ CPID: f56ade0d8e9d5309d03e6ae4ef75ecb4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 572 /\ CPID: a87e8c295bcb1ce3374e914dba100447 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 573 /\ CPID: 7e7942ebacc6e4fee9a57dfe13b04806 / DIFF: 0 / VALID: false / GRC: 
+(Good: 272 - Bad: 574 /\ CPID: 9090461f8fab2e2d135e5b253d2cb464 / DIFF: 413.852336737391 / VALID: false / GRC: 
+(Good: 273 - Bad: 574 /\ CPID: b779ac5846a4a1f8196001227ab2db78 / DIFF: 1729.12729935463 / VALID: true / GRC: S5zkE2MPK34BtfSFUZtcj8hbf8pLcH4gzY
+(Good: 273 - Bad: 575 /\ CPID: cfd2f27472e61c5d4958ba842a6083b7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 274 - Bad: 575 /\ CPID: 9a516e998ffbcb50012f95726aebbf7f / DIFF: 32098.9336818970 / VALID: true / GRC: RzZrMR5PFJ2Q2a5QWz27PHAMdhw3o6neuA
+(Good: 275 - Bad: 575 /\ CPID: a572c876da4d49dc7f12cc71908af4f0 / DIFF: 0 / VALID: true / GRC: S7BgeYoqYrRXWerzipp74KHFpbYHiLxwXC
+(Good: 275 - Bad: 576 /\ CPID: a4e4af0454ac1eec9d16fb22e14a60f3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 275 - Bad: 577 /\ CPID: 491815eebcf9460f982db1f64d045193 / DIFF: 0 / VALID: false / GRC: 
+(Good: 275 - Bad: 578 /\ CPID: eeac7e8c3b0a75811f2c108eadecba86 / DIFF: 1215.652956354270 / VALID: false / GRC: 
+(Good: 275 - Bad: 579 /\ CPID: 3dcdb6a87ee029cbd87b3140d36e36c3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 275 - Bad: 580 /\ CPID: 8adf55f285589ec6dbd57f3a1bdb5f11 / DIFF: 0 / VALID: false / GRC: 
+(Good: 275 - Bad: 581 /\ CPID: 2567011b0df3f07789def10b4280fb90 / DIFF: 0 / VALID: false / GRC: 
+(Good: 276 - Bad: 581 /\ CPID: 0390450eff5f5cd6d7a7d95a6d898d8d / DIFF: 0 / VALID: true / GRC: S8ytydsTx4o1zJgMMs2wAKGUgRq3NB95z1
+(Good: 276 - Bad: 582 /\ CPID: 39d2424f484dd1f463d44055298572b2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 276 - Bad: 583 /\ CPID: 863c5f62b2e05046b4ca0014adb89f2e / DIFF: 0 / VALID: false / GRC: 
+(Good: 277 - Bad: 583 /\ CPID: 45e08436f137df8ea3beab49f8ac1f32 / DIFF: 0 / VALID: true / GRC: SFHtbCmaMED5dndEZjgk95E2aX51xwU7WB
+(Good: 277 - Bad: 584 /\ CPID: 523ffb81fb13347912d950c2a2ce8817 / DIFF: 0 / VALID: false / GRC: 
+(Good: 277 - Bad: 585 /\ CPID: 28a7a9103e1b6f24e0a90f083d31f1d4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 278 - Bad: 585 /\ CPID: 0ded68f4f2e69faf653e5ca9907038d2 / DIFF: 0 / VALID: true / GRC: SAkNpE42qxxStT17XpNVwfPVg6XkXFdEib
+(Good: 278 - Bad: 586 /\ CPID: ab7a924fe270e63d29d221d0d3fd4398 / DIFF: 0 / VALID: false / GRC: 
+(Good: 278 - Bad: 587 /\ CPID: 0de1e5b14d1aa8bc9e23182b70135896 / DIFF: 0 / VALID: false / GRC: 
+(Good: 278 - Bad: 588 /\ CPID: 1c989ac6008c9cb6621a30ca216ddd71 / DIFF: 0 / VALID: false / GRC: 
+(Good: 278 - Bad: 589 /\ CPID: 378d3461c18a0d7b5874840feefb10e2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 278 - Bad: 590 /\ CPID: f6f110efe3c8fa038320e06b4c836162 / DIFF: 0 / VALID: false / GRC: 
+(Good: 279 - Bad: 590 /\ CPID: b824a5cbd0bff1d062812d79f14e7389 / DIFF: 0 / VALID: true / GRC: SFBiizVrJjr2fHbztcc4vKJQPKLcxmEDHr
+(Good: 279 - Bad: 591 /\ CPID: 32ce57d865136354a8770b7a9f23f646 / DIFF: 0 / VALID: false / GRC: 
+(Good: 279 - Bad: 592 /\ CPID: e41e9c4984d1640445e10bc3dd7da823 / DIFF: 0 / VALID: false / GRC: 
+(Good: 279 - Bad: 593 /\ CPID: 2e6195ca0ae582fe37ae8ee5fdedd996 / DIFF: 0 / VALID: false / GRC: 
+(Good: 279 - Bad: 594 /\ CPID: cc7b1a3e2cd898a17f8ea55bff88926a / DIFF: 0 / VALID: false / GRC: 
+(Good: 280 - Bad: 594 /\ CPID: f50efc75c8364e7df6c49e1c3b6c1129 / DIFF: 69.07086940322 / VALID: true / GRC: S3SgsXrtemm75E7mEpz9511QRHm6ydA5dL
+(Good: 281 - Bad: 594 /\ CPID: caa5544470d2cf7a2acca74d641dd2a0 / DIFF: 268.60110587328 / VALID: true / GRC: SJR3Tq1p5sc9n1wuY8pnidL31GSLNXucdZ
+(Good: 282 - Bad: 594 /\ CPID: 173c5239b3b3d305292f9c900abfbd08 / DIFF: 0 / VALID: true / GRC: S4YuP21H5M5nNQkqh6zcdFdRcKzT5FjhG2
+(Good: 283 - Bad: 594 /\ CPID: d78af784aacb088a8ae3391e9b042519 / DIFF: 0 / VALID: true / GRC: S6ci6nWSvc5Gwo7yQTLEpHnQ9mQDekdpT5
+(Good: 283 - Bad: 595 /\ CPID: 4eb494a5965df4649579aa76e2774886 / DIFF: 0 / VALID: false / GRC: 
+(Good: 283 - Bad: 596 /\ CPID: 5156c8cd048082ac367fcb3385a6bcfa / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 596 /\ CPID: e87ef046cc85a35f3b0a195c884948e8 / DIFF: 5999.5778660745 / VALID: true / GRC: S7VchwA5DgTnkUA8P3Ju7L4dfNEe8sYofu
+(Good: 284 - Bad: 597 /\ CPID: 72602e7022ed54ba060111f99a0b6782 / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 598 /\ CPID: b336d31b32de263e3ab9adae7576ef2b / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 599 /\ CPID: 9fb090d4b70e473a28ba6f5955b5bfcb / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 600 /\ CPID: 0690fa324fcfa09b170c3dac1d01c677 / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 601 /\ CPID: 94e90aa731b1d9eed49d61f45ac94da8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 602 /\ CPID: b0b5206b7343c0dc841555db4c7adb59 / DIFF: 0 / VALID: false / GRC: 
+(Good: 284 - Bad: 603 /\ CPID: a124dc0ab4ef689488ae2f96393582d7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 285 - Bad: 603 /\ CPID: d4240940bca1728806404374628a94ce / DIFF: 32647.6298521039 / VALID: true / GRC: Rys3ikhn5nowCF18J7n4M8BFPMii4B2PGu
+(Good: 286 - Bad: 603 /\ CPID: 945b7baa4d14950e26d011d1035caa30 / DIFF: 0 / VALID: true / GRC: SLscKtM1yMRM6tmFU9AcJp45cA96zMoskA
+(Good: 286 - Bad: 604 /\ CPID: f9efac7dc339223eba025dfb179f072c / DIFF: 0 / VALID: false / GRC: 
+(Good: 286 - Bad: 605 /\ CPID: 9ae6a18110211256b5bdad2979aaf1ca / DIFF: .982091885409 / VALID: false / GRC: 
+(Good: 287 - Bad: 605 /\ CPID: 204d178f9b6d4de25297c99fed0ed860 / DIFF: 841456.105680441 / VALID: true / GRC: SB3WnySUQBEPyFz5Axr6G4TvVnQoK9BWiF
+(Good: 287 - Bad: 606 /\ CPID: 61b8ecc09bb26d547a030cdb4b4afd4c / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 606 /\ CPID: b28ef0b6c2ceb0b0495a3d05a98593f5 / DIFF: 6151.16036208044 / VALID: true / GRC: RxrypgFNsr8DrvRTEnJZD99Z9PxjMz6FNb
+(Good: 288 - Bad: 607 /\ CPID: 8e81b2e9b601b904c0fbf1c4e5ffb91c / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 608 /\ CPID: 75bbea8617df4cc9ab74a86d65b4f512 / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 609 /\ CPID: e4446450570344578fc782831b586c3b / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 610 /\ CPID: 18188b4239bc82f4d9632dd8bf3f56e1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 611 /\ CPID: 8cc4652eba4ec749da6bb627c54013a7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 612 /\ CPID: fa34cea812e47ccd97f680c6d1714ceb / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 613 /\ CPID: 39e3332331e3f6ae21786357aa45cd2a / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 614 /\ CPID: 145ea2c111800556a78863532e3bc4b1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 288 - Bad: 615 /\ CPID: 20629b89194dbd97d3f8c3c9eab6b235 / DIFF: 0 / VALID: false / GRC: 
+(Good: 289 - Bad: 615 /\ CPID: dbb6738b88abc133a57792a5b9687eba / DIFF: 42241.8671526809 / VALID: true / GRC: S9H3tYyV7AaFXx1W6xftEexS7vCYF9zTiC
+(Good: 289 - Bad: 616 /\ CPID: ed31fd94dc0fb476efa8204905966e52 / DIFF: 0 / VALID: false / GRC: 
+(Good: 289 - Bad: 617 /\ CPID: 45a91a1b77158754cb846bd9ac599ef8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 289 - Bad: 618 /\ CPID: 150427ff56f4ab81b19bd53075bee76a / DIFF: 0 / VALID: false / GRC: 
+(Good: 290 - Bad: 618 /\ CPID: 70101227944feb1c123e680507e032a7 / DIFF: 0 / VALID: true / GRC: SLe8N4imFsUyRbf5yQhsBPVoxMr1gPXNjE
+(Good: 290 - Bad: 619 /\ CPID: abc5cc2718ddb011aac4fc26dde410ea / DIFF: 0 / VALID: false / GRC: 
+(Good: 290 - Bad: 620 /\ CPID: fc15192b790460cde08c0057112b92fa / DIFF: 0 / VALID: false / GRC: 
+(Good: 290 - Bad: 621 /\ CPID: 480e68a96727ac8d2d4391720ecb7913 / DIFF: 1197.3752868137 / VALID: false / GRC: 
+(Good: 290 - Bad: 622 /\ CPID: 78fb95ee82349395bee4364e766a302d / DIFF: 0 / VALID: false / GRC: 
+(Good: 291 - Bad: 622 /\ CPID: c8d8978bab875934f73218311b32b21b / DIFF: 0 / VALID: true / GRC: SDtfXs9sY98QTk1MR5ox28RTpN8xtbWShP
+(Good: 292 - Bad: 622 /\ CPID: 596ed713f923e45deecd99098b507bd0 / DIFF: 985.525398135743 / VALID: true / GRC: SBaLYfGAAuUrpmAqWsjjc22qAW133RQtkB
+(Good: 293 - Bad: 622 /\ CPID: 9115ebb5b5d7804845c129e3b6db4e84 / DIFF: 0 / VALID: true / GRC: SDiivxgEVfAn9uRWqzrmyThVFUGPs5incN
+(Good: 293 - Bad: 623 /\ CPID: 921acd53f4e98bacd2d4899e3b119f21 / DIFF: 0 / VALID: false / GRC: 
+(Good: 293 - Bad: 624 /\ CPID: 4e60633df732c05cb8536e763db0d969 / DIFF: 0 / VALID: false / GRC: 
+(Good: 293 - Bad: 625 /\ CPID: 8c152a565bb0823d671931495676f3c9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 293 - Bad: 626 /\ CPID: e09601e14a25769a92d528c9a6c2585a / DIFF: 0 / VALID: false / GRC: 
+(Good: 293 - Bad: 627 /\ CPID: 422c4bba8f44fc16c47eef77cc534133 / DIFF: 0 / VALID: false / GRC: 
+(Good: 294 - Bad: 627 /\ CPID: cc4e1c1bd400ac68c8685c0e80d9d984 / DIFF: 0 / VALID: true / GRC: SJU7aDcs52ikSCcNodpbXqU23ZHLzmTRFq
+(Good: 294 - Bad: 628 /\ CPID: bb4a9cec52eaf6b3fb7c54baa1561c04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 294 - Bad: 629 /\ CPID: 1d72b12f758e3d388ccc8afd06f5f53b / DIFF: 5231.00017974678 / VALID: false / GRC: 
+(Good: 294 - Bad: 630 /\ CPID: 755ef7d742665a5d1ea9e6e4619ee1be / DIFF: 0 / VALID: false / GRC: 
+(Good: 294 - Bad: 631 /\ CPID: 101db3729afaf06cca8a6e590a56eb3b / DIFF: 0 / VALID: false / GRC: 
+(Good: 294 - Bad: 632 /\ CPID: 427e9faae0501a3dca3521b1dc599e86 / DIFF: 0 / VALID: false / GRC: 
+(Good: 295 - Bad: 632 /\ CPID: 5ed2db98a2ace029813c66265dad4286 / DIFF: 3708.75371122130 / VALID: true / GRC: S1G3e59MVEYeM25PSCzaxLZ8UkdKYNgCFm
+(Good: 295 - Bad: 633 /\ CPID: e4b2e9f06a7c10a5f5d0f963b8e4490c / DIFF: 0 / VALID: false / GRC: 
+(Good: 295 - Bad: 634 /\ CPID: e8671252222abe832ebad5b9832e34f1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 296 - Bad: 634 /\ CPID: 55ba6fb2935d9a5b7e00c7afca27af83 / DIFF: 0 / VALID: true / GRC: S4vuHewLEEUWub8UJY9eutMTzkshdiY5vr
+(Good: 297 - Bad: 634 /\ CPID: f62f1c9cf854337001f5479fe4ce4115 / DIFF: 6728.61937844321 / VALID: true / GRC: S1ZwkBRbipFT2fpWw4Y7zPEPN9hQcBTXsp
+(Good: 297 - Bad: 635 /\ CPID: 0131d4e16753480607ef81cbed1cbd09 / DIFF: 0 / VALID: false / GRC: 
+(Good: 297 - Bad: 636 /\ CPID: 68d0cbfbe48eb4f08ece033c0d14f67c / DIFF: 0 / VALID: false / GRC: 
+(Good: 297 - Bad: 637 /\ CPID: cfab8c92e5fb30ff36fa54e967daad7d / DIFF: 0 / VALID: false / GRC: 
+(Good: 297 - Bad: 638 /\ CPID: 41f38aaa26f9dcc3ce78e243e2c71b4a / DIFF: 0 / VALID: false / GRC: 
+(Good: 298 - Bad: 638 /\ CPID: 6895f303968ae1ccd62e2b174739cd00 / DIFF: 0 / VALID: true / GRC: RxZRYv4BsZkKqvKhQk7QTA53G6FU6yX3Mh
+(Good: 298 - Bad: 639 /\ CPID: 1819e3c89b51fb09c9d058dfd2a03a39 / DIFF: 8552.60833208480 / VALID: false / GRC: 
+(Good: 298 - Bad: 640 /\ CPID: 8fe93d735d04a99562b170abad08fa3a / DIFF: 0 / VALID: false / GRC: 
+(Good: 299 - Bad: 640 /\ CPID: d794a48fe6ac954c2fdf7f5d796493d9 / DIFF: 1379.86223782015 / VALID: true / GRC: SDvwiKRhTUwuNG6YebH35eWKuH88xwX3rY
+(Good: 299 - Bad: 641 /\ CPID: 36ba05274318a5006c0edd9759bf05d9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 299 - Bad: 642 /\ CPID: 8def9050f27a8b743c1abfce5341cf08 / DIFF: 77177.1361276690 / VALID: false / GRC: 
+(Good: 300 - Bad: 642 /\ CPID: ad9a179dc17d3fa987bd75e3b71378cd / DIFF: 16276.9039043160 / VALID: true / GRC: SLd669Z5VMX3MMLQqxsjDRbeXR4mqBFPmX
+(Good: 300 - Bad: 643 /\ CPID: df4f43456b33f643620fea74af2516c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 301 - Bad: 643 /\ CPID: ae51c3c4d96c1573460b621e9c636eff / DIFF: 16318.70619106785 / VALID: true / GRC: Rz9rD4XxXpPhfdBL6k48oJ7u3v3KK7sSG3
+(Good: 302 - Bad: 643 /\ CPID: 93c8e4466049ec095ed49f3288766fca / DIFF: 0 / VALID: true / GRC: SGJaj2HkTSV8dAN7CLHwEwGnbB4K4jVx3n
+(Good: 302 - Bad: 644 /\ CPID: 660f1cb267485ad903ed8ca856bc8d8a / DIFF: 0 / VALID: false / GRC: 
+(Good: 302 - Bad: 645 /\ CPID: db055bf8c12f079bfa91b581748299ed / DIFF: 0 / VALID: false / GRC: 
+(Good: 302 - Bad: 646 /\ CPID: 7bb345b99c390863b42e50b397f51da1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 302 - Bad: 647 /\ CPID: 5175401df67a8f162641bce6952c1635 / DIFF: 0 / VALID: false / GRC: 
+(Good: 302 - Bad: 648 /\ CPID: 3aeafa4c3f0d22b2f746c685be80c2f0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 302 - Bad: 649 /\ CPID: eb58b80aebebae30c0cb3424291e5cc7 / DIFF: 1764.361572099370 / VALID: false / GRC: 
+(Good: 302 - Bad: 650 /\ CPID: 3fd0b1f38d2f82f8f6bd5ed13297173c / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 650 /\ CPID: d1fcb7b592d470788019165fe12e4aca / DIFF: 563.683715765850 / VALID: true / GRC: SBtF99mGc7WZRtvBRbqFnoo8GTriiVHDAJ
+(Good: 303 - Bad: 651 /\ CPID: a5a2df7790a2900ed0d3292bd8ec5028 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 652 /\ CPID: b7f7edf2a7bc1ad0607262b7db3fce8a / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 653 /\ CPID: 8208e2720b6859423139fe051654cf7f / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 654 /\ CPID: b3525bdd16786a1178a73829fa936370 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 655 /\ CPID: 4b05d5a7a21d3132e035cdaafce04238 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 656 /\ CPID: 87c4cd2d47c41e24624aa504aa9eece5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 657 /\ CPID: ce0d1dc2ed18b2b47c01a2f13f01e3f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 658 /\ CPID: cb9d2fc66bff5a1e11a9f6bbe857d54d / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 659 /\ CPID: 8107b09b04f793eca3a59d2c085dffb9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 660 /\ CPID: 0534e8b2f9dd6a1afd45ffa22a886fd3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 661 /\ CPID: 2ac61dac4ad08d48735c163b02690a63 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 662 /\ CPID: 81a6e8ed86ce11eef00783c2acd06f86 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 663 /\ CPID: dd2b5479925233a376a8ab66cb52ba2f / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 664 /\ CPID: e4ab8a4a8367a60b04c4b6134c0c0fec / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 665 /\ CPID: d6c9e2ca95df14563c6c8d611d875ff4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 303 - Bad: 666 /\ CPID: ffe33a6ad302069e30cf9a252345e9ea / DIFF: 0 / VALID: false / GRC: 
+(Good: 304 - Bad: 666 /\ CPID: 97676bc073e11a591871c5c5f331f75f / DIFF: 1423.767633207383 / VALID: true / GRC: SDFAZMyWgiwFsDBJXqhXnog32MaVARez1u
+(Good: 305 - Bad: 666 /\ CPID: 5768fceb3426bc016c86ad5d2e16ae3c / DIFF: 0 / VALID: true / GRC: S8EDt5nY6R8fLXtRUPygPbznyXjGM2q7LV
+(Good: 305 - Bad: 667 /\ CPID: 4349db6b0ee7174cddb83435afded978 / DIFF: 3782.117486699610 / VALID: false / GRC: 
+(Good: 306 - Bad: 667 /\ CPID: 4eda14a2be77e7d16c988d56adee4af9 / DIFF: 21574.29573217848 / VALID: true / GRC: S9nyKR6zEwoHyaoweuvwwp9TazWeup7k8q
+(Good: 307 - Bad: 667 /\ CPID: aa7a2a491a4c9401074824da31e80e6c / DIFF: 0 / VALID: true / GRC: S2Vcn3i4ELwLBfRkJxzjLvVsWZ4DWbHG2V
+(Good: 307 - Bad: 668 /\ CPID: fa7826fddf93a062c405c8f21543b038 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 668 /\ CPID: 9b4366216e9870d5e68dd894d30463da / DIFF: 0 / VALID: true / GRC: S1PysC8M4riuf9Tuv6JJ5ZCBcosWtNFU5T
+(Good: 308 - Bad: 669 /\ CPID: 228c3bed7d0e8df551cfa652c6a0ac66 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 670 /\ CPID: fe4777406bf7c86b17df735f754a8e43 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 671 /\ CPID: 7f5c4fd36e18dfaa39b7e76c46fe7554 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 672 /\ CPID: 251a93c8c0068011e69b4c7134b150af / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 673 /\ CPID: 51a46ab74eac58d33969114d3b07dcd9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 674 /\ CPID: 47ce0c638855e0553ab3a20220f2b962 / DIFF: 0 / VALID: false / GRC: 
+(Good: 308 - Bad: 675 /\ CPID: bb474ba5e494996bf306e5f371008342 / DIFF: 0 / VALID: false / GRC: 
+(Good: 309 - Bad: 675 /\ CPID: 55a8ddb1d407e9fa2b6df07a3ea63610 / DIFF: 0 / VALID: true / GRC: Rx3NDNpzgVYw2FKiVLSxf2cZEsKdzYM3gm
+(Good: 309 - Bad: 676 /\ CPID: 9a6a96d819ec8599bc6e089a623bbc6b / DIFF: 0 / VALID: false / GRC: 
+(Good: 309 - Bad: 677 /\ CPID: 194ce5e1d6ba550968ef705c363a5637 / DIFF: 0 / VALID: false / GRC: 
+(Good: 310 - Bad: 677 /\ CPID: f5e450ad342fb8be0e5855717df92a44 / DIFF: 0 / VALID: true / GRC: S6tzYFqrn8gkW5kHT1xEHDb6FYuANCSfk5
+(Good: 310 - Bad: 678 /\ CPID: 78a6c8f0f5f243c087c87780c5171f43 / DIFF: 0 / VALID: false / GRC: 
+(Good: 310 - Bad: 679 /\ CPID: 9659a8da812a51d2da392a9b2bded1e8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 310 - Bad: 680 /\ CPID: 6c2c0480900248207210266d166fae9c / DIFF: 0 / VALID: false / GRC: 
+(Good: 310 - Bad: 681 /\ CPID: cf30634a1686d8f211421a1f7f7c9492 / DIFF: 0 / VALID: false / GRC: 
+(Good: 311 - Bad: 681 /\ CPID: b1346d96ccfc02780362db504f496f6b / DIFF: 4646.45414035412 / VALID: true / GRC: SCVx49bD7WQBhYcJALkCz1X7Uw3tqxu2o8
+(Good: 311 - Bad: 682 /\ CPID: a7943e2c23da4e63e5dc1a29fb838e4d / DIFF: 0 / VALID: false / GRC: 
+(Good: 311 - Bad: 683 /\ CPID: d14a2a133805caf6fd4a45c649ac5640 / DIFF: 0 / VALID: false / GRC: 
+(Good: 311 - Bad: 684 /\ CPID: b09cef28aaa6d06e0372230168788abe / DIFF: 0 / VALID: false / GRC: 
+(Good: 311 - Bad: 685 /\ CPID: 9e70af5104504d78490c67a3b5e54bc6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 311 - Bad: 686 /\ CPID: 1e4df1ecf35ced1fdd58325470c373da / DIFF: 0 / VALID: false / GRC: 
+(Good: 312 - Bad: 686 /\ CPID: 1638152dadcac51f8bb71da66dfe092d / DIFF: 0 / VALID: true / GRC: SGgi9igXYbbwM313TK1GD7iG9EPxR9yR7q
+(Good: 312 - Bad: 687 /\ CPID: 29d1671180b43996bc96adec896eec5f / DIFF: 0 / VALID: false / GRC: 
+(Good: 312 - Bad: 688 /\ CPID: 516139ef97437c121fa4e8085709d8f8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 312 - Bad: 689 /\ CPID: 58dc82cd7f3f504315baf91c8ad7dfdc / DIFF: 0 / VALID: false / GRC: 
+(Good: 312 - Bad: 690 /\ CPID: a4384d7a7c4b3ccd25534e132c765b8b / DIFF: 0 / VALID: false / GRC: 
+(Good: 313 - Bad: 690 /\ CPID: 5b9ddc09d04112f3d861a65638230e40 / DIFF: 0 / VALID: true / GRC: S9ZvCVSLMTL4B4mdviAUpH5Khq8gP1xkK3
+(Good: 314 - Bad: 690 /\ CPID: 17632277c6f8f92738ffbdbb647d78a3 / DIFF: 490.152345950064 / VALID: true / GRC: SFTokCUKZnUrCzuBuh5WtgmzMRU8Ffu3P1
+(Good: 314 - Bad: 691 /\ CPID: edb8606279c71254fcbc7e1a7ac4f70c / DIFF: 0 / VALID: false / GRC: 
+(Good: 314 - Bad: 692 /\ CPID: f89f0044b888af13341f4de4f89e672f / DIFF: 0 / VALID: false / GRC: 
+(Good: 314 - Bad: 693 /\ CPID: ac08c0ab78150c75ee52141829144ff3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 315 - Bad: 693 /\ CPID: 0c130640a79aab9f1eaed36277bc51fc / DIFF: 0 / VALID: true / GRC: SCLCaFDCMxZ82EBx3tzVH7Lz197w6vq8Nn
+(Good: 316 - Bad: 693 /\ CPID: 09696d66b271b84cfb2e7d2dfb1e044d / DIFF: 0 / VALID: true / GRC: SHyqsXwSXqqATwwkp5psM1iAUr4ZfF9PS9
+(Good: 316 - Bad: 694 /\ CPID: 90721509c0690f62661f87227fa7add4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 695 /\ CPID: 634e969f8e1c0b3a355fd6074f6f7010 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 696 /\ CPID: a9bafd825852b5075ccce1cfc0376ae5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 697 /\ CPID: 8c55816abccb0518e14279b411cf654a / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 698 /\ CPID: 2c1f30d08da4346fba2f92ec6212ed63 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 699 /\ CPID: 0c01ee810be40d96ed01ea1fefa737d5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 700 /\ CPID: 1583d90eb6ec50c10f6d70884ec3233d / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 701 /\ CPID: 29aa911ec147faa8927d15f0eaf57ecf / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 702 /\ CPID: 3380b5ba9c2cbd92e9780622c8459249 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 703 /\ CPID: d856594e659fa70ec068edae6578351d / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 704 /\ CPID: b2cd85a72a5629e69ea57bfb70b20c6c / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 705 /\ CPID: e888135b4e34d25dc2d8b648ed5a5dd8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 706 /\ CPID: f1f21281556b6e2066807cfbf0545deb / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 707 /\ CPID: 0636431159b644a4b91151b9b8a08d36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 708 /\ CPID: 9d3764e67836d4de21c598897aacab26 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 709 /\ CPID: d4d0c85dd1b933f63bf963dac02a272d / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 710 /\ CPID: d5f3b309e6af54db28235449016f7b0a / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 711 /\ CPID: 8646f3a5ae5fefdc54c3d957f26154a9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 712 /\ CPID: 80efd2f6d87c734b5c9502d58be3df20 / DIFF: 0 / VALID: false / GRC: 
+(Good: 316 - Bad: 713 /\ CPID: b1e28186afe4d6fa1f15af90716987dd / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 713 /\ CPID: 925328d8ece26d04ad96428b28734266 / DIFF: 0 / VALID: true / GRC: S1dx4hpMNs3YzSaAdrbqUYKVxPS3BxnaYU
+(Good: 317 - Bad: 714 /\ CPID: 1e8ca1be4a6d72557c8aa83492d75f8d / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 715 /\ CPID: c4e0d94fe438895a20df1de02b59dd01 / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 716 /\ CPID: 05ca901200ff6a58ed112d914220d5e9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 717 /\ CPID: 4964144c679f1753cf8ed7dd48230a4f / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 718 /\ CPID: c93e0dffb21fdcd2fafec34bb42639d2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 719 /\ CPID: 589c5f88f377fe66bdb177395f17f279 / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 720 /\ CPID: 7b8c7809da829b63d4f424cb5fa38474 / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 721 /\ CPID: a7938b21f6c8a7fbfed458c61e079aef / DIFF: 0 / VALID: false / GRC: 
+(Good: 317 - Bad: 722 /\ CPID: 9bbfde5a1e2088c3adc90b67cb6345ef / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 722 /\ CPID: bc6f45449edf33c2ae0ddd254c51d593 / DIFF: 0 / VALID: true / GRC: S9qnowzj4MMsVcbjZQudxNUcUM67zMHcRk
+(Good: 318 - Bad: 723 /\ CPID: c68b8eb17ceb924e3f7debc90d9749ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 724 /\ CPID: c67c06a1792b4b56aceb3385275fdb4c / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 725 /\ CPID: bf1cab0a424f76715d5a62f565b20421 / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 726 /\ CPID: e2e7f991ed5ef01394c9cdcd49cd3ad5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 727 /\ CPID: b480c6efeffdb3c32e967927e6faf0f9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 318 - Bad: 728 /\ CPID: a76b7d6ea0b8c3616a81003bb7c24534 / DIFF: 3814.958433869764 / VALID: false / GRC: 
+(Good: 318 - Bad: 729 /\ CPID: 710aecf996d80639beff6e11b9873d05 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 729 /\ CPID: 37d04a47c7e73ea910ddfa345991235a / DIFF: 11410.19515294782 / VALID: true / GRC: SKu1qeNd5ceerKTVu82XpRP2HnWufx2gwm
+(Good: 319 - Bad: 730 /\ CPID: 6d77004014456c48389929ea540aeb32 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 731 /\ CPID: 195ac0272e977896feef58a9328dc80c / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 732 /\ CPID: a817b49975f7e80e795af5cb5cc85583 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 733 /\ CPID: eae9baab6745be5a8ac66694cbbd80d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 734 /\ CPID: 9fb2300b8517e0b9c1929425a0f26ddc / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 735 /\ CPID: 2b8923912497d8565bfb32bc3997446c / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 736 /\ CPID: d7bcd3300e1c6fcb0f990dfa853874d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 737 /\ CPID: 88f2fc92f07c42bcc68505b5c0875748 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 738 /\ CPID: 577d1c878a6f45c450d215a97840c9a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 739 /\ CPID: 1fd242b6282049fe4d8039d2f2975e04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 740 /\ CPID: ebf4c5bbb8b33da5c57d1039aaa98831 / DIFF: 0 / VALID: false / GRC: 
+(Good: 319 - Bad: 741 /\ CPID: d4fd9e7b71cad7dc64ae88e37d7e3667 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 741 /\ CPID: bd1eef065111326bf9fd07d4cf6e6fc5 / DIFF: 0 / VALID: true / GRC: S9pp4MYLv959zLTjiSNij81GDwuUKxDA98
+(Good: 320 - Bad: 742 /\ CPID: 81e10a4645b9b202e8770fa85f66aeea / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 743 /\ CPID: a39aa08f9f92f906af5be9c12d052455 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 744 /\ CPID: 6482aace101653f5a7b9da906d87b0f7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 745 /\ CPID: f8b79285d587daf83168c761a2740055 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 746 /\ CPID: a0535a64ec333d995be9d211f854bc1b / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 747 /\ CPID: 73e205e954339ef9c50f9597b1b90b1e / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 748 /\ CPID: c5105d2f293bf29d4670965bccf1b7ca / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 749 /\ CPID: ad22bddf7455cfd9d8197b537c9f6de4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 750 /\ CPID: 592ffc5a5520fc200fa37722a203cc88 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 751 /\ CPID: f0645c2ca7dfe8ea1f1ab8b11bd73913 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 752 /\ CPID: 0e09deacd6b6f4d86aac5854661fdfbc / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 753 /\ CPID: 5277390dd69e4d55136e259bcf914336 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 754 /\ CPID: 705f9eff4dc305017456d481ea49c0c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 755 /\ CPID: 80c2478cce225ae952da6d925d7cd6b5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 320 - Bad: 756 /\ CPID: 5eb4b7f533033c44a546874e843a710d / DIFF: 0 / VALID: false / GRC: 
+(Good: 321 - Bad: 756 /\ CPID: 6361cb2aed6e41ee85a33f2fad305367 / DIFF: 0 / VALID: true / GRC: SLMZFyHyNWWSqJRQG2Hqq8SFXC74srzdAS
+(Good: 321 - Bad: 757 /\ CPID: b2575dc73f67d71255f5314ac51364c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 321 - Bad: 758 /\ CPID: 1a149b4c3bb9b8cc694be66e6287e1e0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 322 - Bad: 758 /\ CPID: 3cdef78ae4d5710ffa8e81f04323ba80 / DIFF: 583.281899795847 / VALID: true / GRC: SLWZtAmystGbPz8nqkFqURXTfAd5Bs6sP1
+(Good: 322 - Bad: 759 /\ CPID: 8ffcfc40ff8afe91d521456903909efb / DIFF: 0 / VALID: false / GRC: 
+(Good: 322 - Bad: 760 /\ CPID: c608bf900b9a772167b5993f60a8ceb6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 322 - Bad: 761 /\ CPID: d11b9729c9bbfc093a1f0f06f2bad3f0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 322 - Bad: 762 /\ CPID: 4d3f13b5b4eaff7be9e8e618ede5a6a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 323 - Bad: 762 /\ CPID: 656907c542a0d1222101637421dbb40b / DIFF: 0 / VALID: true / GRC: SAAJPkyLzb3EMx7yRKzg72BjiduzTzQJ5R
+(Good: 323 - Bad: 763 /\ CPID: 663678f3e2cabed1cbc3f67974ebe063 / DIFF: 0 / VALID: false / GRC: 
+(Good: 323 - Bad: 764 /\ CPID: e9197992abcb68d95c70b3efb52c829b / DIFF: 0 / VALID: false / GRC: 
+(Good: 323 - Bad: 765 /\ CPID: d4ddfa58d6dd446bc9b56c3e10a3c73f / DIFF: 215.248594353644 / VALID: false / GRC: 
+(Good: 323 - Bad: 766 /\ CPID: 305d542d5b2f8315a403249e298a1d70 / DIFF: 0 / VALID: false / GRC: 
+(Good: 323 - Bad: 767 /\ CPID: d74c9ba1945ca1c8884252cec2a00b11 / DIFF: 0 / VALID: false / GRC: 
+(Good: 323 - Bad: 768 /\ CPID: d4313484ed4eee7ed050dba9116944ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 324 - Bad: 768 /\ CPID: d43ebeeed072f2fc1f319dcbbdc75afe / DIFF: 0 / VALID: true / GRC: SGgqt6UfKFxP1jHJGWBhxFHwTSH6Bp9UW5
+(Good: 324 - Bad: 769 /\ CPID: abac479f016a5505cb0374c9da4d10e1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 324 - Bad: 770 /\ CPID: 5e4ced990fca7eeb6d113c7e78ecaf1c / DIFF: 0 / VALID: false / GRC: 
+(Good: 324 - Bad: 771 /\ CPID: 0d7cd65eb6985bc7476cc1799712ee57 / DIFF: 0 / VALID: false / GRC: 
+(Good: 325 - Bad: 771 /\ CPID: 9ebb8337ef58e82fb58610d66b3fd0e0 / DIFF: 0 / VALID: true / GRC: SDrjProccUQCU4URqMC1wcAPmXHkVeFzf5
+(Good: 325 - Bad: 772 /\ CPID: 8813510376dd6a1f33a1362ef67b392a / DIFF: 0 / VALID: false / GRC: 
+(Good: 325 - Bad: 773 /\ CPID: b8cd694f088d4f1dffbb390aaeccd3a8 / DIFF: 1761.576403132425 / VALID: false / GRC: 
+(Good: 326 - Bad: 773 /\ CPID: 4077daa237c6a89b1de46427ba6aeea3 / DIFF: 0 / VALID: true / GRC: SE4NDEMmYVnTSXtGGET4EpmMGZ53MBmdoY
+(Good: 326 - Bad: 774 /\ CPID: d4d8bff8ac19832da0eb6b84951f524d / DIFF: 0 / VALID: false / GRC: 
+(Good: 326 - Bad: 775 /\ CPID: 4a9d438ba38b57c8a8c9c255a4cdc4fd / DIFF: 0 / VALID: false / GRC: 
+(Good: 327 - Bad: 775 /\ CPID: 9b9479cc15df7f58fbdd39e9b844a145 / DIFF: 0 / VALID: true / GRC: SDTNiX59R12maorsgRaKDGXSnaL1KHoTfz
+(Good: 328 - Bad: 775 /\ CPID: dd7dfa3cec0d9a7eda34e3587a403985 / DIFF: 0 / VALID: true / GRC: S4rrbtud3yjwLjUM8vsJsWTySsPfZNTFE1
+(Good: 328 - Bad: 776 /\ CPID: f27afe62855ef371614db88abbd95cdc / DIFF: 0 / VALID: false / GRC: 
+(Good: 328 - Bad: 777 /\ CPID: f209bf76f97a4127e4e088fc56f6d758 / DIFF: 0 / VALID: false / GRC: 
+(Good: 328 - Bad: 778 /\ CPID: 36da28c90270f816d5e941695665b352 / DIFF: 0 / VALID: false / GRC: 
+(Good: 329 - Bad: 778 /\ CPID: 8819e7179eec7f06741348634be1a662 / DIFF: 0 / VALID: true / GRC: SLuR7NaGfabMDyWooGRAxo2VcFBsnAEANN
+(Good: 330 - Bad: 778 /\ CPID: 8f28c68d0416aedb02335227a8fa6bd5 / DIFF: 3104.24900313063 / VALID: true / GRC: SJKGQESEBrJhy58BVy7YCmuZyD31pBGG6E
+(Good: 331 - Bad: 778 /\ CPID: 2aeda8e006c5508544431521fc3403a3 / DIFF: 0 / VALID: true / GRC: S8yJDBn7vqRcGBSuaNetmvm5Dpk1KmrKyR
+(Good: 331 - Bad: 779 /\ CPID: 6f48158747964be333b0c6a1e6b8689d / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 780 /\ CPID: 8fec26f25c4792a7772134b86bea2c27 / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 781 /\ CPID: c289752c68981f9496c7c0f0632b7292 / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 782 /\ CPID: 8dfbe1ce72a8e486af25a7afdb574060 / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 783 /\ CPID: 9d54a2474814f57914bb120bc2b0a663 / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 784 /\ CPID: bd4214a2cd3849a494b546b40705f81b / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 785 /\ CPID: 0675bdf24f13acfa4970852defbc84fb / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 786 /\ CPID: 6cc894c98bb6963bd2949cb6f46d3e3c / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 787 /\ CPID: d81bc52c53e5af79d89e4ad581732911 / DIFF: 0 / VALID: false / GRC: 
+(Good: 331 - Bad: 788 /\ CPID: 993897fb76f8ab360afc824bb1d4e2ad / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 788 /\ CPID: b2d5d0a71d91f6a113389422c0776c76 / DIFF: 0 / VALID: true / GRC: S2T34mPJqZTvzZThecNkEERu7kyc1h9jFp
+(Good: 332 - Bad: 789 /\ CPID: e527bc4ffc2cc03ed3bdf11cbe1f1968 / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 790 /\ CPID: 4f760c4a29c6b25cfa975db2c14630c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 791 /\ CPID: 2e7eb50789db1b43c2ff494edc5381f0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 792 /\ CPID: 0f9d9d038186b9ce82514dd1379d739e / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 793 /\ CPID: 3f9566cd97f3bf9ef2d44091d6f0e0bc / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 794 /\ CPID: 08d77d3a90d47d2402bdebd66f426099 / DIFF: 0 / VALID: false / GRC: 
+(Good: 332 - Bad: 795 /\ CPID: ea9d93c54b28a6adab322ba7dfb88737 / DIFF: 0 / VALID: false / GRC: 
+(Good: 333 - Bad: 795 /\ CPID: 8a0536862241b490f9535c1e7898d4f5 / DIFF: 22.935933216498 / VALID: true / GRC: S6QFh9Ne9mTyjnhkhcZBbktrktKaGruhki
+(Good: 333 - Bad: 796 /\ CPID: dec5637256fad7f28827aa7eee1b7497 / DIFF: 0 / VALID: false / GRC: 
+(Good: 333 - Bad: 797 /\ CPID: 1325abb911bddd1ebf8e66c0615948e8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 333 - Bad: 798 /\ CPID: b623a3ec333442e13cedf2a77d1681e0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 334 - Bad: 798 /\ CPID: c887daaa352145ca5f653d29252f253f / DIFF: 0 / VALID: true / GRC: SBTQ3QwKPnDh94TgLdvZTV2ZqJa3Wrwtyq
+(Good: 335 - Bad: 798 /\ CPID: 9f8107021a0041e6f1e3281dad35edd2 / DIFF: 290.661212159563 / VALID: true / GRC: SEYiTP6v93XmMd5HrdrLKeRSURRpgGsGkg
+(Good: 336 - Bad: 798 /\ CPID: 5a95f32b7f396a65cdece7611e22f681 / DIFF: 0 / VALID: true / GRC: SB7emF5H9BoTfn1APVqUGJRpWZxvTUbmoY
+(Good: 336 - Bad: 799 /\ CPID: 9a8a0807d3ddd1d821a524395ed9304a / DIFF: 0 / VALID: false / GRC: 
+(Good: 336 - Bad: 800 /\ CPID: 7f6ffb19a1e958b4b7798d61c521df42 / DIFF: 0 / VALID: false / GRC: 
+(Good: 336 - Bad: 801 /\ CPID: ce9655a7c55c7b7b05e28c3ad107b925 / DIFF: 0 / VALID: false / GRC: 
+(Good: 336 - Bad: 802 /\ CPID: 050cf6306871aa4d70998deadd6871d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 802 /\ CPID: 25030afe5a7ac52cf87c1e645ad402a6 / DIFF: 55.7762076329844 / VALID: true / GRC: SJhjxx4Kro9bKKSwL5BqtKY8TYNBNzvDtv
+(Good: 337 - Bad: 803 /\ CPID: d3b6d6c0cc12c9cb957b2aa1c3a63468 / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 804 /\ CPID: 98da1074762c81bef424cbdf20f55bf7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 805 /\ CPID: 1bd4fa6bc2c31ecbd51c6add63e478d2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 806 /\ CPID: 260d4be348854f90d15a6129ee7a06de / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 807 /\ CPID: e46a5c71275f3e6e4fe653ece48165c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 337 - Bad: 808 /\ CPID: e18b2962994a650967fd1a280d9e4ddd / DIFF: 0 / VALID: false / GRC: 
+(Good: 338 - Bad: 808 /\ CPID: 1a4e7f5d650ecd274e33d31df93f6441 / DIFF: 0 / VALID: true / GRC: SBSCU9ZhfZMrssxoUYAbLdAbq1vgvNbbNo
+(Good: 338 - Bad: 809 /\ CPID: e817cbcc02c0488352f2588ba018203b / DIFF: 0 / VALID: false / GRC: 
+(Good: 339 - Bad: 809 /\ CPID: 3551328c7020d2916a70cfbe0e4e04dc / DIFF: 1170.29025302231 / VALID: true / GRC: SJ9pbSCsWtag5rbka7eh44cmJTuaRCmFEQ
+(Good: 340 - Bad: 809 /\ CPID: 816962ec9fc7a2f957ae0f1cacbab185 / DIFF: 2321.867179833210 / VALID: true / GRC: S3eyqeiEXHkhaZg6VFaCmm63VppVyBXpCT
+(Good: 340 - Bad: 810 /\ CPID: fc495e6d675bed95f32646823e7e8c21 / DIFF: 0 / VALID: false / GRC: 
+(Good: 340 - Bad: 811 /\ CPID: a9015e14add45af639d2ee9b63890525 / DIFF: 0 / VALID: false / GRC: 
+(Good: 341 - Bad: 811 /\ CPID: 587d4e79693da1de3618fbc85e13dd6d / DIFF: 13259.09824332240 / VALID: true / GRC: S978YU2TphD4vTNwhWjKxnVmsPddz64RCB
+(Good: 341 - Bad: 812 /\ CPID: 358604931fb42871ea31f74a926cf4a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 341 - Bad: 813 /\ CPID: f41cc6d28ec8d2a8bd130d4206bd39fe / DIFF: 0 / VALID: false / GRC: 
+(Good: 341 - Bad: 814 /\ CPID: a025771cfbd1685d14b36a0c90aece1d / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 814 /\ CPID: 6139177909af1e2fe15dc658dfba058f / DIFF: 0 / VALID: true / GRC: S59utAzKYdvqGDAfXHtnTof9bfYuvppTxA
+(Good: 342 - Bad: 815 /\ CPID: 207a8db3b0d9d9c4fabe7da6c7dfbb37 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 816 /\ CPID: 0901f3032c09703f8056c2aa5d53c198 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 817 /\ CPID: 8fbd093bab90295d253a758e69225994 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 818 /\ CPID: bfe5b65d8b30da2823295ecaa5e0fb44 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 819 /\ CPID: 30fac34b20d238d8b22b16b0d5c80eb0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 820 /\ CPID: c8f05720ad02ecee460f6bb366908bb1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 342 - Bad: 821 /\ CPID: 60193fc718eabffd9be2a19576981519 / DIFF: 0 / VALID: false / GRC: 
+(Good: 343 - Bad: 821 /\ CPID: 9899218c99fd054a335c949bf2b787ad / DIFF: 0 / VALID: true / GRC: SGb6oByR8HMUv3YZsXDWfwTBKf97ijc8mH
+(Good: 343 - Bad: 822 /\ CPID: 8336da82568ffb6381e635b843e9c05c / DIFF: 0 / VALID: false / GRC: 
+(Good: 343 - Bad: 823 /\ CPID: bd20c54a0398d88d7515b68f4bd2151f / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 823 /\ CPID: a16d8d4a3973ccbac0718046f0989521 / DIFF: 0 / VALID: true / GRC: SCsd1XgCktwAo4h4yX6A7M4dbjWjFzeJFA
+(Good: 344 - Bad: 824 /\ CPID: db6972dadc6ba997b049bb3adabb52b1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 825 /\ CPID: 765f999b7cf3cfca5cea64b169c59dfd / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 826 /\ CPID: 894dbafa2e3047ab4a2d7235721610d7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 827 /\ CPID: 2e56221b3b70be22b67a078ef7c44fa8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 828 /\ CPID: a70773dbaf41b7636553b4b6e767e9d8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 344 - Bad: 829 /\ CPID: 64d1113ca4d1a719758e9873e2b054dd / DIFF: 0 / VALID: false / GRC: 
+(Good: 345 - Bad: 829 /\ CPID: 02247a05b2520d2297499e9896416faa / DIFF: 0 / VALID: true / GRC: S1gx6JePb6PJiBLAtZ6QEwbJMe4f1U7QAG
+(Good: 346 - Bad: 829 /\ CPID: 1ff457bcb9860833f66db19b48a3d9f4 / DIFF: 0 / VALID: true / GRC: RzvMpfBnPdgNyjrY8qR4GxQSRTUqSeUPiV
+(Good: 346 - Bad: 830 /\ CPID: ff24aa21d70438390459e66cae8542a1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 347 - Bad: 830 /\ CPID: 556aa48600aa6a423dc2a7dc9058f0af / DIFF: 0 / VALID: true / GRC: Rxtzukee1FgGApNgedAyDz2ENxfxv3B5RW
+(Good: 347 - Bad: 831 /\ CPID: d0fb25732bac5f737fbaac8e44d642c0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 347 - Bad: 832 /\ CPID: 2bd6be268233c04f5fd2af3ba0b19e69 / DIFF: 0 / VALID: false / GRC: 
+(Good: 348 - Bad: 832 /\ CPID: c526e3cf603ed89708cf28e858aad85e / DIFF: 0 / VALID: true / GRC: SJjq5M1QtK7uDkP47fRBhDaBwn6LPyDX8N
+(Good: 349 - Bad: 832 /\ CPID: d6ab669a47817d2be14e99bacfeb909a / DIFF: 13402.770905293690 / VALID: true / GRC: S18BnLTyoSDjMcbgD3C1HxPyxErerTc6Pj
+(Good: 350 - Bad: 832 /\ CPID: 131a0a4042a085d83d46d9b0834ac004 / DIFF: 2034.6725895230 / VALID: true / GRC: S6f1KYz9Qk27dGLkUfLfEnUzZjR1MvPmVm
+(Good: 350 - Bad: 833 /\ CPID: 4273a33892ef82e731eaddbddbf7b2c8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 351 - Bad: 833 /\ CPID: 8c8744ca3866631f621851199aa79e49 / DIFF: 1222.872275244285 / VALID: true / GRC: S5zERCyhjHh8xPezk861QrAaWKBgx62FkL
+(Good: 351 - Bad: 834 /\ CPID: 57a2b16391dc74b14c8d1fbc43d1c60e / DIFF: 0 / VALID: false / GRC: 
+(Good: 351 - Bad: 835 /\ CPID: 54832cc53fa53d0edca04c41a9792433 / DIFF: 0 / VALID: false / GRC: 
+(Good: 351 - Bad: 836 /\ CPID: 1e045acc60a756787bc4c84cb3bccb7e / DIFF: 0 / VALID: false / GRC: 
+(Good: 351 - Bad: 837 /\ CPID: 1f82249b10185dca3ebd283cdfb19c54 / DIFF: 0 / VALID: false / GRC: 
+(Good: 351 - Bad: 838 /\ CPID: 38f79c2d021c7103b4db8ae61072e853 / DIFF: 0 / VALID: false / GRC: 
+(Good: 352 - Bad: 838 /\ CPID: 01f7a0f8b60fe3ebd799122ebe08043e / DIFF: 0 / VALID: true / GRC: RyVtbJ1FT26k7rXRHC7zMrieproGPjEkhH
+(Good: 352 - Bad: 839 /\ CPID: 7901c1ff4bc9ab502b841d299c460e5f / DIFF: 0 / VALID: false / GRC: 
+(Good: 353 - Bad: 839 /\ CPID: 4c0cfa75a878afb61662b48c409b2386 / DIFF: 0 / VALID: true / GRC: SKMHxd5V9qNNUK6TkTkVq3uqK88LijWjSg
+(Good: 353 - Bad: 840 /\ CPID: 942a95297cfd852bfc7de7e90e01a2e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 353 - Bad: 841 /\ CPID: c6ec443afb183c91265b08a5df627d22 / DIFF: 0 / VALID: false / GRC: 
+(Good: 353 - Bad: 842 /\ CPID: cbade715db02a85e275af1b366360a1e / DIFF: 0 / VALID: false / GRC: 
+(Good: 354 - Bad: 842 /\ CPID: 2cf3f182687e2eefe4103d7f2f8a373e / DIFF: 0 / VALID: true / GRC: S1F8EJsEMfXQ6MCrnRJBednNfDqwKdbAmV
+(Good: 354 - Bad: 843 /\ CPID: c98fd201d270cc8bbd3b0cc363318a23 / DIFF: 0 / VALID: false / GRC: 
+(Good: 354 - Bad: 844 /\ CPID: dbde784682aec3945f3725c4556d9d23 / DIFF: 0 / VALID: false / GRC: 
+(Good: 354 - Bad: 845 /\ CPID: f08da1853d1b2ce242d499b9fdf6e3e9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 355 - Bad: 845 /\ CPID: 89f29563670413ef999f5cd8788d9249 / DIFF: 0 / VALID: true / GRC: SEz9cKeViceAx3jiAjRxG5hWZysvkXbKRr
+(Good: 356 - Bad: 845 /\ CPID: bcf6ab65157c4652faa77b95adf3bf5c / DIFF: 91.888979365114 / VALID: true / GRC: S2gNMk6SxkDUzK37XLzQbfgXmgi5p4W4rW
+(Good: 356 - Bad: 846 /\ CPID: f7048a770738a36687dbf59e6619ec0f / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 846 /\ CPID: 493665a63e8c6515b4cf05ed818bbacc / DIFF: 0 / VALID: true / GRC: S9CDQg4yP9wuBA9N5PkbUv6T5b4JokrjMQ
+(Good: 357 - Bad: 847 /\ CPID: 089e05c08943a318b591e36c6d9129b9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 848 /\ CPID: 2b5af9ac0611141c2d5153f8b8fd965d / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 849 /\ CPID: ca85ff21bdaec3aa8ad4c6e5e55fd6b7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 850 /\ CPID: bccbb519cba96d900a006d6c1fbac03c / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 851 /\ CPID: 6b93486f318208cd2c41106ec06fa5e3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 852 /\ CPID: fc5ca9b4a890f6465653146e4c4f8e3d / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 853 /\ CPID: 75221306daa9e3ed1f3539f7c8018ba4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 854 /\ CPID: 9452f7235f6cf24e94789cc55db5820a / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 855 /\ CPID: 3aa9eea3504a0c9e90915ce42f56c579 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 856 /\ CPID: 31c0a6df95b4d583747a962c3bbfd9b4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 357 - Bad: 857 /\ CPID: a939cdfb94afeb51ad1d0ed05ade6540 / DIFF: 4.8605645199920 / VALID: false / GRC: 
+(Good: 357 - Bad: 858 /\ CPID: 6183d9cdde668aa0a8beb484dff2d483 / DIFF: 0 / VALID: false / GRC: 
+(Good: 358 - Bad: 858 /\ CPID: a88eb8379a7cff4fefe8e7f1c1777003 / DIFF: 0 / VALID: true / GRC: S3ifPRz7AiuRtyhVFbbmeuUQV1JAMHTxdQ
+(Good: 359 - Bad: 858 /\ CPID: 8a697f1db694366187a9f39b76c69169 / DIFF: 2435.84413794798 / VALID: true / GRC: SEn5fsS2bXcQyDuwTcYrbYnhxdQdWjLANP
+(Good: 359 - Bad: 859 /\ CPID: 97006334db0197d3ef423bf644f0f743 / DIFF: 0 / VALID: false / GRC: 
+(Good: 359 - Bad: 860 /\ CPID: 5903f06bc9b016e21d819f1dd1b4aee5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 359 - Bad: 861 /\ CPID: 9d5808dc9f5c65b95e6da49910256fc6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 359 - Bad: 862 /\ CPID: 18bad9f82f75d65328ae7a34a3807f5f / DIFF: 0 / VALID: false / GRC: 
+(Good: 359 - Bad: 863 /\ CPID: 20985595f59fbae6d4772936766ac3d4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 359 - Bad: 864 /\ CPID: 6fb2a9f13caf17efb56c40cb7cf51398 / DIFF: 0 / VALID: false / GRC: 
+(Good: 360 - Bad: 864 /\ CPID: 1f61767caa1ec9988100c5f7b3d36cac / DIFF: 0 / VALID: true / GRC: S8j84GZYnJ6gQWPoz1Y2M96Do8W1kdVo3J
+(Good: 360 - Bad: 865 /\ CPID: 08baebc93477e944df7367bab70d9654 / DIFF: 0 / VALID: false / GRC: 
+(Good: 360 - Bad: 866 /\ CPID: c2b74f16fa9725ed60b6c51fd4bb1c86 / DIFF: 0 / VALID: false / GRC: 
+(Good: 361 - Bad: 866 /\ CPID: 71bd1d426829c297065d9f89a1a4c54a / DIFF: 6100.857020481630 / VALID: true / GRC: S23wLWUTQoRMBLiGWFcwLhuhaTUsf1HgpK
+(Good: 361 - Bad: 867 /\ CPID: 117e7c035095842f2f4feb11c1c48855 / DIFF: 0 / VALID: false / GRC: 
+(Good: 361 - Bad: 868 /\ CPID: d7c8a0e5362a60acead5db2de041e19b / DIFF: 0 / VALID: false / GRC: 
+(Good: 361 - Bad: 869 /\ CPID: 0bf22bcd46b1e89338ead6d547349a22 / DIFF: 0 / VALID: false / GRC: 
+(Good: 361 - Bad: 870 /\ CPID: 925c239896b891c5528a9ea5ef2772e2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 361 - Bad: 871 /\ CPID: 66df336df5696a1575c3a9feb871b236 / DIFF: 0 / VALID: false / GRC: 
+(Good: 362 - Bad: 871 /\ CPID: 7dac77e698b9d2d5818e8b6ded9c9f07 / DIFF: 0 / VALID: true / GRC: S1sjsDomGySTTtwozKc8Uc3Xi6FWPqWedd
+(Good: 362 - Bad: 872 /\ CPID: 00eaa6d498f8e269abc284c3c92ea77e / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 872 /\ CPID: 591d97a90ae4828ccefc9609b57704f8 / DIFF: 0 / VALID: true / GRC: S6ntBTad9iSj1uEFG8YF1skLDT8Um8kchg
+(Good: 363 - Bad: 873 /\ CPID: 4b1b680e90a198dc408e7be7084385ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 874 /\ CPID: 2f30b7a34fe76bb84ae05905c67a5c5b / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 875 /\ CPID: 138c421b8d396ffc164e218063ce82ba / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 876 /\ CPID: 6f0274f00ebcd922961026383e32b4ee / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 877 /\ CPID: 11a370cb31accf5632727dfa1f35e7bf / DIFF: 0 / VALID: false / GRC: 
+(Good: 363 - Bad: 878 /\ CPID: fe9a0dff34de4054edb6f6b1b9338e2a / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 878 /\ CPID: af5cf5f6c1867f07aebe79ac30271f17 / DIFF: 460.658769165328 / VALID: true / GRC: SAmaUQvrAwsLxfaSxj9Uus5HysSteXbSqw
+(Good: 364 - Bad: 879 /\ CPID: 043b28684cef3c9695d1a6223639647e / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 880 /\ CPID: 3b2da0906fada6ad307222a98b9dfecd / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 881 /\ CPID: 885941325e7d78d01bd36254e0f0405c / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 882 /\ CPID: e2868b501082244185f689d1b679cca6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 883 /\ CPID: ec3910c08d100beb96d4a5faebff69f4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 364 - Bad: 884 /\ CPID: 3b264ea9dd1cf5e4d2c234c1a604e915 / DIFF: 0 / VALID: false / GRC: 
+(Good: 365 - Bad: 884 /\ CPID: cba69a10f564c0551c10b182a1c5f8ac / DIFF: 0 / VALID: true / GRC: S2EZKbEyJpvo5zrB3fM8t4bpbMHqK5bEfk
+(Good: 366 - Bad: 884 /\ CPID: 347cc1581e31f5864a072e3d6fb92158 / DIFF: 21057.12517001977 / VALID: true / GRC: S93UtrmhffcsaeQK5ri6uZM9Gw4RgPCwyz
+(Good: 366 - Bad: 885 /\ CPID: dd7911c5de4264b9a3a40548b36d33b3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 367 - Bad: 885 /\ CPID: 974d2dd283bf0f3fa244b19aea3f8a4e / DIFF: 7609.90524863688 / VALID: true / GRC: SEbu96D54f8AQMEwtQ9wqx9HzBPf8X5JMw
+(Good: 367 - Bad: 886 /\ CPID: 184ec6f0e8de1cee19baca8028063110 / DIFF: 0 / VALID: false / GRC: 
+(Good: 367 - Bad: 887 /\ CPID: 93bb1f7d8c14541f607700d984fd96ac / DIFF: 0 / VALID: false / GRC: 
+(Good: 367 - Bad: 888 /\ CPID: 2ea3483ee2a4eb8a6fd2cf19d54c28cf / DIFF: 0 / VALID: false / GRC: 
+(Good: 367 - Bad: 889 /\ CPID: c755b5d66fa0576ad5b97af53746de3b / DIFF: 0 / VALID: false / GRC: 
+(Good: 367 - Bad: 890 /\ CPID: baa3dace1f0ea2cfcf72b22047a6c527 / DIFF: 0 / VALID: false / GRC: 
+(Good: 368 - Bad: 890 /\ CPID: 3238ed33fd0ce096016a82a60343a2ef / DIFF: 0 / VALID: true / GRC: RxxKxMCLgeTdX1vTsYwg8tmZuEt29EvB3S
+(Good: 368 - Bad: 891 /\ CPID: 8edec85a97d951bfa523ec28c787b0fd / DIFF: 0 / VALID: false / GRC: 
+(Good: 369 - Bad: 891 /\ CPID: e602b53eba66086c5670bc7a0580598e / DIFF: 0 / VALID: true / GRC: SAVwuf2Ep1SGqHF2D39SPqgBweuLf4FrtN
+(Good: 370 - Bad: 891 /\ CPID: 46fd1bedf3a435ee3875f0a54ddf8cd4 / DIFF: 0 / VALID: true / GRC: SJtW2G8bh8sxSMtpBvbcuVXNwpjZTRv1oM
+(Good: 371 - Bad: 891 /\ CPID: 1ac793c529cd6ffa942afaef7c5068c2 / DIFF: 9421.452450085157 / VALID: true / GRC: SCABW94urGBZQJpu9ATPE4xRMV64rRfHiY
+(Good: 372 - Bad: 891 /\ CPID: 9e1f75d82ed70612da9ab8c896252192 / DIFF: 5060.71056567386 / VALID: true / GRC: SJNwW5ZtNagtJYwKxhciQ34Dte3yVNmVSB
+(Good: 372 - Bad: 892 /\ CPID: 04537a548d2f7299c6178b689be11f6e / DIFF: 95.219806985922 / VALID: false / GRC: 
+(Good: 372 - Bad: 893 /\ CPID: 0b7f63df868b283e4de5959ecf1bdd40 / DIFF: 0 / VALID: false / GRC: 
+(Good: 372 - Bad: 894 /\ CPID: c0b487d80bf02d7f9111f83515ef6d20 / DIFF: 0 / VALID: false / GRC: 
+(Good: 372 - Bad: 895 /\ CPID: dcf1e99af7444d71aa463751fb0e5579 / DIFF: 42.303780187529 / VALID: false / GRC: 
+(Good: 372 - Bad: 896 /\ CPID: c417d71a3bb3c96c748211f47d0c0f19 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 896 /\ CPID: ddf06989fc147d368f344119aacd9e6d / DIFF: 0 / VALID: true / GRC: SLJCnVGYVizWkcZt7GsasDLpxKwXFBY8j7
+(Good: 373 - Bad: 897 /\ CPID: d9e116a46841833237b300895450da18 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 898 /\ CPID: 860dd724d5bdd3a4880806e1547c228e / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 899 /\ CPID: 0f02e4af021c9b20e7ee5915d7444785 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 900 /\ CPID: 40418244c7d4cb2c286efec17c64f952 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 901 /\ CPID: 37a2b534b159666d74bb55bd8322cae2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 902 /\ CPID: 06269ac93fe936b2142459183fb03092 / DIFF: 0 / VALID: false / GRC: 
+(Good: 373 - Bad: 903 /\ CPID: aaaaa085dcc8450e0068352d1d7f1b64 / DIFF: 0 / VALID: false / GRC: 
+(Good: 374 - Bad: 903 /\ CPID: 61d65a5b31d2e0a5125b02205b7a492e / DIFF: 12606.978507784900 / VALID: true / GRC: RzBmt755dRAzHimpPz4ZSSa791iynbua82
+(Good: 374 - Bad: 904 /\ CPID: c86e942a6b321c26d6137d6efb4713df / DIFF: 338.7012108844993 / VALID: false / GRC: 
+(Good: 375 - Bad: 904 /\ CPID: 48d85fbbe6ef5d8fd69d0380df0b57dd / DIFF: 0 / VALID: true / GRC: RyRLhYCzxaB5NHZqJVnoy2tHDPbJ3dTf8p
+(Good: 375 - Bad: 905 /\ CPID: d0d291e18d27251bbc05501017ee6669 / DIFF: 1497.351938807160 / VALID: false / GRC: 
+(Good: 376 - Bad: 905 /\ CPID: c0dba404454585ce1e2535559bdb9e0f / DIFF: 485249.126726732 / VALID: true / GRC: S1C5ZqrsaR8hrgjfaydN7zDGfutrqiFXhw
+(Good: 377 - Bad: 905 /\ CPID: eaafe5736443d064079b138a401acba5 / DIFF: 0 / VALID: true / GRC: S4tRkXfpFDci6FpFYpmPJVTY7JxDcsAyrq
+(Good: 377 - Bad: 906 /\ CPID: e91b1236994f168ade2a5816f6b7d598 / DIFF: 0 / VALID: false / GRC: 
+(Good: 378 - Bad: 906 /\ CPID: 68e989f93860ca8393a464f0a095fe73 / DIFF: 0 / VALID: true / GRC: RyX1CRAQwRvr4UZxyD6QppjZGu5xq2NJxY
+(Good: 378 - Bad: 907 /\ CPID: b1653607006674571ffcad694d87ebe7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 378 - Bad: 908 /\ CPID: 4cc6c1de50f5982cf04276e9fa687ffb / DIFF: 0 / VALID: false / GRC: 
+(Good: 378 - Bad: 909 /\ CPID: af5bd50e504f6b578ba67c143d548489 / DIFF: 0 / VALID: false / GRC: 
+(Good: 379 - Bad: 909 /\ CPID: eeedef516fc6392b14c3968ee7ffb028 / DIFF: 0 / VALID: true / GRC: S4QEwqDUkugv7BoSg79qJdEKT2n3BeDYuG
+(Good: 379 - Bad: 910 /\ CPID: 472abe91b70e987807b2ed2dd390d29f / DIFF: 0 / VALID: false / GRC: 
+(Good: 380 - Bad: 910 /\ CPID: 5fbdb4cf93267901387eac47b826d9c0 / DIFF: 64190.3339427683 / VALID: true / GRC: SHQJbqLcSjxz9niDG2KVZXJTyvK6iVy1pf
+(Good: 380 - Bad: 911 /\ CPID: c0f9f71b5b9ccd2ff253f927088b6bc7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 380 - Bad: 912 /\ CPID: 564462045b72d5ecd318345c7995df28 / DIFF: 0 / VALID: false / GRC: 
+(Good: 380 - Bad: 913 /\ CPID: 8e3fc65d5112aaeee29704c54206011e / DIFF: 0 / VALID: false / GRC: 
+(Good: 380 - Bad: 914 /\ CPID: efa49081b379908b32df2c5c5d013fa9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 381 - Bad: 914 /\ CPID: b4e76e80c0313193767b725c763e323a / DIFF: 0 / VALID: true / GRC: SHe3AXHGFojSzPVXzraHyFFhChn7PKEXHX
+(Good: 382 - Bad: 914 /\ CPID: 7ace61f1014802fe81b54a3010a9df33 / DIFF: 32786.12302595422 / VALID: true / GRC: SJuRAtFHMTxZhgy5ZQJ5bq35TZeYYC9hVn
+(Good: 382 - Bad: 915 /\ CPID: 8caf9fe55c9f45b837ddbc1947378f2f / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 915 /\ CPID: a8a06fa569f7e1660c945e525d80fa32 / DIFF: 0 / VALID: true / GRC: S7xSzv8KrxyrkrJKGuw4X5bs1eXEnxaqgf
+(Good: 383 - Bad: 916 /\ CPID: 33b5981c5115554b1e98f55cec97ba51 / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 917 /\ CPID: 479977fb96250776ad7f634ff8e2d905 / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 918 /\ CPID: e1df30d5d8b9788f15ad7dd1575234e1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 919 /\ CPID: 0152803243e9ea7e20186b1edf30b4e0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 920 /\ CPID: a03e52c495295cc368a41d99e88dd206 / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 921 /\ CPID: b146ff8b52ecda22699f9f73349970fa / DIFF: 0 / VALID: false / GRC: 
+(Good: 383 - Bad: 922 /\ CPID: 002f3465bae39cdbcb408fbf4e944a57 / DIFF: 0 / VALID: false / GRC: 
+(Good: 384 - Bad: 922 /\ CPID: 8f2a530cf6f73647af4c680c3471ea65 / DIFF: 14086.496216423695 / VALID: true / GRC: SKzrute8DLu7PbXkzx9kHegdqhVfXjeCtB
+(Good: 384 - Bad: 923 /\ CPID: 581f12c681732a85b9f878d1f438f5b7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 923 /\ CPID: 9f248e801b7ece7ea25416eff2c221bc / DIFF: 0 / VALID: true / GRC: S8hGwNnKLLFNX8vwZuJWFK21aoYimryLKy
+(Good: 385 - Bad: 924 /\ CPID: 5635b1366812e402cc7cf59490faadc6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 925 /\ CPID: 0ee44acce7dc8e5990574c6773b9e74e / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 926 /\ CPID: 6ce707ece09af6d4f1cfee460d26d15a / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 927 /\ CPID: d1089261271cb85b283549b50c351538 / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 928 /\ CPID: 1a50c6003eb46713ee19dad55183172e / DIFF: 1187.224512971259 / VALID: false / GRC: 
+(Good: 385 - Bad: 929 /\ CPID: 2cd78f2aa146c5814b0a64f719e67ab3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 385 - Bad: 930 /\ CPID: a610e971990ba37de33c7dc6f45201fb / DIFF: 0 / VALID: false / GRC: 
+(Good: 386 - Bad: 930 /\ CPID: fdc9f8dc8c895c58c0fea2ca0ce6f33f / DIFF: 3309.95948518634 / VALID: true / GRC: S67667xjSuKRC6jifqt1qn3U9srRK6NjnE
+(Good: 386 - Bad: 931 /\ CPID: a15f963e29c252844e0784f8b1d1c563 / DIFF: 0 / VALID: false / GRC: 
+(Good: 386 - Bad: 932 /\ CPID: aadff81c29df02c68e7db77c79ab1687 / DIFF: 0 / VALID: false / GRC: 
+(Good: 387 - Bad: 932 /\ CPID: efe7f0d4adf1a22cfdc489499d261376 / DIFF: 21527.3812298649 / VALID: true / GRC: S37i4JxJhfz9jovjD7j6r8U1BsRbDmbzuZ
+(Good: 388 - Bad: 932 /\ CPID: d4e905365162436d3202686ddb030e0a / DIFF: 0 / VALID: true / GRC: SEy6N8jjjvzJiiVQBANtv9mHbjFK3k2X35
+(Good: 388 - Bad: 933 /\ CPID: 4c37d81935027692d8b5fee8cd0ea7cc / DIFF: 7806.54390576787 / VALID: false / GRC: 
+(Good: 389 - Bad: 933 /\ CPID: b3353fca71e99877c1ba1c06ba3bd08a / DIFF: 0 / VALID: true / GRC: S8a5xzRFB2TSPVFLeCYoJTjyMHfASMZsim
+(Good: 390 - Bad: 933 /\ CPID: f8ce1bcad9522fa360cd0aee2896430f / DIFF: 2730.576668624494 / VALID: true / GRC: SBYrHhvgwyc6Gwm5GrLKja85n8GpcRppAu
+(Good: 391 - Bad: 933 /\ CPID: 1a4cc27c96d37b72cceaff8b664e45c6 / DIFF: 15184.62120548752 / VALID: true / GRC: SCKWbMgzzcV1okf3rEHumxJoEoSQHJsjSR
+(Good: 392 - Bad: 933 /\ CPID: 2ac53ccd52c3655a8e15650ec02f9a35 / DIFF: 0 / VALID: true / GRC: S6roGPn7QpqH7G2q5ozJC2Dm4dkvVEMTFf
+(Good: 392 - Bad: 934 /\ CPID: ee8fcf8d142c050b19590b30636ab178 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 935 /\ CPID: 1694d2e04c63b8ba3b6a3b3ec573ab64 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 936 /\ CPID: ae563cc6343d52b6cfb6807323ae86d3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 937 /\ CPID: 4d24080b052a611e32c8e4aece40a962 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 938 /\ CPID: fb2ed296e9f1ea027cac0021b06d7be8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 939 /\ CPID: e840cc9f91eb2cc6e26f9d386ef21d94 / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 940 /\ CPID: e64608ee4b9f755de159e92068f614de / DIFF: 0 / VALID: false / GRC: 
+(Good: 392 - Bad: 941 /\ CPID: 91cb484036d6abdfdf1e38c088cc368f / DIFF: 0 / VALID: false / GRC: 
+(Good: 393 - Bad: 941 /\ CPID: 89c03d27ba3d8fea5d79c11cf02e81dd / DIFF: 409.1173776098051 / VALID: true / GRC: SEEJrAh7CZ6EtNNjxWb2oYBvRQ66AkuRWe
+(Good: 393 - Bad: 942 /\ CPID: 1f3f3b4369321482c1f25cdb77c7646a / DIFF: 0 / VALID: false / GRC: 
+(Good: 393 - Bad: 943 /\ CPID: 442ac27d4dea3198815a20b4ee45ac84 / DIFF: 0 / VALID: false / GRC: 
+(Good: 393 - Bad: 944 /\ CPID: 99f533b62f63efcfd2745bf5a229a539 / DIFF: 0 / VALID: false / GRC: 
+(Good: 393 - Bad: 945 /\ CPID: d82713c19a6f0d043400f224782ed232 / DIFF: 0 / VALID: false / GRC: 
+(Good: 394 - Bad: 945 /\ CPID: 067bc227ca534998a56ec56c1f865e14 / DIFF: 330.6482985056255 / VALID: true / GRC: S5kSch9UTVEsxddNuVGDwjkdWMSvGwN21S
+(Good: 395 - Bad: 945 /\ CPID: 6a43b7639566a554b760acd974a4aefc / DIFF: 0 / VALID: true / GRC: SHCZGZkiCyo4jgPKqPRxsoLRMdwjAoeaS7
+(Good: 395 - Bad: 946 /\ CPID: 9de0a859b302a02c0d1cd42a3115aefc / DIFF: 0 / VALID: false / GRC: 
+(Good: 395 - Bad: 947 /\ CPID: f7959f6c4f931f6956ea88a6ae244311 / DIFF: 0 / VALID: false / GRC: 
+(Good: 395 - Bad: 948 /\ CPID: 38475b4c49a40fbe33d72a352c966570 / DIFF: 0 / VALID: false / GRC: 
+(Good: 395 - Bad: 949 /\ CPID: 534b994eacfbbf9f4e42716f28c4563a / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 949 /\ CPID: 2e8d98937ff57c38722131ce664d9590 / DIFF: 0 / VALID: true / GRC: SJxhXDPodJNSnv5yQzYbPmL1iyt1Pa43Mz
+(Good: 396 - Bad: 950 /\ CPID: 680d63ea5f5287c7f03805aa3ff50520 / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 951 /\ CPID: 50a8d4cf65033f739f07f1be719c1abf / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 952 /\ CPID: d907fe7cb99515d9674aa54b8c9a8181 / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 953 /\ CPID: 6a3831cdb28a1599871b5eb5a421f1be / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 954 /\ CPID: 41a3c8dfce6c518ad7cd513bd327d6e2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 955 /\ CPID: e0e79ff949869e43226145662ea922aa / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 956 /\ CPID: cf6b6764a05ae5a1425097b69d79eabe / DIFF: 0 / VALID: false / GRC: 
+(Good: 396 - Bad: 957 /\ CPID: 3d238e9f3b4db935cf195197ba1c4df0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 397 - Bad: 957 /\ CPID: e7b92eee46f2ab71de912ca3a81ed7fb / DIFF: 0 / VALID: true / GRC: RyaZB1m8XG7f4r1jYKGrKf6vebLW72qYNo
+(Good: 398 - Bad: 957 /\ CPID: 67b6ea3ddf94791ae5fb84b575c881c1 / DIFF: 8808.55634836115 / VALID: true / GRC: SJiLfemANRJRiwo6aWdugxYYpeWJinVjF3
+(Good: 398 - Bad: 958 /\ CPID: 87907bc6c646ffb24082417dbc84d569 / DIFF: 0 / VALID: false / GRC: 
+(Good: 398 - Bad: 959 /\ CPID: 25459b4a85fb6916535cd514cc3e48c5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 398 - Bad: 960 /\ CPID: 857ad332caad46916621f07048bb0d8c / DIFF: 0 / VALID: false / GRC: 
+(Good: 399 - Bad: 960 /\ CPID: fbb39e73dcda2b7b5e13410b86b789f8 / DIFF: 6167.30874076250 / VALID: true / GRC: S4w9bAWzdX4AF4xUWSPpXrCT3cBe19SG8s
+(Good: 400 - Bad: 960 /\ CPID: b5acd8b855a79b117bad1ff8774d9e8f / DIFF: 0 / VALID: true / GRC: S1eXZxLJDS1PzrwUdeW1ogePXLUMA4WBNs
+(Good: 400 - Bad: 961 /\ CPID: 2677b9f2273378fe87eadea8a3edd260 / DIFF: 0 / VALID: false / GRC: 
+(Good: 400 - Bad: 962 /\ CPID: 8e9f85e03dba3c898f8c7ff1ed05ad11 / DIFF: 0 / VALID: false / GRC: 
+(Good: 401 - Bad: 962 /\ CPID: 9b986dc258abc1e6b2cff743b5251bad / DIFF: 0 / VALID: true / GRC: SKRpH74KyLMSBcvrkuWYshVgV14gcmKBqj
+(Good: 402 - Bad: 962 /\ CPID: c51a18ab192533c5d70a08d342bf7c3e / DIFF: 10952.7777110614 / VALID: true / GRC: SFCAR8c9QL4wKxfQ7PD9ZiW2KoCXPEJsCg
+(Good: 403 - Bad: 962 /\ CPID: 3300439bdaa7574d5958b8bda0c34299 / DIFF: 64445.6097309915 / VALID: true / GRC: SAMD5NiyH1fxy4rUEBU9bRSEN9ZJ6EC1q7
+(Good: 404 - Bad: 962 /\ CPID: 17fbea5e4ad272bfb65f7e9b6da13a60 / DIFF: 0 / VALID: true / GRC: SJzhWsK6c3PBsTs3zFd1fiSZqsRdDfVFfr
+(Good: 404 - Bad: 963 /\ CPID: db9bc38442142f8d945dbc40689dab51 / DIFF: 0 / VALID: false / GRC: 
+(Good: 405 - Bad: 963 /\ CPID: 3e0bfe937735391f043d02af7ca0f106 / DIFF: 0 / VALID: true / GRC: SBTVTTU1kByR26jrFZ4ssWEzge9XUAmVmv
+(Good: 405 - Bad: 964 /\ CPID: d71c6e61729c671b58f9749a940521e4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 405 - Bad: 965 /\ CPID: 6f9ba8dcadb0b8931e85a986c5230d83 / DIFF: 0 / VALID: false / GRC: 
+(Good: 406 - Bad: 965 /\ CPID: 437458af91e725918e83bfffcbb0f92d / DIFF: 0 / VALID: true / GRC: SFn81CsT4wztd7X2tnxVaqSYsyYaz9puQk
+(Good: 406 - Bad: 966 /\ CPID: c0f1ef2fce6ac9510af18cd7707dfb93 / DIFF: 0 / VALID: false / GRC: 
+(Good: 407 - Bad: 966 /\ CPID: 4107df94562b7f33563269fcf39e93fd / DIFF: 0 / VALID: true / GRC: S7SFTEXz6uPrjdWWWZidnvjtFyob8nhBje
+(Good: 407 - Bad: 967 /\ CPID: 27885b5b0c476f3f8672c128a0f00074 / DIFF: 0 / VALID: false / GRC: 
+(Good: 407 - Bad: 968 /\ CPID: 0689992196bc444a0dd024d0228aaabc / DIFF: 0 / VALID: false / GRC: 
+(Good: 408 - Bad: 968 /\ CPID: 265fbfa76d4995b9d2d1752e68345973 / DIFF: 0 / VALID: true / GRC: RyVebxjvs7EkgdgAZCVeJAYirJSfdVjY2M
+(Good: 408 - Bad: 969 /\ CPID: 43a196c761dfd1894ef3e05d06b467ef / DIFF: 0 / VALID: false / GRC: 
+(Good: 408 - Bad: 970 /\ CPID: d01ed01e79dac49b3cf6e2883b005f4d / DIFF: 0 / VALID: false / GRC: 
+(Good: 408 - Bad: 971 /\ CPID: 980e1d0b99cb4340e51851da954ac8e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 409 - Bad: 971 /\ CPID: 7db62c2421b2a324570dbcd5b4061d42 / DIFF: 0 / VALID: true / GRC: SEp32rGkwKS5huZptdDGKEFEvAxHAMJTRc
+(Good: 410 - Bad: 971 /\ CPID: 4a42aef5f75bdb494b33ec786815f53a / DIFF: 148.4362464113208 / VALID: true / GRC: SDy1Mbysfmgh9VQfST3iG82ZmUaYF4e7EG
+(Good: 410 - Bad: 972 /\ CPID: eb74eaec1209e0a0a6f79b0304f48e81 / DIFF: 0 / VALID: false / GRC: 
+(Good: 411 - Bad: 972 /\ CPID: ff094f7218d4c3caab2abfac4d3bd00b / DIFF: 0 / VALID: true / GRC: SD3TyJa5dagyPHKtqDMN85DEJQzXGgettA
+(Good: 412 - Bad: 972 /\ CPID: 190f02ccf32879a29639c5c238ea6a6b / DIFF: 85230.92627582201 / VALID: true / GRC: SG6evc55FQnkd8mY78zW19QrbZiXYdEngw
+(Good: 412 - Bad: 973 /\ CPID: 6d52461090416d85b7ec665355c7ac1b / DIFF: 0 / VALID: false / GRC: 
+(Good: 412 - Bad: 974 /\ CPID: 28a84777a92b3b279817675a85fd4354 / DIFF: 0 / VALID: false / GRC: 
+(Good: 413 - Bad: 974 /\ CPID: ced26b1092f31b8e9a52ce0a33c7c534 / DIFF: 0 / VALID: true / GRC: SM78h57FuyGRb5bnaFqgf8XgJQmWhxgsuu
+(Good: 413 - Bad: 975 /\ CPID: 5bdb169b22549d34b121d7b4411a8c6e / DIFF: 0 / VALID: false / GRC: 
+(Good: 413 - Bad: 976 /\ CPID: 9dce8d5750fbdb4ccad73d2ca36491cc / DIFF: 0 / VALID: false / GRC: 
+(Good: 414 - Bad: 976 /\ CPID: 3adf9f617b675ec19749df07fc515436 / DIFF: 0 / VALID: true / GRC: SGwYa6CzTdoPKFauPae7NhdM6JobMqLrmw
+(Good: 415 - Bad: 976 /\ CPID: 7cc7324db90bf3eb032e6db9eaf72d6e / DIFF: 0 / VALID: true / GRC: S2sXHw6q5HW7h5VxjjSFiPRt3P8GbGEiyE
+(Good: 416 - Bad: 976 /\ CPID: b8f2263d937a06f149107fdd532b0e15 / DIFF: 0 / VALID: true / GRC: SCXs4LpnpmoUZcxHBY1jqyvP39r2SWH8mB
+(Good: 416 - Bad: 977 /\ CPID: 27e57ef832cea667ce90aa0e3ef8e191 / DIFF: 0 / VALID: false / GRC: 
+(Good: 416 - Bad: 978 /\ CPID: 6f0560c1e66d8f49aca7ef2751ec0bb2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 417 - Bad: 978 /\ CPID: 23db13c6de769b584ab869ca5a6f934a / DIFF: 0 / VALID: true / GRC: RzbiRSxWsdfySvXJ5yEd91YPg8jNqYr1tA
+(Good: 417 - Bad: 979 /\ CPID: 053304c16e138de2339c810687249930 / DIFF: 0 / VALID: false / GRC: 
+(Good: 418 - Bad: 979 /\ CPID: 2e398778edaa39c0015f10aadf2dd062 / DIFF: 0 / VALID: true / GRC: RytF2cTQoa7DSEkX2xLeY9WGVRbkXuzuYd
+(Good: 418 - Bad: 980 /\ CPID: 060ef28422d6c8192c57774851843dc0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 418 - Bad: 981 /\ CPID: b8461ad7f8b9d31309ccf65c3abf9aa4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 418 - Bad: 982 /\ CPID: 8ac4f75f90f4bc3823df8a51a3c0be61 / DIFF: 0 / VALID: false / GRC: 
+(Good: 419 - Bad: 982 /\ CPID: 54f27ab75707d94f57fde842ba273974 / DIFF: 0 / VALID: true / GRC: SErnR4fjtKZC5oWAKLQGps3UBTEg2zbc4v
+(Good: 419 - Bad: 983 /\ CPID: c1e849400d4b1c119424bc2daf7e5283 / DIFF: 0 / VALID: false / GRC: 
+(Good: 420 - Bad: 983 /\ CPID: 452606c09e62efc8df6c6b1561bbd1ad / DIFF: 28209.12458815247 / VALID: true / GRC: Ry6rjfhMsmgCPeZLiB4wB61w1G9ody91Aa
+(Good: 421 - Bad: 983 /\ CPID: 6f70a8f923efd1b42cfceb53c3135892 / DIFF: 0 / VALID: true / GRC: S1g4EVwe5k75BATN5UbGrWpsFLuNojnVeZ
+(Good: 421 - Bad: 984 /\ CPID: a9e8c7a7eadb3a0240ba715a4fc21f69 / DIFF: 0 / VALID: false / GRC: 
+(Good: 422 - Bad: 984 /\ CPID: 917fc4e4ccc94a357915f40a20886328 / DIFF: 401.784424560893 / VALID: true / GRC: RyzmzxjAiHKrHdMDmSm61ru1aVUUsPZWLz
+(Good: 422 - Bad: 985 /\ CPID: a77c86e41c568cf631d4b1d14eb6b1f0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 423 - Bad: 985 /\ CPID: 2c0ac6fa0df37252d03d68f2e93e08ed / DIFF: 0 / VALID: true / GRC: SBkj3WLtmXBuYU9kCN4Q4WrELFCU2ZTJra
+(Good: 424 - Bad: 985 /\ CPID: 0afd16def7ea7607a4ae5ed795bbf7d8 / DIFF: 0 / VALID: true / GRC: SAu3dC4r6GYxn6SKxukUFk36UrQP7xHCXB
+(Good: 425 - Bad: 985 /\ CPID: 5f4943990a0fe0ee58465d521f2caae3 / DIFF: 454.4010366223750 / VALID: true / GRC: S8Pvx9cHHixpVAP6Q2vVp8u69z62TFiUYn
+(Good: 426 - Bad: 985 /\ CPID: 37740fe65e722d7f644baaa0900a31c3 / DIFF: 0 / VALID: true / GRC: RzVhWgBWFTbAEcv7Msj3qGGDSwZbAxi6jj
+(Good: 426 - Bad: 986 /\ CPID: 28ef5b139d2e2a743ebb97a85285e816 / DIFF: 0 / VALID: false / GRC: 
+(Good: 427 - Bad: 986 /\ CPID: a55e19c039266a3448ffcdf437804cd1 / DIFF: 0 / VALID: true / GRC: S1VsCF57wwtnAqQK6vxW4mEVd3eMjxECWK
+(Good: 427 - Bad: 987 /\ CPID: 6c42fede534639989e61304ad39d8f23 / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 987 /\ CPID: 2331db59de54a1e15874ad0831ccb5f6 / DIFF: 0 / VALID: true / GRC: SCp9Cy26Rm3j4RW36t7PbN8NdQFkBCqJE6
+(Good: 428 - Bad: 988 /\ CPID: 107f829c340f8dbb16f8cb8ebef8f0c7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 989 /\ CPID: 8ae46f7314e140027f44e6a05062979d / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 990 /\ CPID: f722461c1c605d0346947369a736cc7f / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 991 /\ CPID: 9cf081314c18dd15c590a961ee7bd91d / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 992 /\ CPID: 25ce0ee808ecad17659795381efdb55b / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 993 /\ CPID: df3617e42a64299d7883581b312756e7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 994 /\ CPID: 417dc989c187a3263badf7d7c23a2102 / DIFF: 0 / VALID: false / GRC: 
+(Good: 428 - Bad: 995 /\ CPID: e3f3a825a3a37199f07288e389783aa1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 429 - Bad: 995 /\ CPID: 07f28ba3a8ec9e74401bd59779c261cb / DIFF: 14076.36583157387 / VALID: true / GRC: S3F3kXgcHXWf41tG5NvcPi3HyLkQaFeXGn
+(Good: 430 - Bad: 995 /\ CPID: df7d22761815f216506930a8ef7ee981 / DIFF: 0 / VALID: true / GRC: RzE4QBsTCcMdmxpGyuvt1nJJfECFnEPVTa
+(Good: 431 - Bad: 995 /\ CPID: a772a3c49e186c7ad17bbf69d8e390f7 / DIFF: 0 / VALID: true / GRC: SAi4dhw81W2gbsy5WDqay9DdSF8j9tRJtY
+(Good: 431 - Bad: 996 /\ CPID: 6177c40db84ffbce27185d01e3f788e4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 431 - Bad: 997 /\ CPID: 5e966342d275090bc34603ba69a77a44 / DIFF: 0 / VALID: false / GRC: 
+(Good: 431 - Bad: 998 /\ CPID: b7ddfc9566b56df6dde25060673eb628 / DIFF: 0 / VALID: false / GRC: 
+(Good: 432 - Bad: 998 /\ CPID: e56eaa820bd3d453948f369e572a239f / DIFF: 0 / VALID: true / GRC: S1Yo4Eg4BY3zMs8GQ5f7ymtLvGwGhFSfiM
+(Good: 433 - Bad: 998 /\ CPID: e6baddf1b470948bc24945a53235666f / DIFF: 0 / VALID: true / GRC: S95XWf852GFsQKAsdf3oEmaCZLbWNZfMSt
+(Good: 433 - Bad: 999 /\ CPID: 1016724d3d34dffa5d84204cd63eeef0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 434 - Bad: 999 /\ CPID: 82e63a509a38e2201f08c819457df57f / DIFF: 0 / VALID: true / GRC: S7bShVJbAQ9MryxZyXs4i4xVDS3c6iZ3h1
+(Good: 435 - Bad: 999 /\ CPID: 12491215f70fbe50b559169174c8e4e9 / DIFF: 0 / VALID: true / GRC: SLMaRRAa5FrtZftwNjMRKPFcRgcR4YSvsE
+(Good: 435 - Bad: 1000 /\ CPID: 66cce2713f41891d9228779e247dc014 / DIFF: 10353.191064217590 / VALID: false / GRC: 
+(Good: 436 - Bad: 1000 /\ CPID: 6110dcd20dd010307cfbbd92e17c5142 / DIFF: 0 / VALID: true / GRC: S8JJ3ZT7X85aGTH2wk7Pqgymuh48B145rF
+(Good: 437 - Bad: 1000 /\ CPID: d2256d43384f84d75809e3c30de02c54 / DIFF: 15932.14944585529 / VALID: true / GRC: SGZpSk74xc8QroTERZsEs3TvHKMabTHrra
+(Good: 437 - Bad: 1001 /\ CPID: 0ffba02596a6fd4f7f0306b0f5cf208e / DIFF: 0 / VALID: false / GRC: 
+(Good: 438 - Bad: 1001 /\ CPID: 9acbc42f6d57cef74f0f50e916173206 / DIFF: 535.638946444789 / VALID: true / GRC: S2Pdp3MF1MrD2xMGSJF84WPh8oqZXQJVeC
+(Good: 439 - Bad: 1001 /\ CPID: 6c68f6c6938435fb98c37f773cc21588 / DIFF: 0 / VALID: true / GRC: SEWwfV7TE723g8si82bSGRB3MNMPgRNgBK
+(Good: 440 - Bad: 1001 /\ CPID: ffa2c11600a224854d0d29e5a0d2ab9e / DIFF: 0 / VALID: true / GRC: S529fx3oTf3v59SP9cYrGLquYv59QvoUfz
+(Good: 441 - Bad: 1001 /\ CPID: e47e1846714a79ba571e1136d45d6840 / DIFF: 0 / VALID: true / GRC: S12nNeNi71RGK2Y1bSQDxZ86FUdbZUhM6c
+(Good: 441 - Bad: 1002 /\ CPID: 496c9599cb9ff6fcb5a2018cebe52aed / DIFF: 0 / VALID: false / GRC: 
+(Good: 442 - Bad: 1002 /\ CPID: 7d0d73fe026d66fd4ab8d5d8da32a611 / DIFF: 219374.9585285348 / VALID: true / GRC: RzSKvkKP559mYsteG9V3pzfvpt1DyCDZDp
+(Good: 443 - Bad: 1002 /\ CPID: e9596876bd3f31a8f1e49f36c8a23137 / DIFF: 0 / VALID: true / GRC: SF14uDKD5MrNYmaF4VRwyGFqat81HdSwQF
+(Good: 443 - Bad: 1003 /\ CPID: dd65850f5c21b7e80164cf6b7a0b7e36 / DIFF: 0 / VALID: false / GRC: 
+(Good: 443 - Bad: 1004 /\ CPID: ebf5079ecce96b71dbbdf5e235ea9a0a / DIFF: 0 / VALID: false / GRC: 
+(Good: 444 - Bad: 1004 /\ CPID: 43e87b406ac2cfe501dfbee3c7745ed2 / DIFF: 9715.787808819529 / VALID: true / GRC: SAsefX4Z1dqkXr2BQD2mxJEWdFWweoiHBC
+(Good: 445 - Bad: 1004 /\ CPID: 411567587e0d91da48f891aef5b1e218 / DIFF: 23429.617567758 / VALID: true / GRC: SF7ke6WxrfJaYH4PiaQHSeCsmzR4DD3tRB
+(Good: 446 - Bad: 1004 /\ CPID: c0e8a4644fb9b7b325e45506de09c62b / DIFF: 0 / VALID: true / GRC: S7e251gZMHGkaNkx4CYg27nWz8EnMEEAVb
+(Good: 447 - Bad: 1004 /\ CPID: fb7b6e3eac813306bf7e4292b8a7d3a4 / DIFF: 1316.95111062648 / VALID: true / GRC: SKAWYQYXs7W4CWnWD9ntLyLiWr64f3GXYc
+(Good: 448 - Bad: 1004 /\ CPID: 642964c79125b793fae14c0844fa701d / DIFF: 0 / VALID: true / GRC: Ryxfxd7wfsb7AtvCCqoh2NAXTU75CYp9Am
+(Good: 448 - Bad: 1005 /\ CPID: c776ed08980dccd8d11fd23783013b72 / DIFF: 0 / VALID: false / GRC: 
+(Good: 449 - Bad: 1005 /\ CPID: f71355ffc9243d4d8ed429b74d5b77a4 / DIFF: 0 / VALID: true / GRC: S5RqG8Gr5tERLXP9d5f8258r5cfH7mLDb8
+(Good: 450 - Bad: 1005 /\ CPID: a8a8dc39a19d56b22056e749bf7e183a / DIFF: 70149.4653787091 / VALID: true / GRC: S3WbBdYCtNLQUxuAxhKjuFRvAr3CuFN8nM
+(Good: 450 - Bad: 1006 /\ CPID: e225b58e94979aa7e32512467a2e0d73 / DIFF: 0 / VALID: false / GRC: 
+(Good: 451 - Bad: 1006 /\ CPID: b114a7b416705e137ec5970c411edb0a / DIFF: 0 / VALID: true / GRC: SAD2R2D5RKdBGRJx9tV99mx2dtNr4y4CYk
+(Good: 452 - Bad: 1006 /\ CPID: d855cb1ea1303ab47749286589f245ea / DIFF: 5086.048036128030 / VALID: true / GRC: SKAAdBx7Do7gvfGcTz6RncJJhgEaP5f7oN
+(Good: 453 - Bad: 1006 /\ CPID: 9ec1acf187b4ff692cae4f7fe32b9dcc / DIFF: 0 / VALID: true / GRC: SLhwFZp3bLWzJM9Ce5T7MiJdkFQw6xeMPf
+(Good: 454 - Bad: 1006 /\ CPID: 2d970fb5b1c4c346876cfa0bffa73980 / DIFF: 0 / VALID: true / GRC: SGhPFzfFooWgnpgkLHn6Lme2bf5RQeD7Hd
+(Good: 455 - Bad: 1006 /\ CPID: 3106920846ead813a9b0cea0b69fd78c / DIFF: 0 / VALID: true / GRC: RyBFbmbQbSnMJfGbrJ1zt9Tc6LcjRN8r8v
+(Good: 456 - Bad: 1006 /\ CPID: 9ff2b091f67327b7d8e5b75fb5337514 / DIFF: 889.1308390950671 / VALID: true / GRC: SJnT5bUUqXyE1hPdqo7CQB7n7HHeeYi6JU
+(Good: 456 - Bad: 1007 /\ CPID: c500453c493cc17d908f4d16cbaff39d / DIFF: 0 / VALID: false / GRC: 
+(Good: 456 - Bad: 1008 /\ CPID: cbf46838aa468d762789056d6945dafb / DIFF: 0 / VALID: false / GRC: 
+(Good: 456 - Bad: 1009 /\ CPID: b45874e0a89d651596c7c18cd89d8804 / DIFF: 0 / VALID: false / GRC: 
+(Good: 457 - Bad: 1009 /\ CPID: f4f36a038bbeda3006280bc0647003ad / DIFF: 0 / VALID: true / GRC: SHg9oELaUA6aewzewk1c21a1AXrveZpDLW
+(Good: 457 - Bad: 1010 /\ CPID: bddfc068af3bd650f57feaa240ac5753 / DIFF: 0 / VALID: false / GRC: 
+(Good: 457 - Bad: 1011 /\ CPID: 79f7ecb53f63360079e39309b1c789fd / DIFF: 0 / VALID: false / GRC: 
+(Good: 458 - Bad: 1011 /\ CPID: 2b716baa0f6ebda4b01e4e0afef86960 / DIFF: 0 / VALID: true / GRC: RxWLPUYFxW57Q8FUvt7wSg1b2mZpYW76zS
+(Good: 459 - Bad: 1011 /\ CPID: db7c06a43f9329b18678af84310c37d9 / DIFF: 0 / VALID: true / GRC: S3X8PEZC1PmamTnnhc3kSQhCxip7bu45Lp
+(Good: 460 - Bad: 1011 /\ CPID: d56beabf1524a60242b3a1be8672f6e6 / DIFF: 0 / VALID: true / GRC: SEAXjfmv2n3bbpvCk42kms5mVBypPkZzCP
+(Good: 461 - Bad: 1011 /\ CPID: 8a729f66833fd4a5790fa0be6f43b407 / DIFF: 0 / VALID: true / GRC: SL1jXAQXh2FpRfCGJr4Wtm6WiQuvFwk4fr
+(Good: 462 - Bad: 1011 /\ CPID: 0073338faeaf0ee045a97ce0e09c8c39 / DIFF: 0 / VALID: true / GRC: SE3iFnHmX4gwytD51fVP5Br7Ec3i8pmvQw
+(Good: 462 - Bad: 1012 /\ CPID: 016c1974eca555a45effde828b7dc586 / DIFF: 0 / VALID: false / GRC: 
+(Good: 462 - Bad: 1013 /\ CPID: 0391ab418c82b05f664677e48abc1431 / DIFF: 1881.204810678459 / VALID: false / GRC: 
+(Good: 462 - Bad: 1014 /\ CPID: e7fdbacc7d23560bc2776d5d7efbfcef / DIFF: 0 / VALID: false / GRC: 
+(Good: 462 - Bad: 1015 /\ CPID: b10607231b996444b7b031324b015b20 / DIFF: 0 / VALID: false / GRC: 
+(Good: 463 - Bad: 1015 /\ CPID: 46f64d69eb8c5ee9cd24178b589af83f / DIFF: 0 / VALID: true / GRC: S6WtsHxuDUmSFYgb56Vjw7nvYsGJvKrWHb
+(Good: 464 - Bad: 1015 /\ CPID: 7e44d8da4c8ae8d7d6be99445344ad6e / DIFF: 0 / VALID: true / GRC: S4kzYc9fanbhpVufEeUYG5c7iX7HjrNG4w
+(Good: 465 - Bad: 1015 /\ CPID: 55bab2d3a4736c85e1c5b46284c708a9 / DIFF: 0 / VALID: true / GRC: SDrgJ2JCo4xtBYsSvuK6BYowZN2xSpT7N7
+(Good: 465 - Bad: 1016 /\ CPID: ffabd0527b133b7cc0c03c64139f3818 / DIFF: 0 / VALID: false / GRC: 
+(Good: 465 - Bad: 1017 /\ CPID: 58d011c1cdfbd8f1201a6c9294d3fd59 / DIFF: 0 / VALID: false / GRC: 
+(Good: 466 - Bad: 1017 /\ CPID: 17769e442b01f980d02cbab98b8688f2 / DIFF: 64033.06026219285 / VALID: true / GRC: RxeEArgG4C9sq8sSv7CNfQ3GbfiYt1pGV5
+(Good: 467 - Bad: 1017 /\ CPID: 84add7fd7c247bbbebb8018d1405563d / DIFF: 48647.70114205996 / VALID: true / GRC: SBKqV9kjWUc8Bdjp3dHjVedBbewAo75G1P
+(Good: 468 - Bad: 1017 /\ CPID: 80c7c317e3e649add0069259816b6e64 / DIFF: 0 / VALID: true / GRC: S2XPsaaaccv7empQVDRgriiz1FvfhoacFB
+(Good: 469 - Bad: 1017 /\ CPID: d3166ebe9c237f34eef6882054cf8b9e / DIFF: 2796.166522819440 / VALID: true / GRC: SCS9LU7JLSDT49TJM7dmjwsidGjFyY97ha
+(Good: 469 - Bad: 1018 /\ CPID: ef002ebc7084ab9423f9a83e6f605544 / DIFF: 0 / VALID: false / GRC: 
+(Good: 470 - Bad: 1018 /\ CPID: f87439dbc95e4e2b1175e3ca167d1191 / DIFF: 526.56590745070 / VALID: true / GRC: S4HEfiZNn7KpLfhV2qYMfJQwXBauuQELUu
+(Good: 471 - Bad: 1018 /\ CPID: cbd206f4183117c328d2af8545833acd / DIFF: 0 / VALID: true / GRC: SKtGKytjMtRkuVdatZTJhskTEGRAesjYHH
+(Good: 472 - Bad: 1018 /\ CPID: 612b42f613549a64e150692810f646e2 / DIFF: 0 / VALID: true / GRC: SCvYCKhVDcg43LAUc3fDd72EE7DDrGmnLQ
+(Good: 473 - Bad: 1018 /\ CPID: 91b10f58e6bbd78a25b0d3d29b5c2b74 / DIFF: 43886.83638321038 / VALID: true / GRC: SH5zdzSjvn23BZ7UKspCwzBsJMDYSddFM8
+(Good: 473 - Bad: 1019 /\ CPID: b23bf09030240b639e4acb50c77b17ec / DIFF: 0 / VALID: false / GRC: 
+(Good: 473 - Bad: 1020 /\ CPID: 60cbbe5066420be045fd8d0828ed717a / DIFF: 0 / VALID: false / GRC: 
+(Good: 474 - Bad: 1020 /\ CPID: 96c18bb4a02d15c90224a7138a540cf7 / DIFF: 92698.917811557700 / VALID: true / GRC: SHevnqRYGFbATsDVrXWjbT2EihBLX8uoK3
+(Good: 474 - Bad: 1021 /\ CPID: 6feded03fd6f9774d988332312b92d7e / DIFF: 0 / VALID: false / GRC: 
+(Good: 474 - Bad: 1022 /\ CPID: 0e1e3e54d039cc4e7cebbad5c3587023 / DIFF: 0 / VALID: false / GRC: 
+(Good: 475 - Bad: 1022 /\ CPID: ff0048641d2ed3ebd67dd5209ce5077c / DIFF: 0 / VALID: true / GRC: S37zazcbXtyAfA494bmtwkyhm2ShicVuBV
+(Good: 475 - Bad: 1023 /\ CPID: 099c12e5cb032cf2bea020b257b7fe56 / DIFF: 0 / VALID: false / GRC: 
+(Good: 476 - Bad: 1023 /\ CPID: da1e046a1ab92dd2ebf0328a2f506806 / DIFF: 0 / VALID: true / GRC: SErDsfCLFpPMFVwZ2ybejRSYg4DjVtbeLb
+(Good: 477 - Bad: 1023 /\ CPID: 50524b885c29f5793f82eab8661a078f / DIFF: 0 / VALID: true / GRC: SBi7SwP7cBw3BUQCrfYSGqv8UTsQVvCrjF
+(Good: 478 - Bad: 1023 /\ CPID: fdc674909f4c353f33655a23efd0c8e0 / DIFF: 0 / VALID: true / GRC: SLipDFzkekVFFv2kbjPsK8Lw1Gok7abZ4o
+(Good: 478 - Bad: 1024 /\ CPID: fdccd4d938c72dee13754eda8188b7a5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 478 - Bad: 1025 /\ CPID: d8189649ae5d1a8dafac3635217c7e57 / DIFF: 0 / VALID: false / GRC: 
+(Good: 479 - Bad: 1025 /\ CPID: b030ad234200af452729cce82d2e61f3 / DIFF: 0 / VALID: true / GRC: RznwCdu43H3g1G6dLb5BuSu8889dJPzP9V
+(Good: 480 - Bad: 1025 /\ CPID: 6a31cdd3f49f27be94c9d665d954e3cb / DIFF: 447.6947279851692 / VALID: true / GRC: SGAupqMQhKDYqFPTaMveQ3dLoCbohB3tPg
+(Good: 481 - Bad: 1025 /\ CPID: 58f338e522e87352db4aadf783022271 / DIFF: 3424.28137444424 / VALID: true / GRC: RymYNAGyaGynnDg5JQxaraXV9UMrBxaAUC
+(Good: 481 - Bad: 1026 /\ CPID: 5b704f7fe3223adcb7c06aa7d76b72e2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 481 - Bad: 1027 /\ CPID: eaba338e97e6e8dc66a56f39ce563840 / DIFF: 0 / VALID: false / GRC: 
+(Good: 481 - Bad: 1028 /\ CPID: 8a514ef23a2f6da866fb015e733c1583 / DIFF: 0 / VALID: false / GRC: 
+(Good: 482 - Bad: 1028 /\ CPID: a914310181ad14195a900132396544c1 / DIFF: 0 / VALID: true / GRC: Rzf1FbuVJNPXjTZgQsQccLHXphAiNMd72Q
+(Good: 482 - Bad: 1029 /\ CPID: 3fcd1970b967cc1da84f4593b146547d / DIFF: 0 / VALID: false / GRC: 
+(Good: 483 - Bad: 1029 /\ CPID: 6ebc0e8b4568f1f6208a9b15423b95b2 / DIFF: 0 / VALID: true / GRC: SBkjGyQFxQRueftaKG7csQHDAw1JEuYiGs
+(Good: 484 - Bad: 1029 /\ CPID: 128854b7416bbe0d2107322685109c05 / DIFF: 0 / VALID: true / GRC: SDK3J1CnCWWCi8oDE97RpB8zwqdEdTwqCe
+(Good: 484 - Bad: 1030 /\ CPID: 58e20fd51379fb3e7a648152cfb12cbf / DIFF: 0 / VALID: false / GRC: 
+(Good: 485 - Bad: 1030 /\ CPID: 1d15aba0248cf4938fb5d5e969b3f177 / DIFF: 0 / VALID: true / GRC: SLdd5htMjp62eQ3NRyHYo1Awbajs6Qqr9G
+(Good: 486 - Bad: 1030 /\ CPID: 3307d390b180d8b20e8e42b078eb6d64 / DIFF: 0 / VALID: true / GRC: S2RcgNQheoFu9SCrJvtZAjaHccvqaxfg8V
+(Good: 487 - Bad: 1030 /\ CPID: f5e5133282f34c97a70111a4a79fa110 / DIFF: 17885.6281693486082 / VALID: true / GRC: S3po9UTbXbpEdoJgRt5H2uisw5dmBSQL5r
+(Good: 488 - Bad: 1030 /\ CPID: f099bf4007f444831479b544d12c55d9 / DIFF: 0 / VALID: true / GRC: S2VgBx6BWfTFBNPNaagmj3q5U52P9mBae8
+(Good: 489 - Bad: 1030 /\ CPID: f421c66670934ac1e821c2d1eea1c0da / DIFF: 0 / VALID: true / GRC: SJUxu7nq7vMtX36ftEbeMNnnsmqvKA8TJz
+(Good: 489 - Bad: 1031 /\ CPID: f4e90e1bcc89229ded12589cbb7c1fc4 / DIFF: 0 / VALID: false / GRC: 
+(Good: 490 - Bad: 1031 /\ CPID: 04595c27d2b65393a238509e074c0af6 / DIFF: 1.1111186823972 / VALID: true / GRC: S1DDWoa8bXWXwgxUQREx3XTyooTE9zkx49
+(Good: 491 - Bad: 1031 /\ CPID: 7ae838b3fa663ab8802adf3da7361602 / DIFF: 0 / VALID: true / GRC: S9DaudbpfNFzMJPUf5AYReLb7Br2mugYVe
+(Good: 492 - Bad: 1031 /\ CPID: 53cc892c2cd2c58b0b5f2b03e83915b5 / DIFF: 0 / VALID: true / GRC: SCdeB7tCMNCBd1X7762Cw1zPafPHTC7zBQ
+(Good: 492 - Bad: 1032 /\ CPID: 3e8ce04fe88162398545d4e0eea1f3f8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 493 - Bad: 1032 /\ CPID: 906d42bcc2a97c2395b5ca63e86c9ef9 / DIFF: 29766.75800839309 / VALID: true / GRC: SGE1mo6dQd4EZ6qRPHT91UZCwpsAwj2nAu
+(Good: 494 - Bad: 1032 /\ CPID: 3159a68948f91dfb3e54f879167b4ea9 / DIFF: 0 / VALID: true / GRC: SBv616UNyTs2ucJWVjZLeR21g9dPYNqXxN
+(Good: 495 - Bad: 1032 /\ CPID: c4c652f102dcf42b627589d7d525c789 / DIFF: 0 / VALID: true / GRC: SLHjodGgpwBLMoPgNSQ9FgJ4SceUBp8Tu5
+(Good: 495 - Bad: 1033 /\ CPID: ab7e44a56c43425612c281d1b905bd1a / DIFF: 0 / VALID: false / GRC: 
+(Good: 496 - Bad: 1033 /\ CPID: bcb1a992333a9fb662ea64a28d6d2d6b / DIFF: 0 / VALID: true / GRC: S8VcdhhRjiwkoU4c6Rzz73eoRKYHeTLV7i
+(Good: 496 - Bad: 1034 /\ CPID: b23e8fb865447dd0c971cd4e38eec1ba / DIFF: 0 / VALID: false / GRC: 
+(Good: 496 - Bad: 1035 /\ CPID: 1bfcacaf5f85c53fabe7db42df5d6c9c / DIFF: 0 / VALID: false / GRC: 
+(Good: 496 - Bad: 1036 /\ CPID: d55ab054e319d91ca1c74e17b0254332 / DIFF: 0 / VALID: false / GRC: 
+(Good: 496 - Bad: 1037 /\ CPID: a8e45f03b9e0fee5cefc8ce0c0597374 / DIFF: 0 / VALID: false / GRC: 
+(Good: 496 - Bad: 1038 /\ CPID: a42a024750a494a2f97ad93f3621442f / DIFF: 0 / VALID: false / GRC: 
+(Good: 497 - Bad: 1038 /\ CPID: 144a949791565280a2991c9fde311ec8 / DIFF: 0 / VALID: true / GRC: SCNLURchYvHj3xcFfZPouPJdmEs4DNKSMb
+(Good: 498 - Bad: 1038 /\ CPID: 86f53023d7625df057d686ad7e0ce9ee / DIFF: 330721.8545540663 / VALID: true / GRC: SJ5YBczhbTsPjdtUQf5hoAnzRX7UT8bifn
+(Good: 499 - Bad: 1038 /\ CPID: b6cdea9682421b12c02b4f13647731de / DIFF: 304.8837172415492 / VALID: true / GRC: Rxmbt5HYwyPhjKcYdBaueqnj1ZNbHYdhPo
+(Good: 500 - Bad: 1038 /\ CPID: 590ebad6f7c8b96305c02b7ae3118ca5 / DIFF: 0 / VALID: true / GRC: SM24mYTCaTQfg3Q9wLPyBzPHZSsG1ZMRoH
+(Good: 501 - Bad: 1038 /\ CPID: dc5a16675b3e26c782c58eb8d9153a2f / DIFF: 0 / VALID: true / GRC: SM7K3TV4DrjJ3UX9Hp8FSNenmsJPyBLbBT
+(Good: 501 - Bad: 1039 /\ CPID: 7e3d8789cbaff2e6626d9244bc546f6f / DIFF: 368.579437864314 / VALID: false / GRC: 
+(Good: 502 - Bad: 1039 /\ CPID: ea0f18c16266883ae4cdb76668e8b709 / DIFF: 13399.32496342939 / VALID: true / GRC: S7Xtd5rNe1qSvzkYZCVbmVmwGW3BaQc6Wa
+(Good: 503 - Bad: 1039 /\ CPID: e8221c27fd6cc3d013b3310e3c77f8a4 / DIFF: 0 / VALID: true / GRC: SEwJsGcdkR2THQQCZt8iRy1YhzfgvjxS2s
+(Good: 503 - Bad: 1040 /\ CPID: 49970b82be2fc6d67ab78c3060e3485c / DIFF: 0 / VALID: false / GRC: 
+(Good: 504 - Bad: 1040 /\ CPID: d3d915defdbe52a1883248cde241abb0 / DIFF: 404.37006903140 / VALID: true / GRC: RyCzfv6K6boabB68VB9yYJ17DUjejY3N2R
+(Good: 505 - Bad: 1040 /\ CPID: 83f63c562e77bce0915860658199349d / DIFF: 2558.61405254933 / VALID: true / GRC: SL2iqRGwGabLf7ktHYg4b5m5t6EuvryjzJ
+(Good: 505 - Bad: 1041 /\ CPID: 30eb915d4612a3ca1552f3b83c4cda9e / DIFF: 0 / VALID: false / GRC: 
+(Good: 505 - Bad: 1042 /\ CPID: cf9eb5b3cb1424e8406aa6b58a1708cf / DIFF: 0 / VALID: false / GRC: 
+(Good: 506 - Bad: 1042 /\ CPID: f362f7a1cd00a16e9d91740a6723af01 / DIFF: 2357.285050074466 / VALID: true / GRC: S7au67XcpVrcSP4oAdE6dv7z1Mqtwr8z11
+(Good: 507 - Bad: 1042 /\ CPID: 75b3da7f61d3f8713974c8edc3beee25 / DIFF: 737.508876578885 / VALID: true / GRC: S3UqFww7XExKgfsese5rP35ZBcUvCJBhEj
+(Good: 507 - Bad: 1043 /\ CPID: 722f0711744b84e13eca7ac00f2f84ca / DIFF: 0 / VALID: false / GRC: 
+(Good: 508 - Bad: 1043 /\ CPID: 1495c81924713c9803efd73b2ecd47f9 / DIFF: 0 / VALID: true / GRC: S1DmYvrsaN67wXQZY3Vg9kHRHsCvbrorbT
+(Good: 508 - Bad: 1044 /\ CPID: 2f0429d8fca8f493e92043e3a26daee7 / DIFF: 1305.005733929273 / VALID: false / GRC: 
+(Good: 508 - Bad: 1045 /\ CPID: 0bad597dc8561e53911b39a92e2ee907 / DIFF: 0 / VALID: false / GRC: 
+(Good: 509 - Bad: 1045 /\ CPID: 664ed3f4be02dbdf1dea36ef61e4c66f / DIFF: 6016.723012122217 / VALID: true / GRC: SCedCzxaRRxxtcvJnRpvoCSGkbKLKJXfCU
+(Good: 509 - Bad: 1046 /\ CPID: 76fb6e9f6853e7fd7e1cab37cf93a89e / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1046 /\ CPID: 81227c7087fc6f129ece1f581a0c43a7 / DIFF: 9961.6380208105390 / VALID: true / GRC: S3oswN8hqC5zuvzAygb612Mh9CD4rB9rcc
+(Good: 510 - Bad: 1047 /\ CPID: 1e4107cd4efe05fa3f1caabd55916558 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1048 /\ CPID: e0eb2ee3a63a8f6360c6d0a2654146c0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1049 /\ CPID: d04442ee38562c6d968424a07a323dcd / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1050 /\ CPID: f9c4f707a435b742c6745adc9192aa85 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1051 /\ CPID: dfd49f22856073007cb27dd36061e577 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1052 /\ CPID: 59cec9a5624f88a76b56be29d61dd6a8 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1053 /\ CPID: c7c78f9d37dd78032bb50966167455a2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1054 /\ CPID: 186293af05245c2708b6f1999e337e04 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1055 /\ CPID: 8da14c4f71c617c2e45713eb1837dfed / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1056 /\ CPID: e8579d5f1e2665f353c36cc5b2b6995e / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1057 /\ CPID: b2e96d90f4c1a25207e254c0da9145d9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1058 /\ CPID: 6adf558e8b3e3a8bc5e6fc52d60449ab / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1059 /\ CPID: 9427f04c81020a3c84c19245f9127d13 / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1060 /\ CPID: 92c661c3e3b40a367b24537329973c8d / DIFF: 0 / VALID: false / GRC: 
+(Good: 510 - Bad: 1061 /\ CPID: e0fc46a3b3276910e831ab0683e67ea0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 511 - Bad: 1061 /\ CPID: fdd6db1e0993163ca24dffda8d09eeb5 / DIFF: 0 / VALID: true / GRC: S7xVvRAcedJf2isSrjG5oQhjTfaHWHX9xP
+(Good: 512 - Bad: 1061 /\ CPID: 0d7bf78aeb1dae402525a417a38b07e4 / DIFF: 5164.393070210158 / VALID: true / GRC: S7fR7hW8bTvUtdDTjzTMtNqRWPWYZZf8Gb
+(Good: 513 - Bad: 1061 /\ CPID: 03d010e04bfa7db3852308300a800d94 / DIFF: 0 / VALID: true / GRC: S7F1uQ8bFLdhqJzpJ3WGVQREcURXk9uRXK
+(Good: 514 - Bad: 1061 /\ CPID: d9bb71a966fbbad06096aa65fbba302c / DIFF: 0 / VALID: true / GRC: S9Q5mvzEnbx83ZM5DKZ6Mt5oGhpEVbZTJH
+(Good: 514 - Bad: 1062 /\ CPID: 20b93d1bf51f6bc55ff3424a8be8636f / DIFF: 0 / VALID: false / GRC: 
+(Good: 514 - Bad: 1063 /\ CPID: 478f9b3b001c56e965cc1953b4de6a71 / DIFF: 0 / VALID: false / GRC: 
+(Good: 514 - Bad: 1064 /\ CPID: 616b90f94ca176279063989f21ef293b / DIFF: 0 / VALID: false / GRC: 
+(Good: 515 - Bad: 1064 /\ CPID: f697feb4e17a75eded452dee9e8eaaa0 / DIFF: 9286.706497900394 / VALID: true / GRC: SGrUjyWS39xJyKJmL2J8UJodiMoovxUqYN
+(Good: 516 - Bad: 1064 /\ CPID: f0754c1f86499169dd6eac41e0760dc3 / DIFF: 0 / VALID: true / GRC: SLjRoTvPBWwbvESQpwVnRiWL76LfNwUufD
+(Good: 517 - Bad: 1064 /\ CPID: fc38b066fe61f9b30ed6598c52a7daeb / DIFF: 0 / VALID: true / GRC: SBKRfcfKJp4ejsuUdb8Z6xKpP48xXtyY49
+(Good: 518 - Bad: 1064 /\ CPID: aeaf181fd139627fb51f8abb552e20c2 / DIFF: 0 / VALID: true / GRC: SALbsCGiNZQ1Dyh81Fb8DXmHzmG8UtFqci
+(Good: 518 - Bad: 1065 /\ CPID: 2fca11c1f0fbb3d45874579213ecaabd / DIFF: 0 / VALID: false / GRC: 
+(Good: 518 - Bad: 1066 /\ CPID: f19a71ea13eaa04867fd38cb0d972dea / DIFF: 0 / VALID: false / GRC: 
+(Good: 518 - Bad: 1067 /\ CPID: 564095cc8d2bbf62a4cdd39c1b077e39 / DIFF: 0 / VALID: false / GRC: 
+(Good: 518 - Bad: 1068 /\ CPID: d184ce0e7a8d2d7d4bce76cfedd7e8e6 / DIFF: 0 / VALID: false / GRC: 
+(Good: 519 - Bad: 1068 /\ CPID: 39f4d5dfb07fb6208a6542a06f34449d / DIFF: 0 / VALID: true / GRC: SF9axRGac7xXrbT1UPgWwvpXLnM1bBihor
+(Good: 520 - Bad: 1068 /\ CPID: 2bccce355d5e0df9d7aefc38fc2705f3 / DIFF: 70264.65998521220 / VALID: true / GRC: S8eN9DPhuW9StJpWzBCx891fVBur1APxBN
+(Good: 521 - Bad: 1068 /\ CPID: bfd9cf2b55d64225ab2b0d4bbf002991 / DIFF: 0 / VALID: true / GRC: RwxUQ2RbgpYnWsRyt9o295zLfzNb1xtVrm
+(Good: 521 - Bad: 1069 /\ CPID: 17ff885b34b1f661207af22b1445061b / DIFF: 0 / VALID: false / GRC: 
+(Good: 521 - Bad: 1070 /\ CPID: 079f09b14b5a8bf3ae773340d9a54f82 / DIFF: 2620.1714279896460 / VALID: false / GRC: 
+(Good: 522 - Bad: 1070 /\ CPID: a6a846cf62e78f73926bac0b4c914530 / DIFF: 17477.020267422638 / VALID: true / GRC: SKFG5pXtdJciNoSgbCTPWyicvuhnnh2p6i
+(Good: 523 - Bad: 1070 /\ CPID: 01d77694989d3af771ee2c2bc3cdb41b / DIFF: 258.872655778776 / VALID: true / GRC: S4EqDJp3y8PbRboiNsqHCL15xcAg4KJZmn
+(Good: 524 - Bad: 1070 /\ CPID: a4a7454784c39f9e2216695b6109b639 / DIFF: 0 / VALID: true / GRC: S43xV5tAw1gWsXDZYY7adJjEZYS2aMg2mh
+(Good: 525 - Bad: 1070 /\ CPID: efeaf597dd634038f79b48c8382baee6 / DIFF: 0 / VALID: true / GRC: SAPRwAvQhd7NWtLwBFBkByv5sJz7rau3xS
+(Good: 526 - Bad: 1070 /\ CPID: e27c07aaa76212ef48770e2391633123 / DIFF: 321.7415110180441 / VALID: true / GRC: SFhZivbtpQoN2qdsnKQMvWdUjVsMa7Rp7i
+(Good: 527 - Bad: 1070 /\ CPID: 3428674e02dd97b2a07644f0cb785e75 / DIFF: 0 / VALID: true / GRC: SF9E1rw7TT9FbWTux2QH8HSqKzBcHFi8v2
+(Good: 527 - Bad: 1071 /\ CPID: 805029b53a133c9b38e9ba4a7e0cd2f4 / DIFF: 31.76071519595890 / VALID: false / GRC: 
+(Good: 528 - Bad: 1071 /\ CPID: 3b6a56ec59eccff260f947784b4a0f36 / DIFF: 89843.25847976003 / VALID: true / GRC: SJPizvYgJEbWet9JYq6GcmdgcAqrpEKn3U
+(Good: 529 - Bad: 1071 /\ CPID: bf82f01e52a4e90a6490833e81e811c1 / DIFF: 0 / VALID: true / GRC: Rxu5iKtHGdzrPijr7nRXz891N2F323txdZ
+(Good: 529 - Bad: 1072 /\ CPID: da1de2244a2b983478d373f96a2c2596 / DIFF: 0 / VALID: false / GRC: 
+(Good: 530 - Bad: 1072 /\ CPID: a7a29947ccc7fa2ee5208c11e41fd3df / DIFF: 13895.9647180629 / VALID: true / GRC: SHtkWXVrTMhfm6xXjvc7T3iyeR8foJXHQK
+(Good: 530 - Bad: 1073 /\ CPID: 3eda08eb110fd131c5066ea5ea3927b9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 530 - Bad: 1074 /\ CPID: d48f5c789ee1d75a68f41e186b3edf50 / DIFF: 0 / VALID: false / GRC: 
+(Good: 531 - Bad: 1074 /\ CPID: e22005d619d5d1a0d2c6fbf882d3d4ae / DIFF: 0 / VALID: true / GRC: RxgjMHKoyQgAMiNon39LSNRxSSvqsqHvDR
+(Good: 532 - Bad: 1074 /\ CPID: 718dea835a4826db5b6cd84676cf4588 / DIFF: 460.0158410927807 / VALID: true / GRC: SD76wp8qwr5gWiK7SePEZQFuxtzSVjXoF1
+(Good: 532 - Bad: 1075 /\ CPID: 30c6f9400119ff096efb6a46db4077e5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 532 - Bad: 1076 /\ CPID: 4483c71a90ccd9a9f15075ef83a792f1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 533 - Bad: 1076 /\ CPID: bd787bc1878ffb4df1820eb9eda8422b / DIFF: 129.5660081401793 / VALID: true / GRC: SByShUrWjai38ZeDkUVjPB1okddBJ3nQdq
+(Good: 534 - Bad: 1076 /\ CPID: b84ec26ab43a1f2501fc77315aba2403 / DIFF: 0 / VALID: true / GRC: Ryjhx75qSJPJc7CAE3ugyPckBoqCkzvRy4
+(Good: 535 - Bad: 1076 /\ CPID: 54a8668149391039a15308696acdf9da / DIFF: 313277.22248615940 / VALID: true / GRC: S7s3CAL26mQMi1ZV9WWZ4NRK3VfnWyQBJv
+(Good: 536 - Bad: 1076 /\ CPID: 7cc14c02800fa9f735a5ac24bd97c5e1 / DIFF: 27250.7752282552522 / VALID: true / GRC: S9f5kSkxzo3o8fZCh29LuvdnVqqdFzvS8q
+(Good: 537 - Bad: 1076 /\ CPID: 4d7d2b52b8a613eccd9faff50f6d8324 / DIFF: 6317.066479825160 / VALID: true / GRC: RxeQk9CPkKT41aR9PWoooQa6SFptoqYcHy
+(Good: 538 - Bad: 1076 /\ CPID: 2aa2958642bc7b97af20113991e0fca6 / DIFF: 6321.7885266613275 / VALID: true / GRC: Rxw4sUMZmcH4HLEzHYwh42LWNBPh6QysHA
+(Good: 538 - Bad: 1077 /\ CPID: c6aebf9a0d896e321837ce41da5bf28d / DIFF: 3116.9680309060600 / VALID: false / GRC: 
+(Good: 539 - Bad: 1077 /\ CPID: da928ae2f5e4d68db49a3adad0deca63 / DIFF: 0 / VALID: true / GRC: S3fJausppa3xajtv2bF1C2wvhPJVwcM7FX
+(Good: 540 - Bad: 1077 /\ CPID: cb61a738fa12189d9f86c75499a6b010 / DIFF: 32.645063986731 / VALID: true / GRC: SBCUVc8YUYgSaqYdHAwta34e7M977v5vyu
+(Good: 540 - Bad: 1078 /\ CPID: e331bb2ed6b0ea4a0fc051af6a727aad / DIFF: 0 / VALID: false / GRC: 
+(Good: 541 - Bad: 1078 /\ CPID: b643cdce38f04eeb90f6e45f03daed03 / DIFF: 1098.9069944056027000 / VALID: true / GRC: SFEyYGnzqZzYJK5HEbyd4S951L3omB5jDm
+(Good: 542 - Bad: 1078 /\ CPID: 8ad825fc812bc4204b717d400ca7eadb / DIFF: 709.0952658664540 / VALID: true / GRC: SGs3tRWVfWA5ao2tubyjsSE3ea1LudZLxi
+(Good: 543 - Bad: 1078 /\ CPID: ddda89c0ddc053a963b57b7b4eed6a75 / DIFF: 0 / VALID: true / GRC: SKQF8YCBy7e1kLuEqFg2ZErUSY1XZBFfSM
+(Good: 543 - Bad: 1079 /\ CPID: 3b5191b7b6b54cb388cf5dbf881ca14b / DIFF: 0 / VALID: false / GRC: 
+(Good: 544 - Bad: 1079 /\ CPID: b35bd871e1c6cae2a0be3a08ec25b83a / DIFF: 0 / VALID: true / GRC: S5Ln84RfBaSVRb82kSm7byqpvfJy3SFuEW
+(Good: 545 - Bad: 1079 /\ CPID: 41261836240e4689f414b6ad927cb4b9 / DIFF: 2414.52824531635623 / VALID: true / GRC: S7rLDPgYUa3GBAY1ceEZ9aXFqHYX8gmvLB
+(Good: 545 - Bad: 1080 /\ CPID: 25a69314215373b4e95da0627ede0ac5 / DIFF: 0 / VALID: false / GRC: 
+(Good: 545 - Bad: 1081 /\ CPID: e9003fcc156e3b3bd0062e15c39a5e02 / DIFF: 0 / VALID: false / GRC: 
+(Good: 546 - Bad: 1081 /\ CPID: ea4f828a360454b8e0037c28ab660914 / DIFF: 41.63396458848933 / VALID: true / GRC: SJ2VncgW1NPN9CuQFWTn356Rg7ESFwZ62Z
+(Good: 546 - Bad: 1082 /\ CPID: 7894e33de1cd89822d1c5e1a0373bdd3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 547 - Bad: 1082 /\ CPID: b8239d824b88c566b3ffd6c03b730bea / DIFF: 11020.366566803821452 / VALID: true / GRC: RwyzJX2ydognkVgXidzmGmcmJJWEJPMsVf
+(Good: 548 - Bad: 1082 /\ CPID: 83149ae4c6040ac57dce0b4efefa8234 / DIFF: 590.81090367082420 / VALID: true / GRC: S8bKnVrmCZ2GbRJvBghHoJWt8KEzUB1tXd
+(Good: 548 - Bad: 1083 /\ CPID: e506cb6fa25f68a1e258941ed45b601e / DIFF: 0 / VALID: false / GRC: 
+(Good: 549 - Bad: 1083 /\ CPID: 0a49adb03a2c93c914de7bfdf7ea1187 / DIFF: 0 / VALID: true / GRC: S36ZyQ83CkBvFp7LDG74dZBaPirdTMA9ys
+(Good: 550 - Bad: 1083 /\ CPID: 960cf47295873beea317d194a28e6e7b / DIFF: 20055.321634161617 / VALID: true / GRC: S1MdeDSsjWAqsjJYGmiR78ayoRgWfs9yUQ
+(Good: 550 - Bad: 1084 /\ CPID: 7c86c79ade7e73a4c03ec89ef537661e / DIFF: 0 / VALID: false / GRC: 
+(Good: 550 - Bad: 1085 /\ CPID: 95556a87b172efaa1f0b15c783a41b02 / DIFF: 0 / VALID: false / GRC: 
+(Good: 550 - Bad: 1086 /\ CPID: 510cbc7ecfd5823715772b1eafc82901 / DIFF: 0 / VALID: false / GRC: 
+(Good: 551 - Bad: 1086 /\ CPID: 721e133c0f3cbdbf6762bed9ed8d4927 / DIFF: 3012.6185317384319 / VALID: true / GRC: S8CT22Q49yEXHw2eiRhFxTwjCyiz1t1d9v
+(Good: 552 - Bad: 1086 /\ CPID: 5579559927de2ca1b5e73c6c9eb7408d / DIFF: 1.0427735693381 / VALID: true / GRC: Rx3xribiQqGZdcVjavSzYgvfuwabKqfPEP
+(Good: 552 - Bad: 1087 /\ CPID: c4b42d599d0d4334549d8d0411635474 / DIFF: 0 / VALID: false / GRC: 
+(Good: 553 - Bad: 1087 /\ CPID: 752bbb4e0821d53e1e29e78602b72f3a / DIFF: 65467.656736969018233 / VALID: true / GRC: Rz9iDhtgZeZQhMRHfc3RW7Xahk84BRbsBQ
+(Good: 554 - Bad: 1087 /\ CPID: 6c202a503c69a729d876990f5c563510 / DIFF: 1.6155347109458 / VALID: true / GRC: SJUTBHLU9sTuyfKcc6uB8PzGJCFVmU2Ej1
+(Good: 554 - Bad: 1088 /\ CPID: e8defc5d315ac71129943194fcd1d495 / DIFF: 3986.5995124819060 / VALID: false / GRC: 
+(Good: 554 - Bad: 1089 /\ CPID: 6778a2e5dd66d83c2f6b16597ede9de2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 555 - Bad: 1089 /\ CPID: 313db8349ac1664920d14058f19b2d32 / DIFF: 5748.8815773925700000 / VALID: true / GRC: SL56ynprLEyVouRhzYhZsTrbQG4262GR6k
+(Good: 556 - Bad: 1089 /\ CPID: 55cd02be28521073d367f7ca38615682 / DIFF: 3548.8902123603500 / VALID: true / GRC: S23aGamXgYouoT1VY1GFnjUVpgtD4Pge7b
+(Good: 556 - Bad: 1090 /\ CPID: fccc69b7770beb9320183a4384943375 / DIFF: 0 / VALID: false / GRC: 
+(Good: 556 - Bad: 1091 /\ CPID: fcd3bd14d937d8f68b55d9ecbe6ba455 / DIFF: 0 / VALID: false / GRC: 
+(Good: 557 - Bad: 1091 /\ CPID: 004167638daf46847501be39de7e941b / DIFF: 1066.0476555957290 / VALID: true / GRC: SHkrX9FYSuxRu6VDbRs4WGeZiARrcRaryG
+(Good: 558 - Bad: 1091 /\ CPID: b424b10aedcc61bef7479e2392b607f0 / DIFF: 6081.30869886070763873 / VALID: true / GRC: SK2ga7psueJCRKZRBv5kxp21ExvY8JCSGb
+(Good: 559 - Bad: 1091 /\ CPID: 6b1d56acbb46d2def060db99fec4f36c / DIFF: 1504.9787811438423 / VALID: true / GRC: S3JF7KgD3zfHXs34KR6G5529UQjewKCWfE
+(Good: 560 - Bad: 1091 /\ CPID: 2cc383decb445b142a7794a5cac707a1 / DIFF: 4883.783977279989814 / VALID: true / GRC: SBHcA5cmHJxKAgGz3cP8GhuHioKYN5aMRj
+(Good: 561 - Bad: 1091 /\ CPID: 64ac00e0f6710bb736868e49960950ed / DIFF: 6092.9426088142050 / VALID: true / GRC: SC9dT7YzbdBYXLnrz4iaeWrdzAtuvwz4VJ
+(Good: 561 - Bad: 1092 /\ CPID: e129565872e509cb6ccd7feb135b33b1 / DIFF: 0 / VALID: false / GRC: 
+(Good: 562 - Bad: 1092 /\ CPID: 79404d3178533611e055ec6ce217febe / DIFF: 550.94545671946246 / VALID: true / GRC: S3KfQ1bMsZNVAKjfuHiBFmFGQNjoP254oW
+(Good: 563 - Bad: 1092 /\ CPID: 0371fb3bb416365874cdd31b5795c88c / DIFF: 16018.155443128961628 / VALID: true / GRC: SBwptBj55awYq4tfijTqHoMVjrXS2oy4eZ
+(Good: 563 - Bad: 1093 /\ CPID: 787848104682fead7cd765cd707df682 / DIFF: 0 / VALID: false / GRC: 
+(Good: 564 - Bad: 1093 /\ CPID: 61d48c317d3978c522c7eae8111730c7 / DIFF: 23165.91053724489305 / VALID: true / GRC: S1xD68ys3k9xhsQkheYR5YZbh3QBEa3aGB
+(Good: 564 - Bad: 1094 /\ CPID: 34fe92a3d85e617a7adcec78dedbd5e7 / DIFF: 0 / VALID: false / GRC: 
+(Good: 564 - Bad: 1095 /\ CPID: b899358ad2cee2d72227c8b5c6f680df / DIFF: 0 / VALID: false / GRC: 
+(Good: 564 - Bad: 1096 /\ CPID: f074745a2b3e4d8a9382d1f45d73ffde / DIFF: 6.2191030149313 / VALID: false / GRC: 
+(Good: 564 - Bad: 1097 /\ CPID: 0c6aeacef452b2a8feb064276fcf00c2 / DIFF: 0 / VALID: false / GRC: 
+(Good: 564 - Bad: 1098 /\ CPID: d2beadd4b9f5c405186beabdf87d1dda / DIFF: 0 / VALID: false / GRC: 
+(Good: 565 - Bad: 1098 /\ CPID: 8ed1160be434dfafbf6aabc6aa518a71 / DIFF: 3787.413286616191700 / VALID: true / GRC: S6D2JhNeoMTqVbYD6UDhesXcNYtDGQPeQF
+(Good: 566 - Bad: 1098 /\ CPID: cba3a1fbb5c3c3d4fd4b00c091e7afa5 / DIFF: 3914.9645849748945 / VALID: true / GRC: SH2SELhac6ZHkd3r63yvvQ1LFF8esNwyva
+(Good: 567 - Bad: 1098 /\ CPID: 152398a158dfd951cf2f87aedf1a4a3f / DIFF: 2339.513263391975 / VALID: true / GRC: S45hmsxfpar3XBHfhHwA1Gw41HaQ9NepZy
+(Good: 568 - Bad: 1098 /\ CPID: 82c8cbf96c2e9b738dc6c9f126a21baf / DIFF: 92.30892650258681 / VALID: true / GRC: SFn73yh5QbNNTVWYmzQgza8h54mGa5492Q
+(Good: 569 - Bad: 1098 /\ CPID: 9932a00a946bd5be594b37fbd515bd65 / DIFF: 12681.7409031816324995 / VALID: true / GRC: SANSLSuVyNPRhJytEQ1mCbyXeDnwCrR7EQ
+(Good: 570 - Bad: 1098 /\ CPID: 533f90958cb11d863a64f8ef0aa07212 / DIFF: .40404391736663725 / VALID: true / GRC: SEnMhTPf8zmxHaHdcFRkLNfUQisYfuj7cV
+(Good: 570 - Bad: 1099 /\ CPID: dd4796452b7536df8103856f5ac4b320 / DIFF: 0 / VALID: false / GRC: 
+(Good: 571 - Bad: 1099 /\ CPID: ac7490e8706e8c4042d9b1279e9d69e3 / DIFF: 22772.151469863722 / VALID: true / GRC: S9DH4YNX4TpDrWNBbs7va88YuKjsw1M3uG
+(Good: 572 - Bad: 1099 /\ CPID: 5d58e56f0bfe24d335c1cc9d87ad49e4 / DIFF: .736746498809251 / VALID: true / GRC: SEekacmV5PwumNEQ2HhWuDiRTwbb2Yx9wk
+(Good: 573 - Bad: 1099 /\ CPID: 5c47610502cb415680e5a1ab3e3b5e8e / DIFF: 282.486488184494136 / VALID: true / GRC: S5sFs4iFSbjq7HCBifrP1KYNmpPBv7kE8q
+(Good: 574 - Bad: 1099 /\ CPID: 1f4d8215cdc884cc2eee7a7a29301cc2 / DIFF: 2314.2072085663074 / VALID: true / GRC: RxLJ86C4cBQmMK4AS69vFBXu7MZBHfkmb2
+(Good: 574 - Bad: 1100 /\ CPID: 68a15d72c5e8ac14d64c294000890a74 / DIFF: 0 / VALID: false / GRC: 
+(Good: 575 - Bad: 1100 /\ CPID: 56ee064cad337355d0d09d3c74cada96 / DIFF: 2933.21481044579833 / VALID: true / GRC: S4bgNU7k2fnn7xNvY4SSjvh1EHD6HkLuUD
+(Good: 575 - Bad: 1101 /\ CPID: 183ce3f1a68d523b3a838e91726e7e27 / DIFF: 0 / VALID: false / GRC: 
+(Good: 575 - Bad: 1102 /\ CPID: 3fb13e4ca231e8fa3c243b704b6d34ee / DIFF: 0 / VALID: false / GRC: 
+(Good: 576 - Bad: 1102 /\ CPID: 5dcc2cda74bbec9addeb5ab85b19486c / DIFF: 0 / VALID: true / GRC: S4aqTbH2k8azRhE4Ne26kJKZJmkcgdLpNE
+(Good: 577 - Bad: 1102 /\ CPID: 91ffc42cb21cbe35257c7957a9821bc5 / DIFF: 0 / VALID: true / GRC: S5LFmMnVtLJ7sxS15tYm7ds4uG5TjccCBY
+(Good: 578 - Bad: 1102 /\ CPID: 25e791a81c729433588d0dc076830d27 / DIFF: 407.182168397719 / VALID: true / GRC: S7TyRyWwgoyTpkV9mYgPcp32BaPVoURdfz
+(Good: 579 - Bad: 1102 /\ CPID: 5cc68d90e0f41da83433a369452d7269 / DIFF: 159.69733003450236 / VALID: true / GRC: S6r9dCgDShFFKSMdZEu4qHvecG2BvegCoB
+(Good: 580 - Bad: 1102 /\ CPID: fa38429db311af8bf029180ed58cfd14 / DIFF: 274.6705424833775 / VALID: true / GRC: S9S5NF12rqwZKznGhwxVHsqva6sNPBiVvw
+(Good: 580 - Bad: 1103 /\ CPID: 44054edbb321a3169accebf82e9b1df9 / DIFF: 0 / VALID: false / GRC: 
+(Good: 581 - Bad: 1103 /\ CPID: 46023cf1e7e2e696cf3e550eb9d74dd6 / DIFF: 81.0955542777883 / VALID: true / GRC: SKH1veQHNanWFCtou4kWxG6jaVi471kTCc
+(Good: 581 - Bad: 1104 /\ CPID: 759f2cfc43ad46e1def9bd31dd538c39 / DIFF: 0 / VALID: false / GRC: 
+(Good: 582 - Bad: 1104 /\ CPID: f3bc8e8c111c75bf02069df5df2e4643 / DIFF: 14116.423916085705 / VALID: true / GRC: S4axjfdXjVX2XQAr6yZeMzG46Vo8yMck3V
+(Good: 582 - Bad: 1105 /\ CPID: 7f747382ef338f37235777584eb169c3 / DIFF: 0 / VALID: false / GRC: 
+(Good: 583 - Bad: 1105 /\ CPID: ec59b47d79687a9ec41b0cdb0e0606d3 / DIFF: 0 / VALID: true / GRC: SCd9vfUDFftFsasVi4YNHEtzRm3SVzk5uK
+(Good: 583 - Bad: 1106 /\ CPID: b68503dc9424d8994eb502b66ad5993e / DIFF: 0 / VALID: false / GRC: 
+(Good: 584 - Bad: 1106 /\ CPID: 39578e45afbf5e766bea49971d8a3d56 / DIFF: 0 / VALID: true / GRC: SBYA431nLUJGDNaCo5mDU6TdR6A2PrVBL1
+(Good: 584 - Bad: 1107 /\ CPID: 1d2e7823a3d83a4b3bdeef5524a604d0 / DIFF: 0 / VALID: false / GRC: 
+(Good: 585 - Bad: 1107 /\ CPID: 11fe3060a2d3eab10a06a937e1474e65 / DIFF: 0 / VALID: true / GRC: S6n9N7LqdHQz1dqJTLSd9gcepj1KpdhTgV
+(Good: 585 - Bad: 1108 /\ CPID: 1000000000 / DIFF: 0 / VALID: false / GRC: 
+Good Percentage: .52797833935018050541 (52.79783393501805054100%)
