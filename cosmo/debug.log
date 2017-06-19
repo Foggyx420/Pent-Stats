@@ -16,6 +16,8 @@ dtcr Anom for id 11754 in cosmology01.json when compared to c02done.json results
 dtcr Anom for id 108452 in cosmology01.json when compared to c02done.json results ended up in c01done.json minus this anom..
 dtcr Anom for id 1461411 in cosmology01.json when compared to c02done.json results ended up in c01done.json minus this anom..
 
+
+
 11754 is not on team gridcoin and has no valid beacon
 1461411 is not in team gridcoin but is in team pool.gridcoin.co also has no valid beacon as its over 2 months expired. this user mines for the pool as they didnt have a good balance
 
@@ -27,12 +29,3 @@ dtcr Anom for id 1461411 in cosmology01.json when compared to c02done.json resul
 Diff      128334.505758720053
 
 I've added him manually. I find it strange he is not in the last days. if its a boinc server error there is nothing we can do.
-
-
-
-(Good: 146 - Bad: 212 /\ CPID: a1d41188f2c2df1c711a5a36afde6d2b / DIFF: 0 / VALID: false / GRC: 
-(Good: 146 - Bad: 213 /\ CPID: 3675434dca02823a22253aa60ee5ceb5 / DIFF: 0 / VALID: false / GRC: 
-(Good: 146 - Bad: 214 /\ CPID: c4d9dd2bf03761a72cc25451d918ef0b / DIFF: 0 / VALID: false / GRC: 
-(Good: 146 - Bad: 215 /\ CPID: 190d527a4a3bd240bc15dba7fd0c541b / DIFF: 0 / VALID: false / GRC: 
-(Good: 146 - Bad: 216 /\ CPID: 136e214bd31bef203d375043dd790a43 / DIFF: 0 / VALID: false / GRC: 
-
