@@ -1,9 +1,4 @@
 [{
-"cb87d65dc32c31e5baf65e2c902d7cbd": {
-"DC": "128334.505758720053",
-"GRC": "SJxS8mrgXLjqN6rKLUDzK8razonnn9ds6i",
-"PER": "0"
-},
 "3e4e5ee66e0105c11dff0eed0519cf2f": {
 "DC": "2126.89259227207",
 "GRC": "RyC3s94z9MXQEisaWK9WgFzxd7ZwDXuXEB",
@@ -71,7 +66,7 @@
 },
 "f1cda4e1a3da3b73bbe257ae33016789": {
 "DC": "4020.90962569637",
-"GRC": "SDvAhggdoTnR9EVsrpprtQ5ydwmQ2QDrUt",
+"GRC": "Ry2VTgbk9MPJKpi8mXmgtwoBiYoBvd5Fg6",
 "PER": "0"
 },
 "7405df90cf38e7f7ee1b38a6990a809a": {
@@ -126,7 +121,7 @@
 },
 "b0062d7045aec470cbe3da4df4e68fd7": {
 "DC": "12627.76736262601",
-"GRC": "SCf7npGZktFXQcrE3KkD9i8PizLdmTGfHz",
+"GRC": "SCLLGDJpBe285SCvRi8ynuY3To3Vkw2t5b",
 "PER": "0"
 },
 "db3cf00a057e85fa2d8fa41cebca423c": {
@@ -137,6 +132,11 @@
 "16343a0f41ad37bb35a80e81bc97ef8c": {
 "DC": "879.76360647166",
 "GRC": "S1KhrP6htzxpWXQH2GHLDBQFpo2oTo3Sa8",
+"PER": "0"
+},
+"2c8d390c601a97a123f71ab061a05a20": {
+"DC": "6906.511882354654",
+"GRC": "SE6ofDaxwG18YvmhqwHndZinhef57hMqQo",
 "PER": "0"
 },
 "3081ff717f5e91cd0b47da5349bda89d": {
@@ -175,7 +175,7 @@
 "PER": "0"
 },
 "7a914235a608c65081b80c042d791e62": {
-"DC": "4681.16647126494",
+"DC": "142806.94949229324",
 "GRC": "RxBKfuYrQ13AcLrA23tpEBBYUcxQkPdhWK",
 "PER": "0"
 },
@@ -194,8 +194,13 @@
 "GRC": "SLndMNvkqQwqArqyhRz4o7N9hKJKq3GR6m",
 "PER": "0"
 },
+"725b0f449e07f3fca83f2e4077c254a3": {
+"DC": "50",
+"GRC": "S3srp2xKjPDs9cPrhgAWgMoTTBimvhXLGb",
+"PER": "0"
+},
 "ba999ecbe6f9a498861fabae3f6c37c5": {
-"DC": "11669.5016943614645",
+"DC": "12831.743682143806",
 "GRC": "S3NZ25pK2nsHfyd61ieshhqnThpWuNUyno",
 "PER": "0"
 },
@@ -214,13 +219,18 @@
 "GRC": "SGsz9W7XrqFCSkY8mmPWVYo24r2tgVQoCZ",
 "PER": "0"
 },
+"0249b19d285e6b0b6c7d255974aefed1": {
+"DC": "6886.90745416640",
+"GRC": "SAEtHqLMXXELy8ydbSFTexZ1xAWXyHCF4J",
+"PER": "0"
+},
 "4f0fecd04be3a74c46aa9678f780d028": {
 "DC": "6056.11554672179",
 "GRC": "RyiFWRF92bTBv5NpS2hv47pj6SL1nhYCqj",
 "PER": "0"
 },
 "354ca887e81a86ff1ce8c5ced91fe1b1": {
-"DC": "500",
+"DC": "2200",
 "GRC": "S4nhrPLQbwAk7gMc3JtykszCTytDcgeRfd",
 "PER": "0"
 },
@@ -279,6 +289,11 @@
 "GRC": "SFvtTFHFW9mC48CGEeoNm7M4VLjCea1tUs",
 "PER": "0"
 },
+"8873d40664afb7a2888b6996a6f1d934": {
+"DC": "60106.22391280584",
+"GRC": "Ryd87iywfUi4pwyRG3HTXnY32stYe2Vjwq",
+"PER": "0"
+},
 "b697bbfcb028365be7f6918ac1e9407d": {
 "DC": "1059.2745367058",
 "GRC": "S9iH1AgLC99cJKAtT55fvYL4n8o9CYB8pQ",
@@ -290,7 +305,7 @@
 "PER": "0"
 },
 "d811112ee0c90355ed442f956bc4b5a9": {
-"DC": "18211.9526407037993",
+"DC": "19002.64772619721",
 "GRC": "S6fRSSVaVxfvp9p1v8GAxn6X9VKmCXw5zB",
 "PER": "0"
 },
@@ -384,18 +399,13 @@
 "GRC": "RxJ6Ctk5NuhDcCLLnffdiwyshRuPsENTQq",
 "PER": "0"
 },
-"559a8c195773bfbe89154a3da0c7d13b": {
-"DC": "154318.9792222993",
-"GRC": "S6J72ESSFBD4aHnoeU2MTTRjHZdUmgFnwt",
-"PER": "0"
-},
 "2082de95f77c4a69fc878de0bb3b2af5": {
 "DC": "16932.622027602937",
 "GRC": "SFrUaVngc2RmwqWAF3zqk4PfdsdgrAkwJk",
 "PER": "0"
 },
 "61d48c317d3978c522c7eae8111730c7": {
-"DC": "50013.663452304009",
+"DC": "59259.35182016318",
 "GRC": "S1xD68ys3k9xhsQkheYR5YZbh3QBEa3aGB",
 "PER": "0"
 },
@@ -407,6 +417,11 @@
 "0d7f1e96b8cd94f85090f0afcefd6959": {
 "DC": "10617.95519196340",
 "GRC": "SM5BPxktGwa7ABicssiAyNssvkLiGJg8tS",
+"PER": "0"
+},
+"55d5bff8d4a1f038692788cff11fc400": {
+"DC": "6816.37932988780",
+"GRC": "S7xGDsUMPvZ85DGgLi2cpAVogh7YSd5rzV",
 "PER": "0"
 },
 "cb44d23b2c25625262ac95cfc5792b7e": {
@@ -640,7 +655,7 @@
 "PER": "0"
 },
 "2fa5216607ecda3cfb99050e305ceb4f": {
-"DC": "67580.7214061036229",
+"DC": "69198.52581795905",
 "GRC": "SE6QiVw795GqZfJpqJaP65pDnuiCeRGSmV",
 "PER": "0"
 },
@@ -720,7 +735,7 @@
 "PER": "0"
 },
 "431d0ac8a393f828adc516d173553434": {
-"DC": "12366.444368675059",
+"DC": "22960.27543545846",
 "GRC": "S6jryCSKbG1XemdpC74meN9tZR58JNCJ5y",
 "PER": "0"
 },
@@ -755,8 +770,8 @@
 "PER": "0"
 },
 "55cd02be28521073d367f7ca38615682": {
-"DC": "6100",
-"GRC": "S23aGamXgYouoT1VY1GFnjUVpgtD4Pge7b",
+"DC": "0",
+"GRC": "NULLED OUT MY CREDIT",
 "PER": "0"
 },
 "7ace61f1014802fe81b54a3010a9df33": {
@@ -765,7 +780,7 @@
 "PER": "0"
 },
 "e5e0c31e740d02513dcc0f61f21195ca": {
-"DC": "3093.3412684675390",
+"DC": "3407.265353237721",
 "GRC": "S2GdkpSs3WQQwsi47P86bYLHpEakAKp6KL",
 "PER": "0"
 },
@@ -775,7 +790,7 @@
 "PER": "0"
 },
 "2aa2958642bc7b97af20113991e0fca6": {
-"DC": "44552.773425513894",
+"DC": "57954.90161617297",
 "GRC": "Rxw4sUMZmcH4HLEzHYwh42LWNBPh6QysHA",
 "PER": "0"
 },
@@ -795,7 +810,7 @@
 "PER": "0"
 },
 "015baf274dd9265b1c53d6aa064cface": {
-"DC": "4794311.98066848509",
+"DC": "4833856.3071734775",
 "GRC": "Rz3dq37BLCKx2ymW3xj5FuUbnxa4sM44jg",
 "PER": "0"
 },
@@ -815,33 +830,48 @@
 "PER": "0"
 },
 "0b44c45c75607eee4c14cd71e9d7aeff": {
-"DC": "3334.3039365685851",
+"DC": "4258.125547382084",
 "GRC": "SJFnHy7aD7f5TF9h4pZNCo9nvjcRXRYEQP",
 "PER": "0"
 },
 "1f4d8215cdc884cc2eee7a7a29301cc2": {
-"DC": "3578.0443854741587",
+"DC": "4227.165022412178",
 "GRC": "RxLJ86C4cBQmMK4AS69vFBXu7MZBHfkmb2",
 "PER": "0"
 },
 "5188365b01e83b3244477e8c9a0062f7": {
-"DC": "8538.610418970092",
+"DC": "11652.990048429072",
 "GRC": "SGMxjwKc6urn81VGg22spCtKDM8ZRF7J7c",
 "PER": "0"
 },
 "f3bc8e8c111c75bf02069df5df2e4643": {
-"DC": "4600",
+"DC": "5250",
 "GRC": "S4axjfdXjVX2XQAr6yZeMzG46Vo8yMck3V",
 "PER": "0"
 },
 "93c8e4466049ec095ed49f3288766fca": {
-"DC": "5654.127499064674",
+"DC": "6974.202671353186",
 "GRC": "SGJaj2HkTSV8dAN7CLHwEwGnbB4K4jVx3n",
 "PER": "0"
 },
+"81227c7087fc6f129ece1f581a0c43a7": {
+"DC": "50",
+"GRC": "S3oswN8hqC5zuvzAygb612Mh9CD4rB9rcc",
+"PER": "0"
+},
+"9d7ae806c4d2adb73085803b323dc583": {
+"DC": "332.6807953853908",
+"GRC": "S4NsGKffXwufbmGUMcY4U7f1mfeRTn6zER",
+"PER": "0"
+},
 "062c68c850bf90dd52f1d1aeff927d85": {
-"DC": "972.2645580314275",
+"DC": "3456.9461986365905",
 "GRC": "SF5C7gJi2Vz56v8xwPzrwNt6yFTA7uYEUJ",
+"PER": "0"
+},
+"08321f22a670ce593f85cee0aceed378": {
+"DC": "856.7381271153548",
+"GRC": "SLHYgCyemqrxduZBkiYjGAT8wjTrkEPpec",
 "PER": "0"
 }
 }]

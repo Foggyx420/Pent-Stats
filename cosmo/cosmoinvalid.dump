@@ -1,6 +1,6 @@
 Beacon For CPID e64c6f0a50af958349a03ee08ab178f7 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 495ab3a5de85166ef3ecb6f4f638cd29 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 9ac6e23644ff714535b4fc5d32addcf3 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 495ab3a5de85166ef3ecb6f4f638cd29 and has .[]."50".DC in difference of credits from end to start
+No Beacon For CPID 9ac6e23644ff714535b4fc5d32addcf3 and has .[]."69".DC in difference of credits from end to start
 No Beacon For CPID 9de512c3077bcbe68ce27ff1657d8b3f and has .[]."1443217".DC in difference of credits from end to start
 Beacon For CPID 85be57213377e46e558e180e45e94e00 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 427e9faae0501a3dca3521b1dc599e86 and has .[]."1229757".DC in difference of credits from end to start
@@ -21,7 +21,7 @@ No Beacon For CPID de05a37f2633e61b9b48f571eceb140e and has .[]."1457106".DC in 
 No Beacon For CPID 2ce86db80ec7919b0d76a942f6b947a5 and has .[]."2561".DC in difference of credits from end to start
 Beacon For CPID cef04e65569de69fd186d6dd04eab43e found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 5c7ca6d651690c24fa3d937f182b194f and has .[]."3493".DC in difference of credits from end to start
-Beacon For CPID 07becb67d38a9e39dc86143eb7accffe found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 07becb67d38a9e39dc86143eb7accffe and has .[]."3762".DC in difference of credits from end to start
 No Beacon For CPID 83afc86ea814d9356c4ee02a233c2bc9 and has .[]."4188".DC in difference of credits from end to start
 Beacon For CPID 77e8b5f5fe415a06ddc0f23d0b612715 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID c221afcea04a7bc843220c564c0166ca found but has 0 in difference of credits from end to start so invalid
@@ -44,7 +44,7 @@ No Beacon For CPID 04c7728c78d2de03bb77a8be379b73cc and has .[]."1452098".DC in 
 No Beacon For CPID abc5cc2718ddb011aac4fc26dde410ea and has .[]."1227317".DC in difference of credits from end to start
 Beacon For CPID b2f5c7f5f3fb4f4d3ea014123d4386bb found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID b8f2263d937a06f149107fdd532b0e15 found but has 0 in difference of credits from end to start so invalid
-No Beacon For CPID 29b50891c25e1a2572409e32e3872945 and has .[]."1438318".DC in difference of credits from end to start
+Beacon For CPID 29b50891c25e1a2572409e32e3872945 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID a4e4af0454ac1eec9d16fb22e14a60f3 and has .[]."1235234".DC in difference of credits from end to start
 Beacon For CPID b7889a19cf219bf01205d412b076814f found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 58e20fd51379fb3e7a648152cfb12cbf and has .[]."1455084".DC in difference of credits from end to start
@@ -58,7 +58,6 @@ No Beacon For CPID 5ae083dd8f04db528609ba8ae3d68ba4 and has .[]."16481".DC in di
 Beacon For CPID b7c805f71ca6f268ad3ae0aaa450de9f found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 0968f3f73c358da2dd8b4854e1ede35e found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID b11e1383a0ca8efdc01343b4787456f3 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 2c8d390c601a97a123f71ab061a05a20 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 017c21cd571b480a0f796bd32c925b95 and has .[]."21180".DC in difference of credits from end to start
 No Beacon For CPID 596106683b12334db4c8d304b6a43b6e and has .[]."23179".DC in difference of credits from end to start
 No Beacon For CPID e60102a70148f638237930498a89e1fb and has .[]."23823".DC in difference of credits from end to start
@@ -82,7 +81,6 @@ No Beacon For CPID a0fa889ccea7eac5589172c2b167eae3 and has .[]."43881".DC in di
 No Beacon For CPID 2334d5eb6b2a02176847e7bf95deedae and has .[]."44576".DC in difference of credits from end to start
 Beacon For CPID cd92b9525a14df746f32ca1f14513ffc found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID b5d908fc5e756b1c57cc87b884b17f7a and has .[]."1444386".DC in difference of credits from end to start
-Beacon For CPID 725b0f449e07f3fca83f2e4077c254a3 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 002d383a19b63d698a3201793e7e3750 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 47bb21e37f789e35f0b86fce4459caeb and has .[]."46891".DC in difference of credits from end to start
 No Beacon For CPID 97f5d39afcee4c2526d88d88cab1fc93 and has .[]."1442903".DC in difference of credits from end to start
@@ -94,13 +92,12 @@ No Beacon For CPID 7443c217d64ee2f6bf3d0593196a69e9 and has .[]."52475".DC in di
 No Beacon For CPID c1e849400d4b1c119424bc2daf7e5283 and has .[]."1449443".DC in difference of credits from end to start
 No Beacon For CPID c0a1c4b1bd3225984576f3496cd8b47f and has .[]."54678".DC in difference of credits from end to start
 No Beacon For CPID 30595e5e9b3f62c7d5d46e19417ffa9f and has .[]."54886".DC in difference of credits from end to start
-No Beacon For CPID 29aa911ec147faa8927d15f0eaf57ecf and has .[]."56595".DC in difference of credits from end to start
+Beacon For CPID 29aa911ec147faa8927d15f0eaf57ecf found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID d4a391fdf6d36563c4f1db3363a490b6 and has .[]."58659".DC in difference of credits from end to start
 Beacon For CPID 44171557b5c9afd6271e52ac0e0393ee found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 86d5ae19b8a3bcb4ad2c7038d967eb51 and has .[]."60450".DC in difference of credits from end to start
 No Beacon For CPID 1179ae8f7f53c094d6b58b0fefdd1833 and has .[]."1445363".DC in difference of credits from end to start
 No Beacon For CPID 9d1241a52bc8c7b7580ca3a3f337d7db and has .[]."63631".DC in difference of credits from end to start
-No Beacon For CPID 0249b19d285e6b0b6c7d255974aefed1 and has .[]."64409".DC in difference of credits from end to start
 No Beacon For CPID 6e06012c2857345f5ed0e20f547ef9e6 and has .[]."65611".DC in difference of credits from end to start
 No Beacon For CPID 524cbd95d5d27b55c710a90e814158bc and has .[]."113818".DC in difference of credits from end to start
 Beacon For CPID 4c0eb661ed67994e9229e785dc5312ec found but has 0 in difference of credits from end to start so invalid
@@ -162,12 +159,11 @@ No Beacon For CPID afaffa77443266595ab6f88b3dc1d937 and has .[]."1442230".DC in 
 No Beacon For CPID a31a299e8df2b1b0cf066949ffe77dfd and has .[]."103539".DC in difference of credits from end to start
 No Beacon For CPID 8e3f27a121b52c98c19ac4fbc53ffe7e and has .[]."104118".DC in difference of credits from end to start
 No Beacon For CPID b369d80dff8d7452d3d2a4f696339463 and has .[]."104495".DC in difference of credits from end to start
-No Beacon For CPID 13ba18d2b5b412d81bd8b8fab698d469 and has .[]."104918".DC in difference of credits from end to start
+Beacon For CPID 13ba18d2b5b412d81bd8b8fab698d469 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 25d003249f8a48a462584bc4bf550e26 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID e8d62a6ce9c3da09013a6e865b45390b and has .[]."105922".DC in difference of credits from end to start
 No Beacon For CPID 266cd2b81c8f0e2584981eeeb0fa8921 and has .[]."105933".DC in difference of credits from end to start
 Beacon For CPID b7a0a3abbcab708faf5b9fe810bd02a3 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 8873d40664afb7a2888b6996a6f1d934 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID fe4a710fb94501cd94aabd1ed17b6a56 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID debf109a92ccbf6c78cdb803c1a325e8 and has .[]."108260".DC in difference of credits from end to start
 No Beacon For CPID 39d76a39c04a95bbd4228b6cb14477bb and has .[]."108624".DC in difference of credits from end to start
@@ -373,7 +369,7 @@ No Beacon For CPID c9090af5f3774ed77bc32e9dbee528ce and has .[]."702761".DC in d
 No Beacon For CPID 06246130c729ff2f074721e14139e1fa and has .[]."702768".DC in difference of credits from end to start
 No Beacon For CPID 0c755051738199cd801094e587275de9 and has .[]."708922".DC in difference of credits from end to start
 No Beacon For CPID 6e26541cff68c0f06bac7644d3a0cbc3 and has .[]."709206".DC in difference of credits from end to start
-Beacon For CPID 26a9041f8658ac80cfd779be01ae0680 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 26a9041f8658ac80cfd779be01ae0680 and has .[]."711321".DC in difference of credits from end to start
 No Beacon For CPID 93a9b50352cfb6560c972f3ca4cf438c and has .[]."715857".DC in difference of credits from end to start
 Beacon For CPID 307f6656d708c429a6c4174114fc834d found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 3269bbe96132de3c64f4ea8250b1c904 and has .[]."727534".DC in difference of credits from end to start
@@ -438,7 +434,7 @@ Beacon For CPID f0edea95764d211864a91664d8383f4c found but has 0 in difference o
 No Beacon For CPID 5e33a6bebb1ed706ee29990e85f024d6 and has .[]."1007717".DC in difference of credits from end to start
 No Beacon For CPID 75004929e177507d0b279e685f9cbc4c and has .[]."1008369".DC in difference of credits from end to start
 No Beacon For CPID a23e0eb0484110d0e083739032d221a3 and has .[]."1011237".DC in difference of credits from end to start
-Beacon For CPID 80adfb5c4f75af1aac44a6a23f0f79be found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 80adfb5c4f75af1aac44a6a23f0f79be and has .[]."1024888".DC in difference of credits from end to start
 No Beacon For CPID e7a394d5614b6be3ad0bdbb2dd4b7f63 and has .[]."1038607".DC in difference of credits from end to start
 No Beacon For CPID 7d5d4e79e88621361761d57e0134de1e and has .[]."1041691".DC in difference of credits from end to start
 No Beacon For CPID b33fca8547cae1575a51cf68a26e97ce and has .[]."1041864".DC in difference of credits from end to start
@@ -470,10 +466,11 @@ No Beacon For CPID a7d7eecd21cfa0d73c8818c747fb171f and has .[]."1144128".DC in 
 No Beacon For CPID 0c9fdb8e2ac6a9b6dfadd35e2e2f43a9 and has .[]."1145931".DC in difference of credits from end to start
 Beacon For CPID 11ec7fb00a855d72e34bf9511854265d found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 0d2e5f83717b210fd0c7b501be8b4d93 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 2cbe06e212172520ae30ec59b0cb78da found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 2cbe06e212172520ae30ec59b0cb78da and has .[]."1153242".DC in difference of credits from end to start
 No Beacon For CPID 0dead8859f88a58ea1c5849aaced416b and has .[]."1155415".DC in difference of credits from end to start
 No Beacon For CPID eab1e056bfb78b990f08916e81edeaae and has .[]."1157354".DC in difference of credits from end to start
 Beacon For CPID 2103d322c0709aefd912ea4d99452b60 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 559a8c195773bfbe89154a3da0c7d13b and has .[]."1158469".DC in difference of credits from end to start
 No Beacon For CPID 3190d7db7091a53e7d2e59fe93d677b2 and has .[]."1159311".DC in difference of credits from end to start
 No Beacon For CPID 4d1b3003346e90e5fc282d13dc21fddc and has .[]."1161451".DC in difference of credits from end to start
 No Beacon For CPID bbb247d7de7a5754374a00e171223fa0 and has .[]."1161574".DC in difference of credits from end to start
@@ -568,7 +565,6 @@ No Beacon For CPID a6395ba7ce43eb85b9d1874b8c37126f and has .[]."1216785".DC in 
 Beacon For CPID adf9f97e6dd40989780aec9c850a3507 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 4f33ed2171ecddc58847017694ae124d and has .[]."1216862".DC in difference of credits from end to start
 No Beacon For CPID 9bc33cd168c8db5e6d685269471fb05f and has .[]."1217096".DC in difference of credits from end to start
-No Beacon For CPID 55d5bff8d4a1f038692788cff11fc400 and has .[]."1217336".DC in difference of credits from end to start
 Beacon For CPID 7122bc6cf04c46488c8a72f205995dd3 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID ed8ae2f3eb8637174c49714449d0720c and has .[]."1217950".DC in difference of credits from end to start
 No Beacon For CPID 4d788f71b06c61fb6ecdb95afd352695 and has .[]."1218903".DC in difference of credits from end to start
@@ -636,7 +632,7 @@ No Beacon For CPID d831255f4c3d6972e63016bb84f87c21 and has .[]."1229971".DC in 
 No Beacon For CPID 41f38aaa26f9dcc3ce78e243e2c71b4a and has .[]."1230297".DC in difference of credits from end to start
 No Beacon For CPID 8fe93d735d04a99562b170abad08fa3a and has .[]."1230511".DC in difference of credits from end to start
 No Beacon For CPID ec67cac220b004aeaee79aa0ba9a2b1e and has .[]."1230965".DC in difference of credits from end to start
-No Beacon For CPID 660f1cb267485ad903ed8ca856bc8d8a and has .[]."1231150".DC in difference of credits from end to start
+Beacon For CPID 660f1cb267485ad903ed8ca856bc8d8a found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 8bc8f40f867e0ac5777ce7ec53e1a4d0 and has .[]."1231379".DC in difference of credits from end to start
 Beacon For CPID 411567587e0d91da48f891aef5b1e218 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 99c836a2a244dd65641b18f4c9f6821a found but has 0 in difference of credits from end to start so invalid
@@ -653,7 +649,7 @@ No Beacon For CPID c84efa02986a3cd8fb125b0b8d9b5943 and has .[]."1236011".DC in 
 No Beacon For CPID 5f245ce13fb065e7352728174c725dab and has .[]."1236465".DC in difference of credits from end to start
 No Beacon For CPID 431a84e02dbce3f0af10a47f22cc4a58 and has .[]."1236906".DC in difference of credits from end to start
 No Beacon For CPID c72a96d04ddafa3b0dcf7539a51efa8f and has .[]."1237373".DC in difference of credits from end to start
-No Beacon For CPID 9a6a96d819ec8599bc6e089a623bbc6b and has .[]."1237242".DC in difference of credits from end to start
+Beacon For CPID 9a6a96d819ec8599bc6e089a623bbc6b found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID e8a1b313c9cbb3a68e018bd6a27ac804 and has .[]."1238234".DC in difference of credits from end to start
 No Beacon For CPID 29d1671180b43996bc96adec896eec5f and has .[]."1238661".DC in difference of credits from end to start
 Beacon For CPID abd97542ba87185962028cbba476a6d1 found but has 0 in difference of credits from end to start so invalid
@@ -818,7 +814,7 @@ Beacon For CPID 3b6dc2071547081fde8af9364f760c37 found but has 0 in difference o
 No Beacon For CPID ba0c18d501541b82b2a798df110c1c32 and has .[]."1440049".DC in difference of credits from end to start
 No Beacon For CPID 8e033c9fad6268509f786746a4ecbe2d and has .[]."1440293".DC in difference of credits from end to start
 No Beacon For CPID 6fb2a9f13caf17efb56c40cb7cf51398 and has .[]."1440292".DC in difference of credits from end to start
-No Beacon For CPID efb2393c11f06d5f3773779a3430b6bd and has .[]."1440230".DC in difference of credits from end to start
+Beacon For CPID efb2393c11f06d5f3773779a3430b6bd found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 44e083034b9ed31c5e2d51f833bca258 and has .[]."1440382".DC in difference of credits from end to start
 No Beacon For CPID 71939b31ac6e302284979eeb98284fab and has .[]."1440419".DC in difference of credits from end to start
 Beacon For CPID 3a33d814b1b9cf0f0a65ec0356f62a01 found but has 0 in difference of credits from end to start so invalid
@@ -861,7 +857,7 @@ Beacon For CPID ddf06989fc147d368f344119aacd9e6d found but has 0 in difference o
 No Beacon For CPID a78a3c5384c0d0ab5a3e6f7b8d7be9ec and has .[]."1442582".DC in difference of credits from end to start
 No Beacon For CPID ff741e0fc67572e45780cba44dbce0bc and has .[]."1442644".DC in difference of credits from end to start
 Beacon For CPID 02247a05b2520d2297499e9896416faa found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 48d85fbbe6ef5d8fd69d0380df0b57dd found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 48d85fbbe6ef5d8fd69d0380df0b57dd and has .[]."1442655".DC in difference of credits from end to start
 No Beacon For CPID c7138aed2849190d434f314a22402b42 and has .[]."1442744".DC in difference of credits from end to start
 No Beacon For CPID e030ba3ded1faa707fbd6e367c6e663f and has .[]."1442832".DC in difference of credits from end to start
 No Beacon For CPID af5bd50e504f6b578ba67c143d548489 and has .[]."1442868".DC in difference of credits from end to start
@@ -928,14 +924,14 @@ No Beacon For CPID d907fe7cb99515d9674aa54b8c9a8181 and has .[]."1446655".DC in 
 No Beacon For CPID 2fce3f70a9c3ed07dfabf399c9027286 and has .[]."1446842".DC in difference of credits from end to start
 No Beacon For CPID 87907bc6c646ffb24082417dbc84d569 and has .[]."1446926".DC in difference of credits from end to start
 No Beacon For CPID b981bbd019f6ac936b217f1151d862c7 and has .[]."1447002".DC in difference of credits from end to start
-Beacon For CPID c07a5257c74fc28c6936e83121fac097 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID c07a5257c74fc28c6936e83121fac097 and has .[]."1447634".DC in difference of credits from end to start
 No Beacon For CPID a6e133acf3cda9eb47fd0175c7616b95 and has .[]."1447769".DC in difference of credits from end to start
 Beacon For CPID 3b201d6dd5645f3352f30cc0ae492cc9 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 5a5dcf06ecb928541d67adf68b19afc8 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID c84830680cd52a80670f68b07b365b2e found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID c84830680cd52a80670f68b07b365b2e and has .[]."1447966".DC in difference of credits from end to start
 No Beacon For CPID a656a6a4538297aea9cd82ad81b064e8 and has .[]."1448104".DC in difference of credits from end to start
 No Beacon For CPID b170266f0aac5f680ae89e7bc6540a1d and has .[]."1448115".DC in difference of credits from end to start
-Beacon For CPID 56f9c91331a1a43ff4529cbe22bee662 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID 56f9c91331a1a43ff4529cbe22bee662 and has .[]."1448536".DC in difference of credits from end to start
 No Beacon For CPID 48252e94701f55334de7c9b9dc3ae0bd and has .[]."1448646".DC in difference of credits from end to start
 No Beacon For CPID c7531c018b2019abe00dd41621dec275 and has .[]."1448842".DC in difference of credits from end to start
 No Beacon For CPID 882644668879eccb68ee097caba741a7 and has .[]."1448877".DC in difference of credits from end to start
@@ -943,8 +939,8 @@ Beacon For CPID c06664af2a4784903324689809503efd found but has 0 in difference o
 Beacon For CPID 70101227944feb1c123e680507e032a7 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 27e57ef832cea667ce90aa0e3ef8e191 and has .[]."1448993".DC in difference of credits from end to start
 Beacon For CPID 72b823c364e92081f0dbf48b954984ad found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID a1db1600f3bfe9e0f464951759172494 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 2e398778edaa39c0015f10aadf2dd062 found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID a1db1600f3bfe9e0f464951759172494 and has .[]."1449073".DC in difference of credits from end to start
+No Beacon For CPID 2e398778edaa39c0015f10aadf2dd062 and has .[]."1449099".DC in difference of credits from end to start
 Beacon For CPID 7cc7324db90bf3eb032e6db9eaf72d6e found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 6369d9559096873407191a3ad48c1e99 and has .[]."1449350".DC in difference of credits from end to start
 No Beacon For CPID 1396d7020b2a4b0768c35807f73045e6 and has .[]."1449462".DC in difference of credits from end to start
@@ -960,7 +956,7 @@ No Beacon For CPID 2bfa43840a8a59b8175e2d8fabd20c53 and has .[]."1449796".DC in 
 No Beacon For CPID 2747884e789cd8a69a5a8748e32af1ed and has .[]."1449798".DC in difference of credits from end to start
 Beacon For CPID 0afd16def7ea7607a4ae5ed795bbf7d8 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 49560f4dbde87a243069edd23e603ffd found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID d383a3efb9b66f582b570661be98ccdc found but has 0 in difference of credits from end to start so invalid
+No Beacon For CPID d383a3efb9b66f582b570661be98ccdc and has .[]."1449859".DC in difference of credits from end to start
 No Beacon For CPID 5a84aa3c53c09d697b33dfb211b5494d and has .[]."1449896".DC in difference of credits from end to start
 No Beacon For CPID ae0de30dfdbbeb76caf1b8d8c1f0cc38 and has .[]."1449914".DC in difference of credits from end to start
 Beacon For CPID e56eaa820bd3d453948f369e572a239f found but has 0 in difference of credits from end to start so invalid
@@ -1083,12 +1079,9 @@ No Beacon For CPID 64d4b8d66b97961079b00f6888ab0aa1 and has .[]."1462612".DC in 
 Beacon For CPID 41261836240e4689f414b6ad927cb4b9 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 67a70d6f35684c98eb64e7701977dd42 and has .[]."1462705".DC in difference of credits from end to start
 No Beacon For CPID e47ff4b5aabb4efaf4dd0b7f4b6ba422 and has .[]."1462708".DC in difference of credits from end to start
-Beacon For CPID 81227c7087fc6f129ece1f581a0c43a7 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 91ffc42cb21cbe35257c7957a9821bc5 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 9d7ae806c4d2adb73085803b323dc583 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID 93f6d659422cdb6c9f122b7a3e123375 and has .[]."1462757".DC in difference of credits from end to start
 Beacon For CPID b509d5c9a6dccd17e5f09f89a15264d8 found but has 0 in difference of credits from end to start so invalid
-Beacon For CPID 08321f22a670ce593f85cee0aceed378 found but has 0 in difference of credits from end to start so invalid
 Beacon For CPID 69ce829f660e550a75876ca3b704d1b1 found but has 0 in difference of credits from end to start so invalid
 No Beacon For CPID ad3f6bf689ad74652bf6894712da50f6 and has .[]."1463014".DC in difference of credits from end to start
 No Beacon For CPID 1000000000 and has .[]."1000000000".DC in difference of credits from end to start

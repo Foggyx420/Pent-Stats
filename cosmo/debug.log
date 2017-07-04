@@ -19,13 +19,7 @@ dtcr Anom for id 1461411 in cosmology01.json when compared to c02done.json resul
 
 
 11754 is not on team gridcoin and has no valid beacon
-1461411 is not in team gridcoin but is in team pool.gridcoin.co also has no valid beacon as its over 2 months expired. this user mines for the pool as they didnt have a good balance
 
-108452 is in team gridcoin and has a valid beacon hes in 01 and 02 file. he may of changed off team gridcoin for some reason or if not there is not much we can do about this. give him what we can.
+1461411 is not in team gridcoin but is in team pool.gridcoin.us team. and beacon is over 2 months expired.
 
-02 file = 149824.31598301194
-01 file = 21489.810224291887
-----------------------------
-Diff      128334.505758720053
-
-I've added him manually. I find it strange he is not in the last days. if its a boinc server error there is nothing we can do.
+108452 left the team during the pent. had stats before the pent but left and had no credits during the pent for cosmo.
