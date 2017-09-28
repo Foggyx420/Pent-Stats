@@ -1,0 +1,14 @@
+Top 10 for cosmo:
+
+Rank		Name				Percent of pot
+
+#1		UofS-Computer-Science		27.858383905981225257%
+#2		NeuralMiner			20.802130385439259009%
+#3		pool.gridcoin.co		10.573988358766267502%
+#4		Gunde				 5.755090471142916994%
+#5		[Gridcoin]Excelsior		 3.556732597581031473%
+#6		grcpool.com			 2.655480568681110470%
+#7		Douglas0			 2.427930154148464990%
+#8		Retnek				 2.377547880859031802%
+#9		bitters				 1.441597355194463953%
+#10		Xeiron				 1.351573048094240801%
