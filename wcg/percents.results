@@ -1,0 +1,1734 @@
+[
+  {
+    "007b76793e25af64dc29d68b5347ee7f": {
+      "DC": "9655.5448862208",
+      "GRC": "RwyewSH2AcU7tFFAksP3JmmPdct5muWUBC",
+      "PER": ".00115153325580792687"
+    },
+    "014135e5cb2ebf8f283d1d1655151287": {
+      "DC": "2033.4953418793",
+      "GRC": "SMCg71fGoZfy2Tovbyp2Za1KahrRmxAzKS",
+      "PER": ".00024251738656885322"
+    },
+    "015baf274dd9265b1c53d6aa064cface": {
+      "DC": "2450170.78730397",
+      "GRC": "Rz3dq37BLCKx2ymW3xj5FuUbnxa4sM44jg",
+      "PER": ".29221066001319523789"
+    },
+    "016f6304bcb3dfe119177dfa66fb50ee": {
+      "DC": "613.221602003964",
+      "GRC": "AerVSR64Gqhtj15KEyHkrDFbKTEySVrEX",
+      "PER": ".00007313363214696462"
+    },
+    "01f7a0f8b60fe3ebd799122ebe08043e": {
+      "DC": "27571.8539659273",
+      "GRC": "RyVtbJ1FT26k7rXRHC7zMrieproGPjEkhH",
+      "PER": ".00328825634805494060"
+    },
+    "0249b19d285e6b0b6c7d255974aefed1": {
+      "DC": "3388.40450764070",
+      "GRC": "SAEtHqLMXXELy8ydbSFTexZ1xAWXyHCF4J",
+      "PER": ".00040410567406154401"
+    },
+    "03d010e04bfa7db3852308300a800d94": {
+      "DC": "13211.376562169513",
+      "GRC": "S7F1uQ8bFLdhqJzpJ3WGVQREcURXk9uRXK",
+      "PER": ".00157560651890813461"
+    },
+    "052456468d53290a0cdcc1dbde9181f7": {
+      "DC": "4984.65172969100",
+      "GRC": "S1x8kdXQhT87b8QXmPe1ad5vzQGFnBdQBH",
+      "PER": ".00059447626239624226"
+    },
+    "05c21278af7999e749b1671ea90bc8f6": {
+      "DC": "717.99166252749",
+      "GRC": "RxhRbZ6i7zPpFvb3JE4rKkGNu8gfs9ufxB",
+      "PER": ".00008562865032848857"
+    },
+    "0639224a79ad5696557a66bd2cda41b4": {
+      "DC": "2288.7142007597",
+      "GRC": "S3V6xTdbM7XbXRcJgPcpmDcHTx8jVToNNo",
+      "PER": ".00027295513057743202"
+    },
+    "067bc227ca534998a56ec56c1f865e14": {
+      "DC": "279.565875605813",
+      "GRC": "S5kSch9UTVEsxddNuVGDwjkdWMSvGwN21S",
+      "PER": ".00003334140193460998"
+    },
+    "07065b315ac186d42fbe2e5ef734b7cb": {
+      "DC": "554.03405090446",
+      "GRC": "S1AFcsQYRRajrm9jtn4NyZKmkdw2jjk3v6",
+      "PER": ".00006607484528158799"
+    },
+    "07eddf7186858e6e44ba714cfad8578b": {
+      "DC": "33305.070747204",
+      "GRC": "S5WYyRjRvnjFLNbNEZSL19vPTEh1WLb4vu",
+      "PER": ".00397200748423553513"
+    },
+    "08321f22a670ce593f85cee0aceed378": {
+      "DC": "3424.38898105230",
+      "GRC": "SLHYgCyemqrxduZBkiYjGAT8wjTrkEPpec",
+      "PER": ".00040839723070743851"
+    },
+    "0a253e023f00417e3be21157c46a186c": {
+      "DC": "1066.88439534879",
+      "GRC": "S1keDEDcp443EJ2prprt68c4YD3CvV6r1L",
+      "PER": ".00012723806639850044"
+    },
+    "0c795e2af37411d8c917822318408a46": {
+      "DC": "8542.9994149310",
+      "GRC": "SA1aEz3wpSUK5NqKGsGYh9vzBie5tqJJyL",
+      "PER": ".00101884958814490533"
+    },
+    "0f4e985a4ce2a311305c6509f16b30a3": {
+      "DC": "46571.91544397730",
+      "GRC": "S38x3zyK6Bic7UHUznJpDd4WrCzKRTdEt5",
+      "PER": ".00555422920740055673"
+    },
+    "1004889b624ea9280c901d9c9bd45448": {
+      "DC": "8754.7451725241",
+      "GRC": "S7BTe8vG6HpuYfyPpi1RanwUe9wp58BEEZ",
+      "PER": ".00104410267168581101"
+    },
+    "11e1f64ea1ab2d83564092ba49716ecd": {
+      "DC": "2664.9590193454",
+      "GRC": "S6WVn38VHHTKtqoL3mPNZuRqsqiZCReifu",
+      "PER": ".00031782659314451581"
+    },
+    "130e72d20ec6c14a4505d9cc2f432621": {
+      "DC": "6911.5249654582",
+      "GRC": "Rz4R5ZTXVuU3CcuAqy5gnteGhRV35F3xST",
+      "PER": ".00082427775333836813"
+    },
+    "13ecfb4e226e448b549a5e3e9a1c16d4": {
+      "DC": "26202.37315254708",
+      "GRC": "S1ozzhmLFDnd6x9pwQS6qTCQ5G7eJZAt9f",
+      "PER": ".00312493022628953760"
+    },
+    "152398a158dfd951cf2f87aedf1a4a3f": {
+      "DC": "6818.5347703683750",
+      "GRC": "S45hmsxfpar3XBHfhHwA1Gw41HaQ9NepZy",
+      "PER": ".00081318761773526885"
+    },
+    "157fd6f6689a119e3a1cedc3bdc43f62": {
+      "DC": "604.17727800159",
+      "GRC": "S8WhTdUvtHQYjJz6uCKgTeQZFoxKNKVT1V",
+      "PER": ".00007205499391496818"
+    },
+    "15993c1611265079905df6671f80f3b9": {
+      "DC": "6218.71754276576",
+      "GRC": "SJ6Vti7kXyfVdPudbWfPfKmwb4n2LFdGCS",
+      "PER": ".00074165260928881455"
+    },
+    "16343a0f41ad37bb35a80e81bc97ef8c": {
+      "DC": "2214.93968919060",
+      "GRC": "S1KhrP6htzxpWXQH2GHLDBQFpo2oTo3Sa8",
+      "PER": ".00026415668320818610"
+    },
+    "1638152dadcac51f8bb71da66dfe092d": {
+      "DC": "133.70851102015",
+      "GRC": "SGgi9igXYbbwM313TK1GD7iG9EPxR9yR7q",
+      "PER": ".00001594625666791628"
+    },
+    "193cd7c15933c9ca00ab79a9f92a54ed": {
+      "DC": "220.98668717732",
+      "GRC": "SFvtTFHFW9mC48CGEeoNm7M4VLjCea1tUs",
+      "PER": ".00002635516921874189"
+    },
+    "19fc87b4bf584c5171a1e94ec4ee3b1c": {
+      "DC": "574.4196128267",
+      "GRC": "SJAtwx7JqjTrcB9LktnYLmBNJ6vkWQvp1D",
+      "PER": ".00006850605478539251"
+    },
+    "1ac793c529cd6ffa942afaef7c5068c2": {
+      "DC": "37385.99673528344",
+      "GRC": "SCABW94urGBZQJpu9ATPE4xRMV64rRfHiY",
+      "PER": ".00445870420048927964"
+    },
+    "1c672043994859bbfa93761c7e4f5f15": {
+      "DC": "489.97798638149",
+      "GRC": "S1HaFYWhpJXUjDUeW2VjyGhsDAjHRnyPyS",
+      "PER": ".00005843543296425277"
+    },
+    "1d453fb03ecd1542603bece39b076632": {
+      "DC": "2922.82161213770",
+      "GRC": "SGQwNFyr5pFVUpgVyHrytZxZVRVWieaewV",
+      "PER": ".00034857963241140826"
+    },
+    "1ea3f1fb187c21576af8b1713f0b382e": {
+      "DC": "61494.66099824367",
+      "GRC": "SBDwuiqE58822bt1P21tqf3LfNd7wJ23Eu",
+      "PER": ".00733393589161063727"
+    },
+    "1e69dcd755a64d84cdd442a461fdac48": {
+      "DC": "15805.1722690477",
+      "GRC": "S31gLwJ8EYpo1i84VsibjrhHCnBJfVFh89",
+      "PER": ".00188494607979656396"
+    },
+    "2049f5c4c4f3412ea245eb54301c2a00": {
+      "DC": "24628.6377166394",
+      "GRC": "S7GXj15wTCFTDNtFJajD5v6puPKW2uy1jc",
+      "PER": ".00293724442381584831"
+    },
+    "2082de95f77c4a69fc878de0bb3b2af5": {
+      "DC": "22430.1576599984",
+      "GRC": "SFrUaVngc2RmwqWAF3zqk4PfdsdgrAkwJk",
+      "PER": ".00267505073849981550"
+    },
+    "24e505bdf49d468bdcab62df799b5974": {
+      "DC": "41618.2250022114",
+      "GRC": "RyUKdR7hV6UzQSaafzBrBuyr1Xd9Fiu9cc",
+      "PER": ".00496344542980020377"
+    },
+    "25d003249f8a48a462584bc4bf550e26": {
+      "DC": "3089.9090002850",
+      "GRC": "SFN2TedrQh6vd5sSdZTHd8uFMZ6zeWQuhC",
+      "PER": ".00036850669881159477"
+    },
+    "2715d68fddd2dc2ac6a0151191dd9f12": {
+      "DC": "778.03052083152",
+      "GRC": "S6cb1sL765AGxTxrnb46Gtmn6NmTFGRVat",
+      "PER": ".00009278896523484811"
+    },
+    "27841bacbf2ccdb70eeb13005ad18510": {
+      "DC": "54976.698582757",
+      "GRC": "SAfPSdk4CkbTTHX6KJewxdUz2SJ6Rzrwv8",
+      "PER": ".00655659493675161103"
+    },
+    "2856e11490fbc63987ee0fb013421a03": {
+      "DC": "8476.67675701692",
+      "GRC": "S4FTuJhMXBW5S3us9EZA2rUrtfPZNZ1PYe",
+      "PER": ".00101093985885447184"
+    },
+    "285ff8d5014ef73cc83580338a9c0345": {
+      "DC": "52893.284468684",
+      "GRC": "S2RQboT9HfBsy1ZjyW3eoTgVXmETRXCkJb",
+      "PER": ".00630812417034272637"
+    },
+    "28c530c5c941e0da1d8d98d2552dcce5": {
+      "DC": "243.80888485966",
+      "GRC": "SCTa5bRVba7tWpcehT9JNzBW5pQKnmYETJ",
+      "PER": ".00002907697517703032"
+    },
+    "2986d3e2497733ac3e4e95ef8d39af82": {
+      "DC": "694.095636150",
+      "GRC": "SE8sfGQXT93W7psRL7rhSR2tjfsBKirBd6",
+      "PER": ".00008277877811727736"
+    },
+    "29f12dc6023619cab1c87f1f52914dfc": {
+      "DC": "1025.16334105545",
+      "GRC": "S9vUPjThPcymEgqVkWVGVrBVUyewX4zu1U",
+      "PER": ".00012226235740928427"
+    },
+    "2a36939a9f3cff33952ed33dbdaeb8b7": {
+      "DC": "5257.14936264213",
+      "GRC": "SEs6UcdH3wCfPaS9ycD2kgfwG273pX2h5h",
+      "PER": ".00062697469621533937"
+    },
+    "2a567ce689d5f1a55c11578a8609a5d3": {
+      "DC": "27583.0614126692",
+      "GRC": "SFVGfLaGzrur7QDbBvatAiV6ezH633dCWf",
+      "PER": ".00328959296321110973"
+    },
+    "2aa2958642bc7b97af20113991e0fca6": {
+      "DC": "49304.43746540080",
+      "GRC": "Rxw4sUMZmcH4HLEzHYwh42LWNBPh6QysHA",
+      "PER": ".00588011345494696759"
+    },
+    "2cbe06e212172520ae30ec59b0cb78da": {
+      "DC": "350.11682321861",
+      "GRC": "SEfbo1hLic1LTYvkpJBxtqhYZynj4DWEJp",
+      "PER": ".00004175540273541790"
+    },
+    "2cf3f182687e2eefe4103d7f2f8a373e": {
+      "DC": "44436.098494975",
+      "GRC": "S1F8EJsEMfXQ6MCrnRJBednNfDqwKdbAmV",
+      "PER": ".00529950880849233822"
+    },
+    "2d296b1c0ef6a3f7f1a2bc83c5cda67f": {
+      "DC": "4037.84626139225",
+      "GRC": "SDcfQNWaf2Ct8CvFckTbxRASzF9CiFNdvf",
+      "PER": ".00048155897016939772"
+    },
+    "2e2d8005f09feef6ecd400aedfd9cf82": {
+      "DC": "1118.77518250765",
+      "GRC": "SA9mro9dLNccMWzBAPdqm3DPT1NDJMiKjP",
+      "PER": ".00013342663139277142"
+    },
+    "2fcaf5ae175f8b604fdf344b1d970092": {
+      "DC": "14268.5426537936",
+      "GRC": "SCfLhgjStVKZitxHvCya1rWVkYeR3RQ9xz",
+      "PER": ".00170168556734743030"
+    },
+    "307f6656d708c429a6c4174114fc834d": {
+      "DC": "1326.08205419390",
+      "GRC": "RyeRmt2bbgU68tcj5EbrZhWXHbg9QeRjcK",
+      "PER": ".00015815032743657485"
+    },
+    "3081ff717f5e91cd0b47da5349bda89d": {
+      "DC": "261.4206224506",
+      "GRC": "S4wRPvKsaUhwWYYifAhjUa96S3WTQgnGRA",
+      "PER": ".00003117737466432096"
+    },
+    "309a1bd57a746241e8b04f39c38d118d": {
+      "DC": "5315.1938919625",
+      "GRC": "SFAZtw2nx8R3dNjKeP71uTsQwuSo7eEPkN",
+      "PER": ".00063389716476763313"
+    },
+    "313db8349ac1664920d14058f19b2d32": {
+      "DC": "4314.263948875690",
+      "GRC": "SL56ynprLEyVouRhzYhZsTrbQG4262GR6k",
+      "PER": ".00051452491495879516"
+    },
+    "3238ed33fd0ce096016a82a60343a2ef": {
+      "DC": "17772.3815483808",
+      "GRC": "RxxKxMCLgeTdX1vTsYwg8tmZuEt29EvB3S",
+      "PER": ".00211955810148772467"
+    },
+    "32ee2ae7b68222ff8cc83b39a35d52d4": {
+      "DC": "1877.6202014050",
+      "GRC": "SL5TDtHWto2MxGM5c4s7JrJF1DAnU7EAFv",
+      "PER": ".00022392750789032910"
+    },
+    "3400232bba3d404ab2cd4f2375a2cff2": {
+      "DC": "133.90964911386",
+      "GRC": "RxzFvKk9qJNgzH1HrS9A4tFAshGJQZB5dz",
+      "PER": ".00001597024466721059"
+    },
+    "3428674e02dd97b2a07644f0cb785e75": {
+      "DC": "4236.164494255754",
+      "GRC": "SF9E1rw7TT9FbWTux2QH8HSqKzBcHFi8v2",
+      "PER": ".00050521066907054279"
+    },
+    "343f76641b335b6d32884aa4bd8dc46d": {
+      "DC": "3011.3645468790",
+      "GRC": "S53VCQeUY96WQo1L115dHmCodS4T74UD8K",
+      "PER": ".00035913938177023967"
+    },
+    "34d68eb799e5dc39b66b160b6da29e19": {
+      "DC": "632.3180400583",
+      "GRC": "SBnHUvMmEwTxC2CnCU8L6rjSMsBuVHY9QU",
+      "PER": ".00007541109900628455"
+    },
+    "36767dd97caab66260f85bcdc5fcaded": {
+      "DC": "2907.86514482564",
+      "GRC": "S9DdPgiyGHX1KuqQ7t8j1nmAFabj2VX6Ap",
+      "PER": ".00034679590402505695"
+    },
+    "38d5f74909eb2b79691c74cb023dc16f": {
+      "DC": "22417.1299847723",
+      "GRC": "SGKhAdBTEz8S9j2oM6ChkReVVTy5gjjLtF",
+      "PER": ".00267349704044905837"
+    },
+    "38fde78a0f3f721e2453cecf91111a22": {
+      "DC": "8332.44614819585",
+      "GRC": "SEipjY2HYWNHNaiFLU5ESho3E8BShrY9YV",
+      "PER": ".00099373872266588614"
+    },
+    "39099ef659041abead5a008e022c35ba": {
+      "DC": "3888.535506391",
+      "GRC": "SHRrmiMXFZbMfd6SvPVASx7djSbDbnmzXr",
+      "PER": ".00046375196892194919"
+    },
+    "39cd843c432959c0cf9d5455b820b040": {
+      "DC": "65945.5549353659",
+      "GRC": "SCDavHDVuMiNJb7NcvJ2gESb1VnjtuRPbt",
+      "PER": ".00786475548253650962"
+    },
+    "3a07155e019deae32c8c4959da960c14": {
+      "DC": "108976.434324290",
+      "GRC": "G3Mzpk3YyRE15gfHt6Eov4r3MqCnxok5h",
+      "PER": ".01299667597246346783"
+    },
+    "3a2d1ab1506c3e08aa386b63cc8bf9fa": {
+      "DC": "5624.95122264349",
+      "GRC": "SEwrtgi6TuEpRnF8CnVWmuXPdRQqqfKwR9",
+      "PER": ".00067083924019814408"
+    },
+    "3b506ca17b3c9fba239d8059ca4846cf": {
+      "DC": "536.59591721596",
+      "GRC": "SJQGZjNn7WcxF94Wzm4Wt3LqDDGLRZLUTd",
+      "PER": ".00006399515002894732"
+    },
+    "3e4e5ee66e0105c11dff0eed0519cf2f": {
+      "DC": "670.55482596900",
+      "GRC": "RyC3s94z9MXQEisaWK9WgFzxd7ZwDXuXEB",
+      "PER": ".00007997126946690916"
+    },
+    "3f6b519a871e698973d52a71deb53236": {
+      "DC": "3305.0020478413",
+      "GRC": "SJbjPju48i8ixthcLraJNSnhKqbrEhZUvE",
+      "PER": ".00039415898465075268"
+    },
+    "3fb01ffdd5f274efa8d068ff9244abd4": {
+      "DC": "5802.293226690496",
+      "GRC": "S11fQaELFcxDjAqpoa39VbD6Gsu2q3ff8B",
+      "PER": ".00069198928586808675"
+    },
+    "41ded237f95cb1814bf771c565e15edb": {
+      "DC": "14209.4581607697",
+      "GRC": "SHZsAwcnp83Xc6dqenBB3nCjviBK37dtxL",
+      "PER": ".00169463907132661356"
+    },
+    "41e34ce4554d0e4bb627649a215f0bbd": {
+      "DC": "22648.750304314",
+      "GRC": "S6pGBKHoeQBjyBSuiePkzXvsbAebwcRQ1Q",
+      "PER": ".00270112039095035984"
+    },
+    "41f3cf3ece029a034884701ada7bf08b": {
+      "DC": "21741.13935528444",
+      "GRC": "SBcmU3rA2AYMwn6TzFzJv21g74YaowDZmp",
+      "PER": ".00259287748975123309"
+    },
+    "41f74199e5d4bebc6feb7d225507c2c8": {
+      "DC": "15733.5501239290",
+      "GRC": "SAo9Eo2NWjC6G7XePn8Cqhgd3d5T6neQSP",
+      "PER": ".00187640432654199798"
+    },
+    "43269196bb03e3b29b5a25c3fb15b622": {
+      "DC": "1096.197796100",
+      "GRC": "S3QonTjGD8NrMrv4HXGbQQm6TcaGAj5yYV",
+      "PER": ".00013073402195601795"
+    },
+    "43976f32f82d1a2e917a4357c4e62ebd": {
+      "DC": "38604.02718384116",
+      "GRC": "SLod9DGoPfoX45AZMe5Q8JEvHjcbzUvgzt",
+      "PER": ".00460396814826528573"
+    },
+    "43aaf1e669836778041a97e051b5d971": {
+      "DC": "25.712232350379",
+      "GRC": "RxVr8xeQGoD9RCMBwJUBxrPbNadNx5TVBE",
+      "PER": ".00000306647537569582"
+    },
+    "44171557b5c9afd6271e52ac0e0393ee": {
+      "DC": "680.9172464479",
+      "GRC": "SEzZ48gne1HPDdhTiYkbrJyo5sZ39ovJ32",
+      "PER": ".00008120710565562050"
+    },
+    "450b5e152c58db8b4091e384637f4022": {
+      "DC": "27.6131409302",
+      "GRC": "SEZUDuGUDnAkwEvNY4sHum34XkgHW3JmiM",
+      "PER": ".00000329318028688507"
+    },
+    "45272229fb8fca150b3af5136f4799dd": {
+      "DC": "96677.285459228",
+      "GRC": "S3U7bnWK6VrL6tMcymL4Jj4pLNNbo6QTYo",
+      "PER": ".01152986295433305413"
+    },
+    "4563338e20bb2bc44d6ea9dc28bb70f9": {
+      "DC": "325.62432970531",
+      "GRC": "S93DtmuBTqQp7pCBQwY4ZWvpTkbMfzXYcR",
+      "PER": ".00003883439505220843"
+    },
+    "46f64d69eb8c5ee9cd24178b589af83f": {
+      "DC": "905.72795241179",
+      "GRC": "S6WtsHxuDUmSFYgb56Vjw7nvYsGJvKrWHb",
+      "PER": ".00010801833249259726"
+    },
+    "493910c69500e516fb8ee81545c658e1": {
+      "DC": "1261.7373857185",
+      "GRC": "S6HMyzHW3K6DEShx522E3zXGTJ14thEeMC",
+      "PER": ".00015047649582411988"
+    },
+    "4bd3bc6ec82e30a222ef8d1bf2991d74": {
+      "DC": "682.7337605399816",
+      "GRC": "S8MWWVFrPWBTBoPDHxUCHu948hFw5UrjGP",
+      "PER": ".00008142374556681400"
+    },
+    "4c16785dbae7703d3c286f5dd9c54020": {
+      "DC": "80646.4603500676",
+      "GRC": "SLufSqV69t9AuLJhBLRE4HfCwpb9SK2Sbg",
+      "PER": ".00961800521364947962"
+    },
+    "4c5a8d63d604df29f09f15714680925b": {
+      "DC": "8865.9463348193",
+      "GRC": "SABJyJK6cwhwiD8Hs9PE5GH2FMjqdceSsC",
+      "PER": ".00105736467170511153"
+    },
+    "4f0fecd04be3a74c46aa9678f780d028": {
+      "DC": "1636.8252137932",
+      "GRC": "S5cPf8yyEUBotqkcrgDWAn1f2hfpfP7xpo",
+      "PER": ".00019520997414839082"
+    },
+    "4f302e181503bc27c4b87b8507be0985": {
+      "DC": "4400.9522535890",
+      "GRC": "S816eU9Lq73HEUKtDhPgDhC8cBLDmZfM8K",
+      "PER": ".00052486347864870609"
+    },
+    "50c49c94c2d3e43657eedf009e48c5a4": {
+      "DC": "309.7331738896",
+      "GRC": "SCfMbThubSM1FWfXN391oGc8C1AS2stxGL",
+      "PER": ".00003693919445911399"
+    },
+    "50d9f166778f02bf30ac3a60f3701e19": {
+      "DC": "2382.35321109343",
+      "GRC": "SE11QvQrGScFvkxUeZCKskc4T3NhX6xoJG",
+      "PER": ".00028412264475823311"
+    },
+    "5197047ee3ab232f6d1b99ce8003963a": {
+      "DC": "7998.4842748629",
+      "GRC": "SKnDhiyWhj6YGDtZ3GL4KHhrMARgR9kvwv",
+      "PER": ".00095390998095876461"
+    },
+    "519aefd65f7c273f57c2d914053be96f": {
+      "DC": "6152.5891709602",
+      "GRC": "SKpnEBhmArKrYkZrUnmz9uCQCjAakrHVjA",
+      "PER": ".00073376605082071566"
+    },
+    "523e8153b2c6f5a6af457043f681e2c7": {
+      "DC": "4711.14736280216",
+      "GRC": "RyKBj4E8BY8RWpT3mi4ZjeV6MBaxcpibyL",
+      "PER": ".00056185776413513962"
+    },
+    "534137c388453a2de05a1ba3c8e30d94": {
+      "DC": "5132.04185692380",
+      "GRC": "SJ52551CwRewoLCiDhkhmBvHpQN7t5ebeV",
+      "PER": ".00061205420699557200"
+    },
+    "535fb1c4d3230305a57a95d94902f58f": {
+      "DC": "6484.4076435712",
+      "GRC": "S17spCUPynAJnJthXqyC5yJsQbd8Wbmdqd",
+      "PER": ".00077333916767797807"
+    },
+    "53907566099fb7fd9b9085f80f21b5a6": {
+      "DC": "2309.48619119190",
+      "GRC": "SKWsqaW1UUy95CueMNDeDcY2Xu2tq23wNX",
+      "PER": ".00027543242606451919"
+    },
+    "54404c886a6a3ffe385d86326de7a75c": {
+      "DC": "2950.3207232511",
+      "GRC": "S3RK5yUaYfZ2FHyybJRFyR9qg9kGz8HMjR",
+      "PER": ".00035185921334913736"
+    },
+    "54b70986cfe93a59dabfcda63d3fb522": {
+      "DC": "49.9722757032209",
+      "GRC": "RzEcmMiErzkiiHEUHVxfJW5qt3UE75EvZt",
+      "PER": ".00000595976074046137"
+    },
+    "558c3e1d4623b1b03396a066f94d9cbe": {
+      "DC": "1052.00137584254",
+      "GRC": "S8yL74XgzyWjcPMcmCX4Psmkp9jNr96DCP",
+      "PER": ".00012546309749615060"
+    },
+    "55a0cb448335518eb401631a8c31de48": {
+      "DC": "13721.4522940325",
+      "GRC": "S4RDL1oXpyJRKsJxxt7v1eXeYjzTt8bBy5",
+      "PER": ".00163643883600077401"
+    },
+    "56becdbdfb605731c2a07f2f0d892859": {
+      "DC": "140951.648318524",
+      "GRC": "SL3hUWTPYPqgRFgycKm7E9uCUgvnQn9Xsy",
+      "PER": ".01681008295361490565"
+    },
+    "56ee064cad337355d0d09d3c74cada96": {
+      "DC": "15863.63843441370",
+      "GRC": "S4bgNU7k2fnn7xNvY4SSjvh1EHD6HkLuUD",
+      "PER": ".00189191883323014735"
+    },
+    "57297e64913d406ce935515010799ec2": {
+      "DC": "5967.6960208281817",
+      "GRC": "RykLUAiDUPZ2ZgfmLXvVVGBdSmzQWni4n3",
+      "PER": ".00071171544532335563"
+    },
+    "575d3a53f4ab77448fae6aa5f8f5bdbc": {
+      "DC": "759.29174662697",
+      "GRC": "S2SaY7pkVfDcEygyW9ggdg5yVwVsLseakq",
+      "PER": ".00009055415384679181"
+    },
+    "57bfe70f547c240206ce62be4406bd8d": {
+      "DC": "7358.313151156655",
+      "GRC": "S5vq3e3o6KW1BXZnmP1iYRUg628nyacayn",
+      "PER": ".00087756231264564007"
+    },
+    "57c248907745534871b376443c21f5af": {
+      "DC": "4740.5159607572",
+      "GRC": "SFumKknjRwiw6uVbezERa4mnxq5BkPnooj",
+      "PER": ".00056536030258534593"
+    },
+    "582456c223dab39e31167a05a59d77cc": {
+      "DC": "2326.06266420136",
+      "GRC": "SKpjD4AJZKWrtPAmxgrwZqj4RBXFqj2CBY",
+      "PER": ".00027740935850689603"
+    },
+    "58e565221db80d168621187c36c26c3e": {
+      "DC": "4203.9743260636",
+      "GRC": "S6kxbRJpGsmrifFj3rY9145dpSLWEpLZjh",
+      "PER": ".00050137162636294637"
+    },
+    "59126111e2185f364a579902ddd90a99": {
+      "DC": "1102.4185004574",
+      "GRC": "S66KrZu72BaNypoErpSytwyVEGfw9WkhzB",
+      "PER": ".00013147591151548942"
+    },
+    "596ed713f923e45deecd99098b507bd0": {
+      "DC": "2424.56984412860",
+      "GRC": "SBaLYfGAAuUrpmAqWsjjc22qAW133RQtkB",
+      "PER": ".00028915745713403320"
+    },
+    "59900fe7ef44fe33aa2afdf98301ec1c": {
+      "DC": "11452.8294826041",
+      "GRC": "SAdmk4FvJuLYhvi1dkK88Q1bFaYtA464eH",
+      "PER": ".00136587983150871633"
+    },
+    "5a13228370baffc6f7065238bd3a710c": {
+      "DC": "5185.03742130868",
+      "GRC": "S3Yn5zP8iyLyqHKtCDC8y4bpFBrvqLUn8S",
+      "PER": ".00061837452920613812"
+    },
+    "5a95f32b7f396a65cdece7611e22f681": {
+      "DC": "14868.2106651870",
+      "GRC": "SB7emF5H9BoTfn1APVqUGJRpWZxvTUbmoY",
+      "PER": ".00177320278006829465"
+    },
+    "5a9d423f1cacb19732bd78b40320907e": {
+      "DC": "1245.531270283460",
+      "GRC": "S5ViscSivDa9gzRPPSCpsmDvgxbVaJprmN",
+      "PER": ".00014854373272366114"
+    },
+    "5d08458b427742d5cb90bfc80cf8acca": {
+      "DC": "46485.646845527",
+      "GRC": "SKKiagyrave7LZoNM1hHFJfCeZ9sFyY8T1",
+      "PER": ".00554394069844346741"
+    },
+    "5ea36f22b19ffa435272df2a3085d78e": {
+      "DC": "177.510044802974",
+      "GRC": "SDN6AHDXvDao4F8Egov2oReUiB7MdZNx56",
+      "PER": ".00002117008643627005"
+    },
+    "5f4943990a0fe0ee58465d521f2caae3": {
+      "DC": "217.45156181054",
+      "GRC": "S8Pvx9cHHixpVAP6Q2vVp8u69z62TFiUYn",
+      "PER": ".00002593356541789304"
+    },
+    "5f6bdd451c1f1c065e3bfd67b1e1167f": {
+      "DC": "730.1095248863",
+      "GRC": "SB4BSS38VYJtFptwrCwjLQdPZ4LMnd1bvs",
+      "PER": ".00008707384287431645"
+    },
+    "5fafbe6930402bb3d4a46897287ab2c3": {
+      "DC": "3903.6440601745",
+      "GRC": "SHZCYFrknPnE4ESAKZ7gNitZXEUVfDpXvT",
+      "PER": ".00046555383534521974"
+    },
+    "5fbdb4cf93267901387eac47b826d9c0": {
+      "DC": "42805.4932775208",
+      "GRC": "SHQJbqLcSjxz9niDG2KVZXJTyvK6iVy1pf",
+      "PER": ".00510504063946419323"
+    },
+    "60329cce9f0f9a36b4cc200ce9cb0162": {
+      "DC": "28087.4908552320",
+      "GRC": "S5Hq38rYtmFFkqXCkvnUXwVau7Dgez6UMo",
+      "PER": ".00334975189625575444"
+    },
+    "603f1a690bd76ad283d67480e011cec8": {
+      "DC": "3124.6724581313",
+      "GRC": "SJ2oQhGYp9TqoR9Z8jGeLmbL8Xqi8Bsg8b",
+      "PER": ".00037265263550067994"
+    },
+    "61805f016f1cdf5cbde9b7c3db811c61": {
+      "DC": "269.3112178501",
+      "GRC": "SHEsdLYsnEE7VVPYicfme9FhwNqzUe3DZb",
+      "PER": ".00003211841767305018"
+    },
+    "61d48c317d3978c522c7eae8111730c7": {
+      "DC": "18858.61729224834",
+      "GRC": "S1xD68ys3k9xhsQkheYR5YZbh3QBEa3aGB",
+      "PER": ".00224910403571001522"
+    },
+    "6361cb2aed6e41ee85a33f2fad305367": {
+      "DC": "1983.8412122648",
+      "GRC": "S3hGqCDWHCSM2FKjqZJGtJ9JWHN7UKQJKf",
+      "PER": ".00023659556835837689"
+    },
+    "64ac00e0f6710bb736868e49960950ed": {
+      "DC": "1591.256820164953",
+      "GRC": "SC9dT7YzbdBYXLnrz4iaeWrdzAtuvwz4VJ",
+      "PER": ".00018977542630101286"
+    },
+    "64f50cb82800863a7f5f316324d01194": {
+      "DC": "43540.27572846325",
+      "GRC": "SAwvK3x2zzd1KNuPND5R6KFSf9eBqBC8Ws",
+      "PER": ".00519267178177826137"
+    },
+    "6522503eb91580a36e878052567fd992": {
+      "DC": "45773.77706979790",
+      "GRC": "RyLuNf4APnjkYEcrLKpuk7u1h9EdKqjWcT",
+      "PER": ".00545904215255959676"
+    },
+    "6587b0c61624d2b891fd4818e9d539ec": {
+      "DC": "6943.84518608237",
+      "GRC": "S1TtGXfU3GmDTMjTYPF9EvYpuTi765wikf",
+      "PER": ".00082813230627373832"
+    },
+    "661acb02264b8d5c129fa3c5103b52fb": {
+      "DC": "222.50810389432",
+      "GRC": "SAhcEnMejzr3f5RVxMoQ2X3DahjjNHpWeM",
+      "PER": ".00002653661542050600"
+    },
+    "67a729ff15af29ce4565354a843846c8": {
+      "DC": "3666.3546552920",
+      "GRC": "S145GFDYbavTLRWr1GvmPpjv4rPYQTHemp",
+      "PER": ".00043725438210949252"
+    },
+    "67b0f504a77b3f91429844591b1bbc2b": {
+      "DC": "5978.7711171369615",
+      "GRC": "S3c8RRy2dcpTig1RpqUhdjucBPu2T3rppz",
+      "PER": ".00071303627618905183"
+    },
+    "686a3d391abcee36f0dd2001d1a872b9": {
+      "DC": "4974.0807793709",
+      "GRC": "SHBfzgsbwh7FZ12BXsGdCXRWDHCZ4BpKAD",
+      "PER": ".00059321555665849978"
+    },
+    "6885c14cf468a9a7ca0d2610d2850849": {
+      "DC": "6595.389778947226",
+      "GRC": "S9NRLPFQrj96r6vH8TRg64L1rLTyPr7sKc",
+      "PER": ".00078657504625262497"
+    },
+    "68e989f93860ca8393a464f0a095fe73": {
+      "DC": "19662.18446658770",
+      "GRC": "RyX1CRAQwRvr4UZxyD6QppjZGu5xq2NJxY",
+      "PER": ".00234493853655189955"
+    },
+    "6a1968d4ceced2dbbd41d49b2402f9e9": {
+      "DC": "7825.16233713610",
+      "GRC": "RzBKLRqGYyrfdKiHETyKXedNUe3NifHH8c",
+      "PER": ".00093323937379931727"
+    },
+    "6ad54a9f1c4d97c9f1857b31c6a4127c": {
+      "DC": "153152.0524100816",
+      "GRC": "S12Rh8VuMcvXX4cLE1KWPoFdVGU74x5iFK",
+      "PER": ".01826511953738895196"
+    },
+    "6b075145fca06c9f0ddce6df72331be0": {
+      "DC": "52028.354736329",
+      "GRC": "S5xRHttgYy7oJYqUCn1z1kB71nSK2c9Ac7",
+      "PER": ".00620497148838842326"
+    },
+    "6b1d56acbb46d2def060db99fec4f36c": {
+      "DC": "225.70727714755",
+      "GRC": "S3JF7KgD3zfHXs34KR6G5529UQjewKCWfE",
+      "PER": ".00002691815312092546"
+    },
+    "6b886355089fec17ed4bdd1dd77d7fd1": {
+      "DC": "1276.7249730389",
+      "GRC": "SFKfh45qn1khg5AcmjkNtkuNDC6mCwnmZP",
+      "PER": ".00015226393562447701"
+    },
+    "6c68f6c6938435fb98c37f773cc21588": {
+      "DC": "514.30146789019",
+      "GRC": "SCzakqaZZ3LmizXKho7wWDincvAAh6WASK",
+      "PER": ".00006133628404871809"
+    },
+    "6e22d722d4f2a68b69b1de8bae5a92f3": {
+      "DC": "137.05923022872",
+      "GRC": "RxUCXWHPZdmB4MVHWZE9Pv7rJWgA4v65t6",
+      "PER": ".00001634586794257868"
+    },
+    "6e6e677dedd9e7d963f3036a6909854f": {
+      "DC": "309.28042866051",
+      "GRC": "S3XtvykZt5ybeLAu8tsKSYkfVmMS2Xj5BM",
+      "PER": ".00003688519945480828"
+    },
+    "6e7d43574e7027b28e2f5cdfb42863f4": {
+      "DC": "8686.2833460155",
+      "GRC": "S8hMFwAeFdPramSabw6bci6f9426SwAXKV",
+      "PER": ".00103593782227472177"
+    },
+    "6f4d373809620f9e515deac5d1570a38": {
+      "DC": "3390.8218492085",
+      "GRC": "S1VTjqYCy2oHqtWeeMePHUvBMoonPaWyBW",
+      "PER": ".00040439396946473157"
+    },
+    "6fbbbe52d64484642c2c7c1391a1173f": {
+      "DC": "886.82845013696",
+      "GRC": "SK2WSWaXAJN1mKWuUWNjR7nhasgzbacpYZ",
+      "PER": ".00010576435245893366"
+    },
+    "6fef768a3a12d4fbbf71293346bb3fa2": {
+      "DC": "4678.6630387501",
+      "GRC": "S8ogLUgMM2MH6ebWKnfFUWKYJki7Rgy3Jd",
+      "PER": ".00055798364000447862"
+    },
+    "70101227944feb1c123e680507e032a7": {
+      "DC": "155.12399488567",
+      "GRC": "RxDnS8B2mEPuoT3crsUmcHeNLgkMSDzT7h",
+      "PER": ".00001850029604642479"
+    },
+    "7017451628abfb338d625317d6573374": {
+      "DC": "413.0759825878",
+      "GRC": "Ryyz3o8bkNb4YnE5oC9FzVpBRLFhN6S6v6",
+      "PER": ".00004926399667036982"
+    },
+    "701fc164b2c43328ec05ea0c8c9cd0fb": {
+      "DC": "338.61523534600",
+      "GRC": "SEuSCSmTPQHVJqMmX5dVWe6F9cXFafMRcT",
+      "PER": ".00004038370791280790"
+    },
+    "70748579e6a56dcb1519f81fedae298e": {
+      "DC": "23775.6185801853",
+      "GRC": "S9DWNFhCUdopcZX21Y3D71Vi1zqKPPtaEf",
+      "PER": ".00283551221553113053"
+    },
+    "710561f6c7aa81ab00d23b0ac27775bc": {
+      "DC": "2888.795254676310",
+      "GRC": "S1UY4vprDejJ48fFnkAjvBF8fmtG4dhsGt",
+      "PER": ".00034452160330455639"
+    },
+    "713ef874f593ce679ad648186b675a11": {
+      "DC": "7606.6196645606081",
+      "GRC": "SAErsChMXzreNN5Mi9c8NaLghPoYgAABxy",
+      "PER": ".00090717568104563760"
+    },
+    "721e133c0f3cbdbf6762bed9ed8d4927": {
+      "DC": "1481.6789405896385",
+      "GRC": "S8CT22Q49yEXHw2eiRhFxTwjCyiz1t1d9v",
+      "PER": ".00017670702115984232"
+    },
+    "72577fdbd28a8df77b6b94e9c6ea226c": {
+      "DC": "16475.7900259411",
+      "GRC": "S5wLt5LWqr51a3Q9QX7Wij7Gs4m5Yh1aVe",
+      "PER": ".00196492485449006772"
+    },
+    "727aa043ebcd8eff51af41145cde178a": {
+      "DC": "10117.8128991285",
+      "GRC": "S1aBNKwqgyxsoqhHWNDiFS9tHa7ppGfrGF",
+      "PER": ".00120666396010604697"
+    },
+    "73bc4615de4f299d1674c68241bba147": {
+      "DC": "13402.76637160274",
+      "GRC": "SHMjNpPDR2HefC5MetxZo4imBNZMUrujRA",
+      "PER": ".00159843192472232314"
+    },
+    "752bbb4e0821d53e1e29e78602b72f3a": {
+      "DC": "63925.21723680678",
+      "GRC": "SDXKm6nyg8kFQmmczZBxBbXGT5mbKMfeX3",
+      "PER": ".00762380729418793173"
+    },
+    "755be60e1ff4e40e747a6bd1ffe3ff49": {
+      "DC": "79829.232963551",
+      "GRC": "SB2tmLMJrCLrzhVF5ZAsnT9Awpqj6eYkxo",
+      "PER": ".00952054157755020215"
+    },
+    "76e08d961feadc6a2f74066d77bd8cc5": {
+      "DC": "12584.339228506",
+      "GRC": "SAGmHHPvCzWkCyxP3xUuDjNtrnSqgKEdU6",
+      "PER": ".00150082520404136896"
+    },
+    "772fcf047c0680bd8cedddc076fddf3a": {
+      "DC": "602.82138200916",
+      "GRC": "SAwKePdjEchmEHqitLnFZuFcMkAb1dmGrB",
+      "PER": ".00007189328793720114"
+    },
+    "77bb5c1d5ccf77312956101a5a2d5a13": {
+      "DC": "4656.8907490284",
+      "GRC": "S7Mc4qMqAkLZ4j5BPGQN96HmNWdTziPgJE",
+      "PER": ".00055538704748017669"
+    },
+    "78b3d3989a1bac2d9460227106642568": {
+      "DC": "45692.598763717",
+      "GRC": "RxHrGo3BRFPon8brFUw8NRvSr6S6BMnBg6",
+      "PER": ".00544936071870952853"
+    },
+    "79c8043a8357e8d3bd7896ece94b2a75": {
+      "DC": "9152.8640404982",
+      "GRC": "SEqdS98mNN8FXby91c1hD9tU7scMrbezqg",
+      "PER": ".00109158286277176625"
+    },
+    "7ace61f1014802fe81b54a3010a9df33": {
+      "DC": "17514.0120832538",
+      "GRC": "SJuRAtFHMTxZhgy5ZQJ5bq35TZeYYC9hVn",
+      "PER": ".00208874461194518915"
+    },
+    "7cb8b976e88ac39ae432804a958e01d8": {
+      "DC": "85507.030177223",
+      "GRC": "S2ijAdoEG1egNonDWYuJ4vnybekxpG6zmB",
+      "PER": ".01019768330163947286"
+    },
+    "7cc14c02800fa9f735a5ac24bd97c5e1": {
+      "DC": "7337.143173307244",
+      "GRC": "S9f5kSkxzo3o8fZCh29LuvdnVqqdFzvS8q",
+      "PER": ".00087503755264446157"
+    },
+    "7d0916a83604d236f3b16920fa7abaf4": {
+      "DC": "87.98878892633258",
+      "GRC": "S3QvLUng7HnXeeyMMSg6xkAKozokNosvaL",
+      "PER": ".00001049366118441751"
+    },
+    "7d0d73fe026d66fd4ab8d5d8da32a611": {
+      "DC": "626945.5031223308",
+      "GRC": "RzSKvkKP559mYsteG9V3pzfvpt1DyCDZDp",
+      "PER": ".07477036303304561912"
+    },
+    "7e9aa9011ac28c183ba83a062d0db3cf": {
+      "DC": "35.3189032374",
+      "GRC": "SHsJD3q7e3Gtz4sSCv7YsQnUzoENtecnT3",
+      "PER": ".00000421217985269467"
+    },
+    "7ff7efe0736cb87c91a8ece3724fa6f3": {
+      "DC": "16020.8858993778",
+      "GRC": "SJH8kPMck3GJBBi76XWEjBByhSMB5ZbikF",
+      "PER": ".00191067237717110731"
+    },
+    "805550d03d5a3765b26de24bfa34f84a": {
+      "DC": "3898.8755112609",
+      "GRC": "M4Jb9LyawAzQCNYdQiKWsz4SxLEkVP1ux",
+      "PER": ".00046498513179501477"
+    },
+    "827c107a88077e037747e4566f42b76d": {
+      "DC": "2385.0527744246",
+      "GRC": "RzSEKtYsKHhGRCqhcz49V5ukS6CLgySQ3d",
+      "PER": ".00028444459830809834"
+    },
+    "82d9566bcdce6e595fbb96f505822b30": {
+      "DC": "558.18787784260",
+      "GRC": "RxFpBM8YBCu8BjwSuxv83HaodcKr7A7nxf",
+      "PER": ".00006657023626309180"
+    },
+    "832f1bcd220b55f1949db2d7615540f8": {
+      "DC": "2147.73591651080",
+      "GRC": "RwxfHTr3wkdRhHJe6BFknLpKNuMaJv34uo",
+      "PER": ".00025614187098697385"
+    },
+    "8352e5f86cc7354a5f78e6c52ac51425": {
+      "DC": "8341.77304063970",
+      "GRC": "SEka7k5aDwyK5R1ZciPNgTuj4hPvwqMVqT",
+      "PER": ".00099485106038985696"
+    },
+    "837711c96b4a1435cc298253aa919efc": {
+      "DC": "5696.52835332410",
+      "GRC": "SBiuY8zwuCxRiChXxCpumJzUfUN1TchNv8",
+      "PER": ".00067937562497034444"
+    },
+    "83c9e6f38a092010618cae143f592d6d": {
+      "DC": "75158.791027631",
+      "GRC": "SGfMmqmEArNgA3qbAi7w5EnFzUVUmoMiWN",
+      "PER": ".00896353839731467833"
+    },
+    "8438a219b0732cbc80677e06744367d1": {
+      "DC": "2700.23168334795",
+      "GRC": "SGoctTzN8Xiv27hkBCoF74hzQUog5TzmVc",
+      "PER": ".00032203325844393769"
+    },
+    "85fc2169eda30a2c7182cdd1b989ae29": {
+      "DC": "924.05729077937",
+      "GRC": "SDHNfBMFTXqQBQ98DymJwCqVMopwXbZmsH",
+      "PER": ".00011020431401264028"
+    },
+    "867059063c06af0c6e0e02139b346ede": {
+      "DC": "29273.0045391774",
+      "GRC": "RzD1xam8cYNUK7Ru3dunnmrFcopWjyNKac",
+      "PER": ".00349113785099629750"
+    },
+    "86d8d5c1c003ce5c64e6cd9fc209f77b": {
+      "DC": "29787.348376986",
+      "GRC": "S95fc9bPtQbWAkBocbWUKcSxsojWphYhF5",
+      "PER": ".00355247918813841115"
+    },
+    "86f53023d7625df057d686ad7e0ce9ee": {
+      "DC": "277787.6004940884",
+      "GRC": "SC7f8a4Kx2oQiuWyCxFWMmSmuGXC5U9Mwv",
+      "PER": ".03312932245558972570"
+    },
+    "872cdbe307ff1e691f1662cfc667a99e": {
+      "DC": "133408.526319595",
+      "GRC": "SKnT49zXismqosrBXHciE1Xx6s72ABeU98",
+      "PER": ".01591048008948458436"
+    },
+    "880c3bf56ffb85c4f1c87f818c731825": {
+      "DC": "18973.789226797",
+      "GRC": "S7HRgzGu8pVCQhaM9YxaadJnSQM5tLnK4J",
+      "PER": ".00226283959536318207"
+    },
+    "893c2358e05a568e04fd6f6895fce640": {
+      "DC": "23661.14801220130",
+      "GRC": "SF1nnFXiLKv7NR8KV8pCsTSoXKa4QTMRcL",
+      "PER": ".00282186030179678390"
+    },
+    "8a0536862241b490f9535c1e7898d4f5": {
+      "DC": "110.77979239576",
+      "GRC": "S6QFh9Ne9mTyjnhkhcZBbktrktKaGruhki",
+      "PER": ".00001321174687896309"
+    },
+    "8a729f66833fd4a5790fa0be6f43b407": {
+      "DC": "958.731914407830",
+      "GRC": "SL1jXAQXh2FpRfCGJr4Wtm6WiQuvFwk4fr",
+      "PER": ".00011433965621355291"
+    },
+    "8a7bea5d0bf3b94df2e25128e8296ca4": {
+      "DC": "4331.73509672249",
+      "GRC": "SDFZQzb2V6BKhMMoNrjfyAdqGGaDu2iq3e",
+      "PER": ".00051660854752431076"
+    },
+    "8ad825fc812bc4204b717d400ca7eadb": {
+      "DC": "2057.80170956414",
+      "GRC": "SGs3tRWVfWA5ao2tubyjsSE3ea1LudZLxi",
+      "PER": ".00024541619663569178"
+    },
+    "8b36aba6e495729ca233c75b598e848b": {
+      "DC": "9654.138877241183",
+      "GRC": "S7ZXFWynssfGY5niLAaW2ht8gQaqhjaDbK",
+      "PER": ".00115136557328797877"
+    },
+    "8c2ff32c51ec8e64fb87b56e73ba67d2": {
+      "DC": "18204.8555334946",
+      "GRC": "SLYTtiEU5cWHjhBGWZokpvSw4cxEu3Zn9Y",
+      "PER": ".00217113553000147107"
+    },
+    "8c8744ca3866631f621851199aa79e49": {
+      "DC": "279.87415863925",
+      "GRC": "S5zERCyhjHh8xPezk861QrAaWKBgx62FkL",
+      "PER": ".00003337816818337038"
+    },
+    "8cfd5c4383276d0ad86a8ec7263eb8d8": {
+      "DC": "1019.31314034680",
+      "GRC": "RzMjmWjRM8fVqpKjZ272ZW3z3FaKp4nkGY",
+      "PER": ".00012156465461275174"
+    },
+    "8ea683bd15b54012632453e2bc9eec88": {
+      "DC": "9630.7015061496",
+      "GRC": "SEkBsfw7tzRVNWmfmGGxeW3xszPinVvnmt",
+      "PER": ".00114857040092238971"
+    },
+    "8ed4ce08bfd7cb8a436eef5fc3be322f": {
+      "DC": "5113.1979700973",
+      "GRC": "S9DUUt5pELCuijJXM4fXYSiMTZqdqfX2gg",
+      "PER": ".00060980685973499820"
+    },
+    "8f2a530cf6f73647af4c680c3471ea65": {
+      "DC": "10762.40024517241",
+      "GRC": "RyJq65Ww7hsBMDGwJDbPivbqKBsteytY22",
+      "PER": ".00128353831302856319"
+    },
+    "902dccd13b5ea6b263d0069d48a1718c": {
+      "DC": "45.8598829979",
+      "GRC": "SJh3pFA737en18iTRgRb8ro5zP1VYZVbsi",
+      "PER": ".00000546931126123240"
+    },
+    "903142ea86a90491245f2db050aed14b": {
+      "DC": "1775.9475050099",
+      "GRC": "RzcksqMEFURHkcfYZDGgGy3p3x957XeoSR",
+      "PER": ".00021180188551621516"
+    },
+    "90693a20a36b40096861e10bd54c9c6f": {
+      "DC": "571.00140407390",
+      "GRC": "S52mQoDQrBvDyki6XJ39wwchZsazmDFyfw",
+      "PER": ".00006809839461700987"
+    },
+    "906d42bcc2a97c2395b5ca63e86c9ef9": {
+      "DC": "21143.00791794257",
+      "GRC": "SGE1mo6dQd4EZ6qRPHT91UZCwpsAwj2nAu",
+      "PER": ".00252154353091621349"
+    },
+    "90e2d1d879447e61d64721cde0ba022c": {
+      "DC": "768.8190662780",
+      "GRC": "SB581xLidGhuMAeNZvnhK1gXLeQYUyiHPD",
+      "PER": ".00009169039478877426"
+    },
+    "91d6e0b1fa9e6fe7d314abfefbb3d969": {
+      "DC": "1977.251273110093",
+      "GRC": "SC8MoJ1h5unDotT7z1tz9D1AAucJKmAFNL",
+      "PER": ".00023580964336089432"
+    },
+    "91eccec4234172a96844856bd5ff8445": {
+      "DC": "598.402458087523",
+      "GRC": "S2w2sYXNgT6UnsfqQxSKFUmze6eqS6AcWt",
+      "PER": ".00007136628113327525"
+    },
+    "924a190bb9827719e7c19b3107fe7fd6": {
+      "DC": "204.25678262996",
+      "GRC": "RxWdH82rwqj2zRj6rgj2o4fZKoP36hUNjW",
+      "PER": ".00002435993832501263"
+    },
+    "93ceb5244472171ac60fbba931b5425d": {
+      "DC": "20484.0933108856",
+      "GRC": "S6wQn9wwesVqGhvrGgPtjKyPLNqiF64Nhm",
+      "PER": ".00244296048959593286"
+    },
+    "94caecac9ba0a36e7491227096e11d3c": {
+      "DC": "1896.463413477860",
+      "GRC": "S8vtgtSVkvZdGujbXxvXB9ftJq9uCj1Gps",
+      "PER": ".00022617477467887723"
+    },
+    "94f5685db91571dc9427c8bcc5e18570": {
+      "DC": "12933.2172124316",
+      "GRC": "SHprjTDthBXde1nHMcGp6sf44TFnQ3h6Qp",
+      "PER": ".00154243286113826382"
+    },
+    "95513476fee26c7cb5b3ad2bc9a77d0b": {
+      "DC": "3605.0110864511",
+      "GRC": "SGwEy1KN2ZoCVB9kqrBkv7QVwk1F6PggtV",
+      "PER": ".00042993846567156609"
+    },
+    "96c18bb4a02d15c90224a7138a540cf7": {
+      "DC": "113610.53543390110",
+      "GRC": "RxyHdMfWuXUCr71JL8x4tXpSN8cDBDpxtt",
+      "PER": ".01354934509692778833"
+    },
+    "974e9147a71e9c605446fbf458f4e940": {
+      "DC": "2745.553670200398",
+      "GRC": "SKLr5D7zwH1F8qHhRcMJYZL7seEETQAGE7",
+      "PER": ".00032743841948817480"
+    },
+    "97676bc073e11a591871c5c5f331f75f": {
+      "DC": "453.3407033059",
+      "GRC": "SFjK7rkH8Ti4PyiYa4aurBEWso7FNZGym8",
+      "PER": ".00005406602136075043"
+    },
+    "9875b2fb19b438236448d0a58f53a93f": {
+      "DC": "1219.9454216027",
+      "GRC": "S5CrXcJXAP3GjFwrD77Pt5vwHqQSHSEcWa",
+      "PER": ".00014549233003420646"
+    },
+    "9899218c99fd054a335c949bf2b787ad": {
+      "DC": "1163.13390371820",
+      "GRC": "SGb6oByR8HMUv3YZsXDWfwTBKf97ijc8mH",
+      "PER": ".00013871691208236323"
+    },
+    "98c4b4e30516dabe245c354bdc32900e": {
+      "DC": "391.4466782003",
+      "GRC": "S5x9jofrBEZGhK67XyL7ApuCK1KVXixjcc",
+      "PER": ".00004668445676913208"
+    },
+    "9932a00a946bd5be594b37fbd515bd65": {
+      "DC": "24295.0007566509",
+      "GRC": "SANSLSuVyNPRhJytEQ1mCbyXeDnwCrR7EQ",
+      "PER": ".00289745443171072220"
+    },
+    "99c836a2a244dd65641b18f4c9f6821a": {
+      "DC": "239.55373020373",
+      "GRC": "S8YNVnPWkEyLxVCvNpcuACeYC6jRV1tVSY",
+      "PER": ".00002856949971576433"
+    },
+    "9af6acde8acced8cfed406136cb7c4c7": {
+      "DC": "16911.5068181325",
+      "GRC": "S2NhjgrKe5SQGqmHdAqmy9BnTo2R1oFqvX",
+      "PER": ".00201688902453275204"
+    },
+    "9ce6f19e20f69790601c9bf9c0b03928": {
+      "DC": "2667.1947355043",
+      "GRC": "SDMxAiNu6cavmMjMEckpL5zMJr6NbM4MR6",
+      "PER": ".00031809322765741570"
+    },
+    "9d59bbcfccd7b6008d1d06cc71c7e5b0": {
+      "DC": "1250.792434407020",
+      "GRC": "SAAQMMxx57hBdYSKRpqmxT2dfUxjTZxWXg",
+      "PER": ".00014917118622565756"
+    },
+    "9e11265c322b34760cbfda934cda7aed": {
+      "DC": "262951.59754153",
+      "GRC": "SApTzoZQtXXpQZdNMtBGJs2CicTLpUMi2H",
+      "PER": ".03135996081060208979"
+    },
+    "9f5d7eebad20f117d4f272d31bc6cfc7": {
+      "DC": "4496.8237758166080",
+      "GRC": "SGubh2N1ecuqC77ATkUe6xPsjRPRd21Yp8",
+      "PER": ".00053629724519745547"
+    },
+    "a06840d112d5e4f38bb2aee07e55f66b": {
+      "DC": "1095.610787725",
+      "GRC": "SG83A8jc5vVF3wSfmUXnRk9LFXMTbLhR38",
+      "PER": ".00013066401454854218"
+    },
+    "a125ffe948f87637f46e95a7e0602f8d": {
+      "DC": "22941.7980539718",
+      "GRC": "S2W2cbMgrosgyTdXWzy1kjwskUXkGiPB1C",
+      "PER": ".00273606965929793966"
+    },
+    "a18928cbecb354d4584becce9eca6c13": {
+      "DC": "1716.425766835561",
+      "GRC": "SDG4DVeACuvzYzUk5RQUm3CFykETBYVG7v",
+      "PER": ".00020470324305129771"
+    },
+    "a2e48b7a0466a6166dab13ec6ca1bff5": {
+      "DC": "10430.9035774850",
+      "GRC": "RzZzQPZLvyhoa4JcC39SHdjCvknJrCoLqo",
+      "PER": ".00124400357505884812"
+    },
+    "a31f18125448a66891d1b7fa7cd0ca1f": {
+      "DC": "2146.5661770960",
+      "GRC": "SJ4CfMDjH45rRLBUkt6392mWwQCgi7SJ8B",
+      "PER": ".00025600236629276506"
+    },
+    "a36b0f54f2e4a16c98e196271824aa4b": {
+      "DC": "4039.17567355841",
+      "GRC": "SBsEt5CcozE3rT9p5nb8FkutGzXCZEqr6i",
+      "PER": ".00048171751765046154"
+    },
+    "a39e2755d3ccee9f3dc176462abbc2f9": {
+      "DC": "18842.8419615255",
+      "GRC": "RxELzDJzET4Jx2JjZCHymEZJWCADM8DtHF",
+      "PER": ".00224722264857311290"
+    },
+    "a3a40e2aac773f6559941a93dbf84b0c": {
+      "DC": "1572.9892973298",
+      "GRC": "SDYkfUGtSN2R35ZhrQiyLrFKMqTuzDyjNo",
+      "PER": ".00018759681698441915"
+    },
+    "a3b211057c07a294a1056bde2306d185": {
+      "DC": "33908.4755215960",
+      "GRC": "S4EhZMtnSf2Xjm6UhSTgBy6LCNt7FBLG7C",
+      "PER": ".00404397034833212879"
+    },
+    "a4c911b94acbefe491c74eff86200d55": {
+      "DC": "4448.62580842855",
+      "GRC": "S2oJX2xbtL5bH3anm8fFKyTXhhzEYwnm25",
+      "PER": ".00053054909085052683"
+    },
+    "a6f6892474c02d4e41fc2862f421ccc9": {
+      "DC": "521.2686667133",
+      "GRC": "SDVift7DuLUPpHQCbGGoGnPYijJ1GCGJPR",
+      "PER": ".00006216720154112045"
+    },
+    "a72de3671f89239a81b31d6f22eaeaac": {
+      "DC": "17558.0151238190",
+      "GRC": "S2az4dPMZvq1MWVonAd9867prfjykNGEqS",
+      "PER": ".00209399247368314289"
+    },
+    "a74ca5deed499696837703cefc83a465": {
+      "DC": "1312.05351738720",
+      "GRC": "RybkLHFh6XchyykuQsyHA2nsYs4H7LnvHd",
+      "PER": ".00015647726528901091"
+    },
+    "a92e1cf0903633d62283ea1f101a1af3": {
+      "DC": "6350.8121589960",
+      "GRC": "S8cAn1drdpCseyeRG9buu9QnqMYeQSC7Ub",
+      "PER": ".00075740639069574285"
+    },
+    "abde3e54677477ae02fd74be63dbb91c": {
+      "DC": "2209.898590811696",
+      "GRC": "SCspKr5t1E4FBhTFmLSGVtLg62DWsdajXp",
+      "PER": ".00026355547504256600"
+    },
+    "ac055890877ef30bf913520c616847be": {
+      "DC": "3488.19883839574",
+      "GRC": "Ry4fW4b8XNRHwfSr2LXLYvLvRfScgSxrhq",
+      "PER": ".00041600728002575210"
+    },
+    "ad9214687bacbf598692c3e335a5f7f3": {
+      "DC": "64732.207888880",
+      "GRC": "SC5DvybxxHctvCiiUJXCw6usgiexosmt9y",
+      "PER": ".00772005008358395904"
+    },
+    "ad9a179dc17d3fa987bd75e3b71378cd": {
+      "DC": "4456.52517574400",
+      "GRC": "SLd669Z5VMX3MMLQqxsjDRbeXR4mqBFPmX",
+      "PER": ".00053149118000973773"
+    },
+    "ada134d92e612e95ab4de0d847b03725": {
+      "DC": "10101.3018675814",
+      "GRC": "SAKoQDPWVPe3hChAyZZeGnSkLj42oVZT9o",
+      "PER": ".00120469483230039485"
+    },
+    "adf65bc09bcd9aaa264d4f5ba19359ea": {
+      "DC": "22297.9054469864",
+      "GRC": "S4dx76VeRfcxK5FwjUKjZsRzZHp47pHbzF",
+      "PER": ".00265927816188895584"
+    },
+    "af5cf5f6c1867f07aebe79ac30271f17": {
+      "DC": "587.377553167886",
+      "GRC": "SAmaUQvrAwsLxfaSxj9Uus5HysSteXbSqw",
+      "PER": ".00007005143616008270"
+    },
+    "b03475d1d799c030f86ba8cfefd88901": {
+      "DC": "2199.88324090474",
+      "GRC": "S9MbYr1FRs6x8zwKqtJFaVEtinmVnAjd2f",
+      "PER": ".00026236103095657028"
+    },
+    "b09f3bf0194d003984b6d9078ddaa334": {
+      "DC": "924.990992603225",
+      "GRC": "S6onH5SiziYrjBhwBYpcdbRgdHZ2a1Kn8o",
+      "PER": ".00011031566854662540"
+    },
+    "b11e1383a0ca8efdc01343b4787456f3": {
+      "DC": "5444.65341916960",
+      "GRC": "SDz4YcoTmQqF5X6rq1gPGpjGkYXt7aN1Qg",
+      "PER": ".00064933668191729611"
+    },
+    "b15f2cdae1daf59f526f1693f9ceeece": {
+      "DC": "21324.978699260",
+      "GRC": "S6VqTgzhQHGNZEjRef1VsNX2rhjAFMJuuB",
+      "PER": ".00254324561078240621"
+    },
+    "b1e4a34ebcf6207a34c200a46db90775": {
+      "DC": "532.2812642277",
+      "GRC": "RxqiSWWknTjoMwUmSwakHV779GKYbvEYpq",
+      "PER": ".00006348057871662886"
+    },
+    "b28ef0b6c2ceb0b0495a3d05a98593f5": {
+      "DC": "9752.7778654286205",
+      "GRC": "RxrypgFNsr8DrvRTEnJZD99Z9PxjMz6FNb",
+      "PER": ".00116312939154531767"
+    },
+    "b2f5c7f5f3fb4f4d3ea014123d4386bb": {
+      "DC": "525.76424959957",
+      "GRC": "SDkqy8RPWyDhTMJV92jyRkVYwSzXGSjxN2",
+      "PER": ".00006270335079616339"
+    },
+    "b39a853576dc876ded39fe9b21eacb67": {
+      "DC": "7450.4540876418",
+      "GRC": "SLW9M8Hmpat74HEMrU1hVnde6rVxVgA1Sg",
+      "PER": ".00088855116452652646"
+    },
+    "b3dc623f3dea8c64c595e756ba48aebd": {
+      "DC": "3929.0206421714",
+      "GRC": "RxuSqJdqAkyXtk9z8iiHeAnDMkbkYFwgS7",
+      "PER": ".00046858028060879767"
+    },
+    "b62cee6d4f1807941bee1bc80cc36aaa": {
+      "DC": "6049.3852439311",
+      "GRC": "SECo5VsxhenZcG8vhdnhgigggrzPt7t6vS",
+      "PER": ".00072145781182391073"
+    },
+    "b63506772e919758d70eef99e3443cf5": {
+      "DC": "11021.8056777601",
+      "GRC": "SM9EyxNXoNKyv5rMgHGh4r81ibtuxRTsjK",
+      "PER": ".00131447535344233145"
+    },
+    "b7889a19cf219bf01205d412b076814f": {
+      "DC": "108.7998026977",
+      "GRC": "RyUQJFDGVokgX8jYE1ZL748swY63iEvcWa",
+      "PER": ".00001297561064736347"
+    },
+    "b8239d824b88c566b3ffd6c03b730bea": {
+      "DC": "11833.108921851500",
+      "GRC": "RwyzJX2ydognkVgXidzmGmcmJJWEJPMsVf",
+      "PER": ".00141123246835661647"
+    },
+    "b837ffae734b258adde58c5ba921fc0b": {
+      "DC": "3099.7402153854",
+      "GRC": "SK6SjhRGtes5typ2MHJBJCtsF1bNz49rUd",
+      "PER": ".00036967918273316688"
+    },
+    "b873ec172bb68895d5f6346bcadff064": {
+      "DC": "2737.1849370567",
+      "GRC": "RxXiiF9As2PhXMYb2fbByfLjdGH51wAJ8d",
+      "PER": ".00032644035312967205"
+    },
+    "bf82f01e52a4e90a6490833e81e811c1": {
+      "DC": "490.0293683332537",
+      "GRC": "SLWBP8xmTyKmG4cWLVs2CDdeT99pFGzEiq",
+      "PER": ".00005844156084485417"
+    },
+    "bfd4e6e64a9f79fd8fd01c6c4e770c81": {
+      "DC": "96946.0627771440",
+      "GRC": "S32PircgZBHGdUo7CTJrcfm9uM2WsimPxW",
+      "PER": ".01156191769838264396"
+    },
+    "bff460f47717e7c1835843fdafd4a278": {
+      "DC": "3729.1121874317",
+      "GRC": "SJFcRHuhdKDDu4ZuxRzUdnHmpapD5vuDsu",
+      "PER": ".00044473892971015982"
+    },
+    "c06664af2a4784903324689809503efd": {
+      "DC": "30922.71507229363",
+      "GRC": "S1idikPknogEtzzgN9UYDjqSwFX8vzxxNu",
+      "PER": ".00368788454563918349"
+    },
+    "c0f4ca8597dd793c91ac89c801495f50": {
+      "DC": "3325.08923473848",
+      "GRC": "S4sHCwCXqhZLpqwxqts5QgLbp8QUZSJ5uC",
+      "PER": ".00039655460954818771"
+    },
+    "c176e5642f12297d3fdb433de84f9822": {
+      "DC": "35575.2360964120",
+      "GRC": "SDdb3B8JG9nc2syEtJw7BFzuWHv8ZzNEW5",
+      "PER": ".00424275045385565973"
+    },
+    "c3074b767f96bfd75720983684025793": {
+      "DC": "19802.0438319451",
+      "GRC": "SJPA7YEbxPbAHH5ybeDiExKxuhRwyWqC7a",
+      "PER": ".00236161835237203744"
+    },
+    "c4d048167482f20b01f180cf23122a23": {
+      "DC": "7913.7755826486",
+      "GRC": "RzeTEYSm85a1okSeQy5eeQaYVdiTRhP5Nk",
+      "PER": ".00094380750851518781"
+    },
+    "c51a18ab192533c5d70a08d342bf7c3e": {
+      "DC": "10864.4597973742",
+      "GRC": "SFCAR8c9QL4wKxfQ7PD9ZiW2KoCXPEJsCg",
+      "PER": ".00129571007234594189"
+    },
+    "c93868492b3982ba5de8d53786ca6402": {
+      "DC": "5922.64486610980",
+      "GRC": "SH1Gbr9LeGdNpCBK3haQtEihSbSdX82CiP",
+      "PER": ".00070634258408330294"
+    },
+    "ca99413c577e0a2e7b4ad75ad4ba2d7e": {
+      "DC": "1505.12078879790",
+      "GRC": "SJJarJugQcbK8EJjz3KYcfBZCf4V2Ex3nf",
+      "PER": ".00017950272747238168"
+    },
+    "cac8e3a5d1393da36ad51d7307c7f8a2": {
+      "DC": "46943.473758828",
+      "GRC": "RxgZ7VDHcmw6kg3QGBGCc1NYJrfmQqCj9p",
+      "PER": ".00559854175123566693"
+    },
+    "cc639e05fb8bdad47f291dedc6735b36": {
+      "DC": "42483.834938857",
+      "GRC": "S69r9WrBKoiBZwJGcE53bo2qTRicu5pZyG",
+      "PER": ".00506667923383209018"
+    },
+    "cc9180bb8b4ae2228762373816a2f6df": {
+      "DC": "7814.8217922910",
+      "GRC": "S6VDPSiDbBV9feJAxsJHFwRnGGZi2Nu87G",
+      "PER": ".00093200614652808385"
+    },
+    "cccb82cacfc5ae2141b841dfde457cee": {
+      "DC": "5874.32310087203",
+      "GRC": "SEUKYQeXvYndwM4VrHJfbHb78WpVP6uJKc",
+      "PER": ".00070057966543848943"
+    },
+    "cd0d298ad7f6d5067255e31602bb79f0": {
+      "DC": "12917.0902328205",
+      "GRC": "S1F3YFacg1DRqZfN7kuTXKitrbu673WNzr",
+      "PER": ".00154050953588249085"
+    },
+    "cdacaba0c8c74689741b92d2e10b163b": {
+      "DC": "6223.2877611304",
+      "GRC": "SALtNLEbSTZ4SWFUPnSCRmhRSzjoPq17La",
+      "PER": ".00074219765967128415"
+    },
+    "ce171097a57524abef779a394f74027e": {
+      "DC": "10371.27464115360",
+      "GRC": "SF7kyjs62bCyt6LwT28pGJCgpWHxqYpnxJ",
+      "PER": ".00123689214799769382"
+    },
+    "cf37b9889b85ef476daf8b6c7e495765": {
+      "DC": "17159.3491159307",
+      "GRC": "S3kAzVvT5GjK96oUefwkD73pLvc3WnQDV1",
+      "PER": ".00204644702995591202"
+    },
+    "d2ba1846426099335fd80b6014e92fb9": {
+      "DC": "120.91952339304",
+      "GRC": "RzoahUY8Npx4MSgNBiVmaQaEKKrcBuEwGv",
+      "PER": ".00001442102482090268"
+    },
+    "d3592ac732396dd67badd52d8179c0b6": {
+      "DC": "18775.1331574807",
+      "GRC": "S6fnATqN1A9DgBjjYbYqTvQZS66ZeV2P9r",
+      "PER": ".00223914760563277744"
+    },
+    "d3e0f595285bbf2861152ca9155aca50": {
+      "DC": "3649.373961750887",
+      "GRC": "SAdkfctHrv4YQUZu6UYkY8MmNSUAzcVkrJ",
+      "PER": ".00043522924178342151"
+    },
+    "d444f9fe88f2090a3849de99fa2b2cd3": {
+      "DC": "4208.312748867185",
+      "GRC": "SHFNgbkSrimmzcAtM4zf5T84GEzSZ9YYBc",
+      "PER": ".00050188903249537635"
+    },
+    "d4ddfa58d6dd446bc9b56c3e10a3c73f": {
+      "DC": "647.49642484780",
+      "GRC": "S2ZsSxRJdNMDJBukmn88hTK4NSFwzcck8W",
+      "PER": ".00007722129356915190"
+    },
+    "d4e905365162436d3202686ddb030e0a": {
+      "DC": "141.45432291556",
+      "GRC": "RysVufkGK2LnY3S3bTP4WSSmzSeeR4LrsN",
+      "PER": ".00001687003260142430"
+    },
+    "d794a48fe6ac954c2fdf7f5d796493d9": {
+      "DC": "2584.54863290428",
+      "GRC": "SDvwiKRhTUwuNG6YebH35eWKuH88xwX3rY",
+      "PER": ".00030823674242242379"
+    },
+    "d855cb1ea1303ab47749286589f245ea": {
+      "DC": "13150.77913211882",
+      "GRC": "SKAAdBx7Do7gvfGcTz6RncJJhgEaP5f7oN",
+      "PER": ".00156837958798480071"
+    },
+    "d942b39f29225b34a89964d8eb807f5b": {
+      "DC": "11499.326203363",
+      "GRC": "SKARG6AxvLUpnBwkskN1bpfqStDafqfSrc",
+      "PER": ".00137142509289694698"
+    },
+    "d95a54d062e176122c86892d2fd67fe1": {
+      "DC": "852.49474090247",
+      "GRC": "RzoHwjdg4piizbs49TewPjJ2fcrswzo8hE",
+      "PER": ".00010166966816668037"
+    },
+    "db3cf00a057e85fa2d8fa41cebca423c": {
+      "DC": "10440.1485484103",
+      "GRC": "Rx9Bqs6dTm17tsiEMyZ9m4j5Yd8N2dpqwD",
+      "PER": ".00124510614271245127"
+    },
+    "db73605e4d2ce8191e050aaa9920ba8b": {
+      "DC": "43881.747792800",
+      "GRC": "SHLci1VCEZK323WHLCt4ktRVApAjYbMesJ",
+      "PER": ".00523339619895478980"
+    },
+    "dc595bd113c87ce124f30db28562f2db": {
+      "DC": "2192.9421008011",
+      "GRC": "S6Qw3PPPfaU7eSrYWf23GAFXDrfmTP3Pqw",
+      "PER": ".00026153322126206302"
+    },
+    "de2f2cafce158468e0f3ee1d5a2d46eb": {
+      "DC": "53339.717985224",
+      "GRC": "SL5zVLmne8PCTHXFKpRpW5vhFzKwc8m5D8",
+      "PER": ".00636136643132964632"
+    },
+    "df2d7e7503d83073d79b1f8fcb30e58b": {
+      "DC": "122.55738943664",
+      "GRC": "S7DBZJiuD57uQqhthyJV3HMV6dzBocBTPQ",
+      "PER": ".00001461635892581223"
+    },
+    "e0b20b1ccc088d2cefd7ec11f1239d4b": {
+      "DC": "14528.25256951130",
+      "GRC": "S9gnfSs4AC8zRJjXr5vhFqwj6r1X4u3GSg",
+      "PER": ".00173265892082837091"
+    },
+    "e1086045126d6885bc638bf691e2b5a7": {
+      "DC": "5530.91757277191",
+      "GRC": "SLu3BYE6b5SwKgGavmrv7DQVfShXzhbrNu",
+      "PER": ".00065962466077584228"
+    },
+    "e2506ad0ff9277e852ec337d7ff86d57": {
+      "DC": "19750.566851325",
+      "GRC": "S2BqrmR8JW9exQCDrTkkit5Y4X3nWmccuX",
+      "PER": ".00235547913850154746"
+    },
+    "e26766e435b8de6b16e1550ee4777927": {
+      "DC": "105.5042149546",
+      "GRC": "SGR9dbtgitqcwQjbPeNAs5nt7WHabFWDdX",
+      "PER": ".00001258257442534472"
+    },
+    "e27c07aaa76212ef48770e2391633123": {
+      "DC": "2142.262178293755",
+      "GRC": "SFhZivbtpQoN2qdsnKQMvWdUjVsMa7Rp7i",
+      "PER": ".00025548906561298515"
+    },
+    "e3609d2b817e65e79cdcba44c81e0538": {
+      "DC": "3749.51951818410",
+      "GRC": "S42WJ4HbSgyMqDyWgih8UMZWLuMgBLnyhr",
+      "PER": ".00044717273539389667"
+    },
+    "e41cfa5a598151735ec6568fc94801ed": {
+      "DC": "5739.5647931655",
+      "GRC": "S8NxtpRuBmt4udC7pkW37ESHRPyaEwcLiL",
+      "PER": ".00068450820860730440"
+    },
+    "e46f5be725415ec5b8e2dd85d33549ee": {
+      "DC": "3567.70208999228",
+      "GRC": "SJZrzHeQ4t4ZnPTEZrvRPj1UfAMYNhMnn2",
+      "PER": ".00042548894462750132"
+    },
+    "e4953dfa7f6bf4dcb51ffda0633933cd": {
+      "DC": "4667.3653455761",
+      "GRC": "SH7i2vsTFHWB1RY3azEqc8LBPHsNbVagdC",
+      "PER": ".00055663626193756693"
+    },
+    "e4eecfb50cae9c772fe597df7b2b8b8b": {
+      "DC": "3984.61666223887",
+      "GRC": "SHgzBhKVorEHZY4uwsM2tgbMcFk6mnJcwu",
+      "PER": ".00047521073665790360"
+    },
+    "e53ff8efab06a3bc0214dbf359006996": {
+      "DC": "17766.68500313476",
+      "GRC": "S318qKxy1JfQYbARxYeaBEXbVnJZy57gr9",
+      "PER": ".00211887872384810633"
+    },
+    "e59a6056bc2cbedf037e5d30fae0f293": {
+      "DC": "25882.142175652",
+      "GRC": "S5wmZPjz9fhnbD4mHEdnRdFWtyCHbGGjzY",
+      "PER": ".00308673904973969955"
+    },
+    "e5c4f068970ea69d66293c52e7279117": {
+      "DC": "14962.0114862042",
+      "GRC": "S5i1PK5YQWwfbuTvYJH9d4hLSAcE27Ddxi",
+      "PER": ".00178438959200860661"
+    },
+    "e5cdc0c637cab4f382cbee77d9a9c2e7": {
+      "DC": "11613.1525623094",
+      "GRC": "S52MgAWtoF69WDsCgfpEVaqLni2DscS48G",
+      "PER": ".00138500017739594440"
+    },
+    "e5e0c31e740d02513dcc0f61f21195ca": {
+      "DC": "3197.613436923646",
+      "GRC": "S2GdkpSs3WQQwsi47P86bYLHpEakAKp6KL",
+      "PER": ".00038135167463107981"
+    },
+    "e646fc78b3a208eafc93ed2a9c6fae6c": {
+      "DC": "7608.5610206663",
+      "GRC": "SHR6pc5Xp2aD5zYbxzVUQCuqostXpLK85u",
+      "PER": ".00090740720978310536"
+    },
+    "e64c6f0a50af958349a03ee08ab178f7": {
+      "DC": "1039.61719134794",
+      "GRC": "SA4WWxoKZmgyjccAasbRPpyMWYCSnkprby",
+      "PER": ".00012398614301459213"
+    },
+    "e6baddf1b470948bc24945a53235666f": {
+      "DC": "2534.53342030510",
+      "GRC": "S95XWf852GFsQKAsdf3oEmaCZLbWNZfMSt",
+      "PER": ".00030227186097006260"
+    },
+    "e6fcd2a2a682f58c7b8dfdc1b3f511ca": {
+      "DC": "7382.194533303734",
+      "GRC": "S99gBmh4AmWweo9KDZ3DbwHkE5tB47rFjM",
+      "PER": ".00088041043836625725"
+    },
+    "e7b92eee46f2ab71de912ca3a81ed7fb": {
+      "DC": "4306.00293143015",
+      "GRC": "RyaZB1m8XG7f4r1jYKGrKf6vebLW72qYNo",
+      "PER": ".00051353969491917583"
+    },
+    "e7f90818e3e87c0bbefe83ad3cfe27e1": {
+      "DC": "125461.820843427",
+      "GRC": "S2Ssq9pLeADHinHjcPAdBsfYkjmVEabtSj",
+      "PER": ".01496274531762541710"
+    },
+    "e830b1a54013d281112327170548e420": {
+      "DC": "489.74549961935",
+      "GRC": "SG9SsBqBrpNfdLSX4mG9GMubctHaVxaVbo",
+      "PER": ".00005840770628064309"
+    },
+    "e831440cd7b84206cb59b5ef77009a8b": {
+      "DC": "525.44136637189",
+      "GRC": "S94NiGc7JPC1btZHQTmi33tmAEY4Qb6gTN",
+      "PER": ".00006266484330862152"
+    },
+    "e9596876bd3f31a8f1e49f36c8a23137": {
+      "DC": "262.983631063030",
+      "GRC": "RzpFMVZqD2R5jGx9Y5qMUKHUypEcSHUxXr",
+      "PER": ".00003136378117141471"
+    },
+    "ea0f18c16266883ae4cdb76668e8b709": {
+      "DC": "2257.0818196637",
+      "GRC": "S7Xtd5rNe1qSvzkYZCVbmVmwGW3BaQc6Wa",
+      "PER": ".00026918261030833604"
+    },
+    "ec14f03fae87bfec46d1d8a0e11bbd3e": {
+      "DC": "19426.018601060",
+      "GRC": "SCLxtjpxiEh3yFZ12ExLgunykgywRLUyyy",
+      "PER": ".00231677307812915358"
+    },
+    "ef83f24a712864f1781209fb34eb0fa6": {
+      "DC": "83577.615852635910",
+      "GRC": "RwzuLU7avhRpddasMECAqi5XJWGpAfPG9g",
+      "PER": ".00996757875703061494"
+    },
+    "efb9bd313e37c809262e47485735aaf3": {
+      "DC": "1498.50232550020",
+      "GRC": "z39KgfMcuPUqPX74fVNBNX1S5fmNW4YBu",
+      "PER": ".00017871340064728224"
+    },
+    "efe7f0d4adf1a22cfdc489499d261376": {
+      "DC": "8008.48704658773",
+      "GRC": "S37i4JxJhfz9jovjD7j6r8U1BsRbDmbzuZ",
+      "PER": ".00095510292495386060"
+    },
+    "f1716e8c0997925e02903f3d620a42e2": {
+      "DC": "25012.8221223750",
+      "GRC": "S8tbroDcVCPtGFBuat72Vr5zeMVV2VK1eD",
+      "PER": ".00298306277221363674"
+    },
+    "f34b4767ef9b5944a3c392ed4e69a7a0": {
+      "DC": "7448.3786379356",
+      "GRC": "SEzuXXWyYXzox63NobXs1AAYHZoRr4NSv4",
+      "PER": ".00088830364360610107"
+    },
+    "f51b483c50a7438f647ceae05459979b": {
+      "DC": "21162.77010926032",
+      "GRC": "SL1TkqwcxoaCnV9d6M2b2tTj9AViD9s5sn",
+      "PER": ".00252390039640419890"
+    },
+    "f528d23f8f5521c8d411578f1c7ff2e0": {
+      "DC": "1149.01915243274",
+      "GRC": "S57ZsQ2KppPHwf4mAMhnMvux2funfSQMC7",
+      "PER": ".00013703356788022917"
+    },
+    "f54f51af9ccd1bb3b38fcd02e290b997": {
+      "DC": "224120.96626799170",
+      "GRC": "SFcqDSARz6tUfukyMBLoc6CDWjqAJy7zuK",
+      "PER": ".02672896755414630479"
+    },
+    "f557ab9342b11e3980c12f4ef72fecde": {
+      "DC": "1846.52106000446",
+      "GRC": "SM5rqHjrHijUZAqbC2PC8hzM9XHAp4v5pp",
+      "PER": ".00022021858250374621"
+    },
+    "f5e5133282f34c97a70111a4a79fa110": {
+      "DC": "23603.385531272110",
+      "GRC": "S5ozjfMSPGFrpKi47qeLhQbixbqaxYeuiU",
+      "PER": ".00281497147071456750"
+    },
+    "f61973ca0b0c665ab69fcdaa164ddca2": {
+      "DC": "60.402251698983",
+      "GRC": "SAr3oycMYm93g9yHjy2soPhzmB86gEcBce",
+      "PER": ".00000720365369087770"
+    },
+    "f6eee1f53dabdb723178a21d40ff9b66": {
+      "DC": "18.31069669715",
+      "GRC": "S2Z68yqWmVRqo2adj6qmnizQdhzTFqJ4Nm",
+      "PER": ".00000218375828938157"
+    },
+    "f71355ffc9243d4d8ed429b74d5b77a4": {
+      "DC": "228.8342032885",
+      "GRC": "S5db1X2TryCpZ2yJ8NzrodFJ9MogyWxR2A",
+      "PER": ".00002729107453366703"
+    },
+    "f72659fbed483943f15529be3e7995c0": {
+      "DC": "7043.2166501342",
+      "GRC": "RzR4FmK9j5DjAiLardeKr1yCsDiDaME5Y4",
+      "PER": ".00083998348058678034"
+    },
+    "f85d969512b3394e3c613af468d1d18a": {
+      "DC": "10523.4021156464",
+      "GRC": "RxQscW1tGCgcLBwASk1FS5VByijQDmzEHY",
+      "PER": ".00125503507499609930"
+    },
+    "fa38429db311af8bf029180ed58cfd14": {
+      "DC": "4149.84323444590",
+      "GRC": "S9S5NF12rqwZKznGhwxVHsqva6sNPBiVvw",
+      "PER": ".00049491587964896006"
+    },
+    "fb411d4675c1a0360e132df8d41c6046": {
+      "DC": "7415.9013755704",
+      "GRC": "SFpzuEx9qLGbdkS3NgntkU9NQsRNR4YTBM",
+      "PER": ".00088443036166170270"
+    },
+    "fbafd481fda92df08cc3f2e2515778ec": {
+      "DC": "4034.5391997987",
+      "GRC": "SLoRDYKdT5fpCGP7MJTdPHHm9yXQz5Uky6",
+      "PER": ".00048116456556055865"
+    },
+    "fbb39e73dcda2b7b5e13410b86b789f8": {
+      "DC": "2632.0228632736",
+      "GRC": "S4w9bAWzdX4AF4xUWSPpXrCT3cBe19SG8s",
+      "PER": ".00031389858292012312"
+    },
+    "fd218494f0ee4ee3dc880eeb84ddc586": {
+      "DC": "11489.0403492093",
+      "GRC": "SJ76A1K2jwPzZuifQvVf7fEJNL9y5RxzFp",
+      "PER": ".00137019838811104943"
+    },
+    "fd8bf94446105ffa781c54414e287dc6": {
+      "DC": "9226.3887989451444",
+      "GRC": "Rxh5mdqDZnEEo4hCa4MtHHeSvALACp4Rs4",
+      "PER": ".00110035152424810886"
+    },
+    "fdc4e9c8c0ae77b5efac53572bd06fb6": {
+      "DC": "2345.99545751342",
+      "GRC": "S76o33vzAqHDEXKxnx1TK9GAcTRbdR2Y9Y",
+      "PER": ".00027978657021793463"
+    },
+    "fdc7e04c70a57f8963fb823f619e8964": {
+      "DC": "1216.78784349080",
+      "GRC": "SKNLgpKfQdCERZCr4WfJ6Pk7ETDdKimGko",
+      "PER": ".00014511575302622704"
+    },
+    "fe43ab277aa6e250ec69786f49228feb": {
+      "DC": "23544.9820913128",
+      "GRC": "SLnuYnNvQ4fNWgE8fgCE35J1iKjWVm39is",
+      "PER": ".00280800619799726048"
+    },
+    "feb61fcd66f07a1b4b6348182cd46806": {
+      "DC": "6373.1550686876",
+      "GRC": "SJjxT9MGnL4Prcyihgm5WR6ZMSGPQNSbnv",
+      "PER": ".00076007103612430974"
+    }
+  }
+]
